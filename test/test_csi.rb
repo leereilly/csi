@@ -1,11 +1,15 @@
 require 'helper'
 
 class TestCsi < Test::Unit::TestCase
-  should "find a sic classification" do
-    assert_equal CSI::lookup_sic(1), 1
+  should "find a NAICS classification for 1123" do
+    assert_equal CSI::lookup_naics(1123), 'Poultry and Egg Production'
   end
 
-  should "find a naics classification" do
-    assert_equal CSI::lookup_naics(2), 2
+  should "non find a NAICS classification for 0000" do
+    assert_equal CSI::lookup_naics(0000), nil
+  end
+
+  should "not find a NAICS classification for nil" do
+    assert_equal CSI::lookup_naics(nil), nil
   end
 end
