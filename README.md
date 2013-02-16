@@ -1,4 +1,6 @@
-![Classification of Standard Industry ](http://i.imgur.com/x1FGZDQ.png)
+![Classification of Standard Industry](http://i.imgur.com/x1FGZDQ.png)
+
+The North American Industry Classification System (NAICS) is used by business and government to classify business establishments according to type of economic activity (process of production) in Canada, Mexico and the United States. It has largely replaced the older Standard Industrial Classification (SIC) system; however, certain government departments and agencies, such as the U.S. Securities and Exchange Commission (SEC), still use the SIC codes. CSI helps you look those codes up.
 
 # Usage
 
@@ -14,17 +16,6 @@ csi::lookup_naics 62
 
 csi::lookup_sic 6021
 # => National Commercial Banks
-```
-
-# Bugs
-
-# License
-
-# Reference
-
-```
-SIC   = Standard Industrial Classification
-NAICS = North American Industry Classification System
 ```
 
 # Contributing
