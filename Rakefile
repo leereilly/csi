@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/leereilly/csi"
   gem.license = "MIT"
   gem.summary = %Q{Classification of Standard Industries}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.description = %Q{Resource for looking up NAICS and SIC codes}
   gem.email = "lee@leereilly.net"
   gem.authors = ["Lee Reilly"]
   # dependencies defined in Gemfile

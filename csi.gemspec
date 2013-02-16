@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lee Reilly"]
   s.date = "2013-02-16"
-  s.description = "TODO: longer description of your gem"
+  s.description = "Resource for looking up NAICS and SIC codes"
   s.email = "lee@leereilly.net"
   s.extra_rdoc_files = [
     "LICENSE.txt",
