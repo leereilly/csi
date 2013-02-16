@@ -5,16 +5,16 @@ The North American Industry Classification System (NAICS) is used by business an
 # Usage
 
 ```ruby
-csi::lookup_naics 336992
+CSI::lookup_naics 336992
 # => Military Armored Vehicle, Tank, and Tank Component Manufacturing
 
-csi::lookup_naics 611310
+CSI::lookup_naics 611310
 # => Colleges, Universities, and Professional Schools
 
-csi::lookup_naics 62
+CSI::lookup_naics 62
 # => Health Care and Social Assistance
 
-csi::lookup_sic 6021
+CSI::lookup_sic 6021
 # => National Commercial Banks
 ```
 
