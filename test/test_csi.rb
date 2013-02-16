@@ -1,7 +1,7 @@
 require 'helper'
 
 class TestCsi < Test::Unit::TestCase
-  should "probably rename this file and start testing for real" do
-    flunk "hey buddy, you should probably rename this file and start testing for real"
+  should "find a sic classification" do
+    assert_equal csi::lookup_sic 1, 1
   end
 end
