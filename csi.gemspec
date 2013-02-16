@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "csi.gemspec",
     "lib/csi.rb",
     "lib/data/naics/2012/11",
     "lib/data/naics/2012/111",
