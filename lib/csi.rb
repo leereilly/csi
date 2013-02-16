@@ -1,9 +1,9 @@
-class csi
-  def self.lookup_sci
+class CSI
+  def self.lookup_sic(code)
     1
   end
 
-  def self.lookup_naics
+  def self.lookup_naics(code)
     2
   end
 end
