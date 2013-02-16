@@ -3,8 +3,14 @@
 # Usage
 
 ```ruby
-csi::lookup_naics 111211
-# => Potato Farming
+csi::lookup_naics 336992
+# => Military Armored Vehicle, Tank, and Tank Component Manufacturing
+
+csi::lookup_naics 611310
+# => Colleges, Universities, and Professional Schools
+
+csi::lookup_naics 62
+# => Health Care and Social Assistance
 
 csi::lookup_sic 6021
 # => National Commercial Banks
