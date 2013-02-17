@@ -87,4 +87,4 @@ All codes and classifications obtained via http://www.census.gov, so you know it
 
 ## Copyright
 
-Copyright (c) 2013 Lee Reilly. See LICENSE.txt for further details.
+Copyright (c) 2013 Lee Reilly. See LICENSE.md for further details.
