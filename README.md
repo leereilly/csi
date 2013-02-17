@@ -5,7 +5,7 @@ The North American Industry Classification System (NAICS) is used by business an
 # Installation
 
 ```
-gem install rails
+gem install csi
 ```
 
 Or add this to your `Gemfile`:
