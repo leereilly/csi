@@ -94,3 +94,9 @@ NAICS is a system that assigns a two-digit numerical code to each industry and 3
 # Copyright
 
 Copyright (c) 2013 Lee Reilly. See LICENSE.txt for further details.
+
+----
+
+# Data Sources
+
+All codes and classifications obtained via http://www.census.gov, so you know it's legit :metal:
