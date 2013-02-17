@@ -2,6 +2,14 @@
 
 The North American Industry Classification System (NAICS) is used by business and government to classify business establishments according to type of economic activity (process of production) in Canada, Mexico and the United States. It has largely replaced the older Standard Industrial Classification (SIC) system; however, certain government departments and agencies, such as the U.S. Securities and Exchange Commission (SEC), still use the SIC codes. CSI helps you look those codes up.
 
+# Installation
+
+`gem install rails`
+
+Or add this to your `Gemfile`:
+
+`gem 'csi', '~> 0.1.0'  `
+
 # Usage
 
 ```ruby
