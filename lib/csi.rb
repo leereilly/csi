@@ -24,8 +24,10 @@ class CSI
   # Returns a String value for the resquested classification, or nil if not
   # found.
   def self.lookup_code(type, year, code)
+    raise TypeError, 'Integer required' unless code.is_a? Integer
+
     begin
-      file = File.open("#{File.expand_path(__FILE__+'/..')}/data/#{type}/#{year}/#{code}", "rb")
+      file = File.open("#{File.expand_path(__FILE__+'/..')}/data/#{type}/#{year}/#{code.to_i}", "rb")
       contents = file.read
       contents.strip!
     rescue
