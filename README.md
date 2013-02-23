@@ -4,6 +4,10 @@ The North American Industry Classification System (NAICS) is used by business an
 
 # Installation
 
+This is a Ruby gem, so you'll need a little Ruby-fu to get it working. If you're not familiar with Ruby, there are CSV copies of the data sets available too that you can load into a spreadsheet, database or parse in your favorite programming language.
+
+#### For Rubyists:
+
 ```
 gem install csi
 ```
@@ -13,6 +17,11 @@ Or add this to your `Gemfile`:
 ```
 gem 'csi', '~> 0.1.0'
 ```
+
+#### For everyone else:
+
+* [SIC codes in CSV formats](lib/data/naics-sic-lookup-2012.csv)
+* [NAICS codes in CSV format](ib/data/naics-code-lookup-2012.csv)
 
 # Usage
 
