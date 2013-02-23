@@ -20,8 +20,8 @@ gem 'csi', '~> 0.1.0'
 
 #### For everyone else:
 
-* [SIC codes in CSV formats](lib/data/naics-sic-lookup-2012.csv)
-* [NAICS codes in CSV format](ib/data/naics-code-lookup-2012.csv)
+* [SIC codes in CSV format](lib/data/sic-lookup-2000.csv)
+* [NAICS codes in CSV format](lib/data/naics-code-lookup-2012.csv)
 
 # Usage
 
