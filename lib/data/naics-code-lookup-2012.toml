@@ -1749,7 +1749,10 @@
   name = "Gypsum Product Manufacturing"
 [codes]
   [codes.327420]
-  name = "Gypsum Product Manufacturing3279 Other Nonmetallic Mineral Product Manufacturing"
+  name = "Gypsum Product Manufacturing"
+[codes]
+  [codes.3279]
+  name = "Other Nonmetallic Mineral Product Manufacturing"
 [codes]
   [codes.32791]
   name = "Abrasive Product Manufacturing"
