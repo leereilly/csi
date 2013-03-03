@@ -1,3 +1,3 @@
-code = 236115
+code = "236115"
 name = "New Single-Family Housing Construction (except For-Sale Builders)"
 sic_correlations = ["1521", "8741"]

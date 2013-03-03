@@ -1,3 +1,3 @@
-code = 531120
+code = "531120"
 name = "Lessors of Nonresidential Buildings (except Miniwarehouses)"
 sic_correlations = ["6512"]

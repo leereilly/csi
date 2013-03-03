@@ -1,3 +1,3 @@
-code = 522120
+code = "522120"
 name = "Savings Institutions"
 sic_correlations = ["6035", "6036"]

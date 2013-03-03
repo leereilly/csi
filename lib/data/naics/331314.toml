@@ -1,3 +1,3 @@
-code = 331314
+code = "331314"
 name = "Secondary Smelting and Alloying of Aluminum"
 sic_correlations = ["3399", "3341"]

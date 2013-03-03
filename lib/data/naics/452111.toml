@@ -1,3 +1,3 @@
-code = 452111
+code = "452111"
 name = "Department Stores (except Discount Department Stores)"
 sic_correlations = ["5311"]
