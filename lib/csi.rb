@@ -8,7 +8,6 @@ module CSI
     #
     # Returns a CSI::NAICSRecord if found; nil otherwise.
     def naics(code)
-      return nil unless File.exists? File.expand_path(__FILE__+"/../data/naics/#{code}.toml")
       naics_record = CSI::Record.new('NAICS', code)
     end
 
@@ -16,7 +15,6 @@ module CSI
     #
     # Returns a CSI::SICRecord if found; nil otherwise.
     def sic(code)
-      return nil unless File.exists? File.expand_path(__FILE__+"/../data/sic/#{code}.toml")
       sic_record = CSI::Record.new('SIC', code)
     end
   end
