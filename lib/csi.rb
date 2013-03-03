@@ -1,6 +1,6 @@
 require 'toml'
-require 'record'
-require 'errors'
+require 'csi/record'
+require 'csi/errors'
 
 module CSI
   class << self

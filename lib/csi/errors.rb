@@ -34,7 +34,7 @@ module CSI
   #   CSI::Record.new('SIC', "1337")
   #   # => CSI::ClassificationInvalid
   #
-  # class ClassificationInvalid < Error
-  # end
+  class ClassificationInvalid < Error
+  end
 
 end
