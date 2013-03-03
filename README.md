@@ -4,7 +4,7 @@ The North American Industry Classification System (NAICS) is used by business an
 
 # Installation
 
-This is a Ruby gem, so you'll need a little Ruby-fu to get it working. If you're not familiar with Ruby, there are CSV copies of the data sets available too that you can load into a spreadsheet, database or parse in your favorite programming language.
+This is a Ruby gem, so you'll need a little Ruby-fu to get it working. If you're not familiar with Ruby, there are CSV copies of the data sets available too that you can load into a spreadsheet, database or parse in your favorite programming language. There's also a TOML file with all of the codes, classifications and correlations :neckbeard:.
 
 #### For Rubyists:
 
@@ -20,8 +20,9 @@ gem 'csi', '~> 0.1.0'
 
 #### For everyone else:
 
-* SIC codes in [CSV](lib/data/sic/sic-lookup.csv)
+* All NAICS and SIC codes, classifications, and correlations in [TOML](lib/data/master.toml)
 * NAICS codes in [CSV](lib/data/naics/naics-lookup.csv)
+* SIC codes in [CSV](lib/data/sic/sic-lookup.csv)
 
 # Usage
 
@@ -50,7 +51,7 @@ CSI::sic("91")
 
 You can also lookup correlating SIC codes for NAICS codes and vice-versa!
 
-```
+```ruby
 naics_record = CSI::naics("928110")
 # => <CSI::Record:0x007fb3c5fdbb98]
 
@@ -67,11 +68,9 @@ correlating_sic_record.name
 # => "National Security"
 ```
 
-:boom:
-
 ### NAICS & SIC Overview
 
-Explaining NAICS and SIC is outside the scope of this README, but you'll find an extremely brief overview below. For more information you can check out the [SIC page](http://en.wikipedia.org/wiki/Standard_Industrial_Classification) and [NAICS](http://en.wikipedia.org/wiki/North_American_Industry_Classification_System) page on Wikipeda.
+Explaining NAICS and SIC is outside the scope of this README, but you'll find an extremely brief overview below. For more information you can check out the [SIC page](http://en.wikipedia.org/wiki/Standard_Industrial_Classification) and [NAICS page](http://en.wikipedia.org/wiki/North_American_Industry_Classification_System) on Wikipeda.
 
 <table>
    <tr>
@@ -106,7 +105,7 @@ Explaining NAICS and SIC is outside the scope of this README, but you'll find an
    </tr>
 </table>
 
-The larger the coode, the more specific the industry. Here's an NAICS example:
+The larger the coode, the more specific the industry. Here's a NAICS example:
 
 <table>
   <tr>
@@ -137,8 +136,10 @@ The larger the coode, the more specific the industry. Here's an NAICS example:
 
 ## Data Sources
 
-All codes and classifications obtained via http://www.census.gov, so you know it's legit :metal:
+All codes and classifications obtained via http://www.census.gov, so you know it's legit.
 
 ## Copyright
 
 Copyright (c) 2013 Lee Reilly. See LICENSE.md for further details.
+
+Many Bothans died to bring you this information.
