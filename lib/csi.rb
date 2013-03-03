@@ -1,3 +1,5 @@
+require 'toml'
+
 class CSI
 
   CURRENT_SIC_YEAR   = 2000 # last accurate data set for SIC codes
@@ -24,14 +26,6 @@ class CSI
   # Returns a String value for the resquested classification, or nil if not
   # found.
   def self.lookup_code(type, year, code)
-    raise TypeError, 'Integer required' unless code.is_a? Integer
-
-    begin
-      file = File.open("#{File.expand_path(__FILE__+'/..')}/data/#{type}/#{year}/#{code.to_i}", "rb")
-      contents = file.read
-      contents.strip!
-    rescue
-      nil
-    end
+    TOML.load_file("#{File.expand_path(__FILE__+'/..')}/data/#{type}/#{year}/#{code.to_i}.toml")["name"]
   end
 end
