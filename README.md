@@ -4,7 +4,7 @@ The North American Industry Classification System (NAICS) is used by business an
 
 # Installation
 
-This is a Ruby gem, so you'll need a little Ruby-fu to get it working. If you're not familiar with Ruby, there are CSV copies of the data sets available too that you can load into a spreadsheet, database or parse in your favorite programming language. There's also a TOML file with all of the codes, classifications and correlations :neckbeard:.
+This is a Ruby gem, so you'll need a little Ruby-fu to get it working. If you're not familiar with Ruby, there are CSV and TOML data sets available too that you can load into a spreadsheet, database or parse in your favorite programming language.
 
 #### For Rubyists:
 
@@ -21,8 +21,8 @@ gem 'csi', '~> 0.1.0'
 #### For everyone else:
 
 * All NAICS and SIC codes, classifications, and correlations in [TOML](lib/data/master.toml)
-* NAICS codes in [CSV](lib/data/naics/naics-lookup.csv)
-* SIC codes in [CSV](lib/data/sic/sic-lookup.csv)
+* NAICS codes and classifications in [CSV](lib/data/naics/naics-lookup.csv)
+* SIC codes and clasifications in [CSV](lib/data/sic/sic-lookup.csv)
 
 # Usage
 
