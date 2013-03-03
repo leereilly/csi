@@ -25,7 +25,7 @@ gem 'csi', '~> 0.1.0'
 
 # Usage
 
-There's built-in support for 2-6 digits NAICS codes and 2-4 digit SIC codes, so you can look them up like this:
+You can look up 2-6 digits NAICS codes and 2-4 digit SIC codes. **Pleaes note:** If you *ever* cast the String codes to Integers, you're gonna have a bad time. SIC code 011 is `011` as a String and `11` as an Integer. The more you know :dizzy:
 
 ```ruby
 
@@ -35,23 +35,39 @@ naics_record = CSI::naics "928110"
 naics_record.name
 # => "National Security"
 
-naics_record.correlations
-# => "["9711"]" # correlating SIC codes
-
-CSI::sic naics_record.correlations.first
-# => <CSI::Record:0x007fd0bd9a4fd0>
-
 CSI::naics("336992").name
 # => Military Armored Vehicle, Tank, and Tank Component Manufacturing
 
 CSI::naics("611310").name
 # => Colleges, Universities, and Professional Schools
 
-CSI::lookup_sic 8211
+CSI::sic("8211").name
 # => Elementary and Secondary Schools
+
+CSI::sic("91")
+# => "Executive, Legislative, and General Government, except Finance"
 ```
 
-**Pleaes note:** If you *ever* cast the String codes to Integers, you're gonna have a bad time. SIC code 011 is `011` as a String and `11` as an Integer. The more you know :dizzy:
+You can also lookup correlating SIC codes for NAICS codes and vice-versa!
+
+```
+naics_record = CSI::naics("928110")
+# => <CSI::Record:0x007fb3c5fdbb98]
+
+naics_record.name
+# => "National Security"
+
+naics_record.correlations
+# => "["9711"]"
+
+correlating_sic_record = CSI::sic naics_record.correlations.first
+# => <CSI::Record:0x007fd0bd9a4fd0>
+
+correlating_sic_record.name
+# => "National Security"
+```
+
+:boom:
 
 ### NAICS & SIC Overview
 
@@ -90,13 +106,32 @@ CSI::lookup_sic 8211
 
 NAICS is a system that assigns a two-digit numerical code to each industry and 3 to 6 digits to each industry sub-sector.  The larger the number, the more specific the industry. For example:
 
-```
-48-49   Transportation & Warehousing (over arching industry and sub-sectors)
-481     Air transportation
-4812    Nonscheduled air transportation
-48121   Nonscheduled air transportation
-481212  Nonscheduled chartered freight air transportation
-```
+<table>
+  <tr>
+    <th>Code</th>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>Transportation & Warehousing (over arching industry and sub-sectors)</td>
+  </tr>
+  <tr>
+    <td>481</td>
+    <td>Air transportation</td>
+  </tr>
+  <tr>
+    <td>4812</td>
+    <td>Nonscheduled air transportation</td>
+  </tr>
+  <tr>
+    <td>48121</td>
+    <td>Nonscheduled air transportation</td>
+  </tr>
+  <tr>
+    <td>481212</td>
+    <td>Nonscheduled chartered freight air transportation</td>
+  </tr>
+</table>
 
 ## Data Sources
 
