@@ -20,8 +20,8 @@ gem 'csi', '~> 0.1.0'
 
 #### For everyone else:
 
-* SIC codes in [CSV](lib/data/sic/sic-code-lookup-2000.csv) or :cool::new: [TOML](lib/data/sic/sic-code-lookup-2000.toml)
-* NAICS codes in [CSV](lib/data/naics/naics-code-lookup-2012.csv) or :cool::new: [TOML](lib/data/naics/naics-code-lookup-2012.toml)
+* SIC codes in [CSV](lib/data/sic/sic-code-lookup-2000.csv) or [TOML](lib/data/sic/sic-code-lookup-2000.toml)
+* NAICS codes in [CSV](lib/data/naics/naics-code-lookup-2012.csv) or [TOML](lib/data/naics/naics-code-lookup-2012.toml)
 
 # Usage
 
