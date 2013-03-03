@@ -22,7 +22,7 @@ class TestCsi < Test::Unit::TestCase
   end
 
   should "find a SIC classification for 8041" do
-    assert_equal CSI::lookup_sic(8041), 'Offices And Clinics Of Chiropractors'
+    assert_equal CSI::lookup_sic(8041), 'Offices and Clinics of Chiropractors'
   end
 
   should "not find a SIC classification for 0000" do
