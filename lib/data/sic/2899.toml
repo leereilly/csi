@@ -1,0 +1,3 @@
+code = 2899
+name = "Chemicals and Chemical Preparations, Not Elsewhere Classified"
+naics_correlations = ["325998", "325199", "325510", "311942"]

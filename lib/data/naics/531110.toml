@@ -1,0 +1,3 @@
+code = 531110
+name = "Lessors of Residential Buildings and Dwellings"
+sic_correlations = ["6513", "6514", "6531", "6798"]

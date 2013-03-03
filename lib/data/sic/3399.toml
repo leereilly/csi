@@ -1,0 +1,3 @@
+code = 3399
+name = "Primary Metal Products, Not Elsewhere Classified"
+naics_correlations = ["331314", "331423", "331221", "331111", "332813", "332618", "331492"]

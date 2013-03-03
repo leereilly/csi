@@ -1,0 +1,3 @@
+code = 5012
+name = "Automobiles and Other Motor Vehicles"
+naics_correlations = ["425120", "425110", "423110"]

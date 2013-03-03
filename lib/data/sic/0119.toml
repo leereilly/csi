@@ -1,0 +1,3 @@
+code = 0119
+name = "Cash Grains, Not Elsewhere Classified"
+naics_correlations = ["111130", "111199", "111191", "111120", "111150"]

@@ -1,0 +1,3 @@
+code = 3639
+name = "Household Appliances, Not Elsewhere Classified"
+naics_correlations = ["335228", "335212", "333298"]

@@ -1,0 +1,3 @@
+code = 6153
+name = "Short-term Business Credit Institutions, except Agricultural"
+naics_correlations = ["522298", "522220", "522210", "522320", "523910"]

@@ -1,0 +1,3 @@
+code = 5099
+name = "Durable Goods, Not Elsewhere Classified"
+naics_correlations = ["425120", "451110", "425110", "451120", "444190", "423990", "451220"]

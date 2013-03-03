@@ -1,0 +1,3 @@
+code = 6099
+name = "Functions Related To Depository Banking, Not Elsewhere Classified"
+naics_correlations = ["523991", "523130", "522320", "522390"]

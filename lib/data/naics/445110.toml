@@ -1,0 +1,3 @@
+code = 445110
+name = "Supermarkets and Other Grocery (except Convenience) Stores"
+sic_correlations = ["5141", "5411"]

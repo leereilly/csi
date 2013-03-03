@@ -1,0 +1,3 @@
+code = 6799
+name = "Investors, Not Elsewhere Classified"
+naics_correlations = ["523920", "523130", "523910"]

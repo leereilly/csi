@@ -1,0 +1,3 @@
+code = 8249
+name = "Vocational Schools, Not Elsewhere Classified"
+naics_correlations = ["611512", "611519", "611513"]

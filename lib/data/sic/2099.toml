@@ -1,0 +1,3 @@
+code = 2099
+name = "Food Preparations, Not Elsewhere Classified"
+naics_correlations = ["311423", "311823", "311999", "311340", "311911", "311991", "111998", "311212", "311942", "311920", "311830", "311941"]

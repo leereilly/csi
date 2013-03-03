@@ -1,0 +1,3 @@
+code = 2611
+name = "Pulp Mills"
+naics_correlations = ["322122", "322121", "322130", "322110"]

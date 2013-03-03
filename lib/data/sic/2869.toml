@@ -1,0 +1,3 @@
+code = 2869
+name = "Industrial Organic Chemicals, Not Elsewhere Classified"
+naics_correlations = ["325110", "325188", "325192", "325193", "325199", "325120", "325998"]

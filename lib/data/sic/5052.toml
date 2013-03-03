@@ -1,0 +1,3 @@
+code = 5052
+name = "Coal and Other Minerals and Ores"
+naics_correlations = ["425120", "425110", "423520"]

@@ -1,0 +1,3 @@
+code = 5154
+name = "Livestock"
+naics_correlations = ["425120", "425110", "424520"]

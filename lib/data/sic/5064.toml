@@ -1,0 +1,3 @@
+code = 5064
+name = "Electrical Appliances, Television and Radio Sets"
+naics_correlations = ["425120", "425110", "444190", "443111", "423620", "443112"]

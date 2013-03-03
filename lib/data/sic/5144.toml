@@ -1,0 +1,3 @@
+code = 5144
+name = "Poultry and Poultry Products"
+naics_correlations = ["425120", "425110", "424440", "445210"]

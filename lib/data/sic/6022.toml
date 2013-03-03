@@ -1,0 +1,3 @@
+code = 6022
+name = "State Commercial Banks"
+naics_correlations = ["522110", "522210", "522190"]

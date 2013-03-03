@@ -1,0 +1,3 @@
+code = 5047
+name = "Medical, Dental, and Hospital Equipment and Supplies"
+naics_correlations = ["425120", "425110", "423450", "446199"]

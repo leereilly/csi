@@ -1,0 +1,3 @@
+code = 5039
+name = "Construction Materials, Not Elsewhere Classified"
+naics_correlations = ["425120", "425110", "444190", "423390", "423310"]

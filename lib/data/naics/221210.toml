@@ -1,0 +1,3 @@
+code = 221210
+name = "Natural Gas Distribution"
+sic_correlations = ["4939", "4931", "4932", "4925", "4924", "4923"]

@@ -1,0 +1,3 @@
+code = 7359
+name = "Equipment Rental and Leasing, Not Elsewhere Classified"
+naics_correlations = ["532411", "532210", "532299", "532310", "532490", "532420", "532412", "562991"]

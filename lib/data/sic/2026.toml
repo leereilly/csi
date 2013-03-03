@@ -1,0 +1,3 @@
+code = 2026
+name = "Fluid Milk"
+naics_correlations = ["311511", "311514"]

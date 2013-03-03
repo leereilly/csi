@@ -1,0 +1,3 @@
+code = 3089
+name = "Plastics Products, Not Elsewhere Classified"
+naics_correlations = ["326199", "337215", "339113", "326122", "326121"]

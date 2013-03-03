@@ -1,0 +1,3 @@
+code = 212210
+name = "Iron Ore Mining"
+sic_correlations = ["1011"]

@@ -1,0 +1,3 @@
+code = 8069
+name = "Specialty Hospitals, except Psychiatric"
+naics_correlations = ["622110", "622310", "622210"]

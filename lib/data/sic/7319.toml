@@ -1,0 +1,3 @@
+code = 7319
+name = "Advertising, Not Elsewhere Classified"
+naics_correlations = ["541870", "541850", "541890", "541830", "481219"]

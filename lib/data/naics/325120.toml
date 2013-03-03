@@ -1,0 +1,3 @@
+code = 325120
+name = "Industrial Gas Manufacturing"
+sic_correlations = ["2813", "2869"]

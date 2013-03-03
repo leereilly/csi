@@ -1,0 +1,3 @@
+code = 5961
+name = "Catalog and Mail-order Houses"
+naics_correlations = ["454112", "454111", "454113"]

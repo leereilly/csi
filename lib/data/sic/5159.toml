@@ -1,0 +1,3 @@
+code = 5159
+name = "Farm-product Raw Materials, Not Elsewhere Classified"
+naics_correlations = ["425120", "425110", "444220", "424590"]

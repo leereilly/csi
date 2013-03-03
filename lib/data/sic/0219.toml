@@ -1,0 +1,3 @@
+code = 0219
+name = "General Livestock, except Dairy and Poultry"
+naics_correlations = ["112990"]

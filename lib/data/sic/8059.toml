@@ -1,0 +1,3 @@
+code = 8059
+name = "Nursing and Personal Care Facilities, Not Elsewhere Classified"
+naics_correlations = ["623311", "623110", "623210"]

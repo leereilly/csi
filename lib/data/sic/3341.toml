@@ -1,0 +1,3 @@
+code = 3341
+name = "Secondary Smelting and Refining of Nonferrous Metals"
+naics_correlations = ["331314", "331423", "331492"]

@@ -1,0 +1,3 @@
+code = 8011
+name = "Offices and Clinics of Doctors of Medicine"
+naics_correlations = ["621493", "621111", "621491", "621112"]

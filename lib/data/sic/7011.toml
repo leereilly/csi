@@ -1,0 +1,3 @@
+code = 7011
+name = "Hotels and Motels"
+naics_correlations = ["721191", "721120", "721199", "721110"]

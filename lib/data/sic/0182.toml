@@ -1,0 +1,3 @@
+code = 0182
+name = "Food Crops Grown Under Cover"
+naics_correlations = ["111419", "111411"]

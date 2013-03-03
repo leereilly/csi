@@ -1,0 +1,3 @@
+code = 5072
+name = "Hardware"
+naics_correlations = ["425120", "425110", "444130", "423710"]

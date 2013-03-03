@@ -1,0 +1,3 @@
+code = 5112
+name = "Stationery and Office Supplies"
+naics_correlations = ["425120", "425110", "424120", "453210"]

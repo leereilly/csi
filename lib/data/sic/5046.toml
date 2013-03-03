@@ -1,0 +1,3 @@
+code = 5046
+name = "Commercial Equipment, Not Elsewhere Classified"
+naics_correlations = ["425120", "425110", "423440"]

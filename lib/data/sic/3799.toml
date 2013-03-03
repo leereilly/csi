@@ -1,0 +1,3 @@
+code = 3799
+name = "Transportation Equipment, Not Elsewhere Classified"
+naics_correlations = ["336214", "336999", "336399", "333924"]

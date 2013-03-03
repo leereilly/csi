@@ -1,0 +1,3 @@
+code = 522293
+name = "International Trade Financing"
+sic_correlations = ["6081", "6111", "6082", "6159"]

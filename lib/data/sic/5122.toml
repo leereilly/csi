@@ -1,0 +1,3 @@
+code = 5122
+name = "Drugs, Drug Proprietaries, and Druggists' Sundries"
+naics_correlations = ["446191", "425120", "425110", "446120", "446110", "424210"]

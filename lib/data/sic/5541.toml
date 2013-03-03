@@ -1,0 +1,3 @@
+code = 5541
+name = "Gasoline Service Stations"
+naics_correlations = ["447110", "447190"]

@@ -1,0 +1,3 @@
+code = 5169
+name = "Chemicals and Allied Products, Not Elsewhere Classified"
+naics_correlations = ["425120", "425110", "424690"]

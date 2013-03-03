@@ -1,0 +1,3 @@
+code = 8322
+name = "Individual and Family Social Services"
+naics_correlations = ["624210", "624110", "624230", "624190", "922150", "624229", "624120", "624221"]

@@ -1,0 +1,3 @@
+code = 7622
+name = "Radio and Television Repair Shops"
+naics_correlations = ["238290", "443112", "811211", "811213"]

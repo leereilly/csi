@@ -1,0 +1,3 @@
+code = 3523
+name = "Farm Machinery and Equipment"
+naics_correlations = ["332323", "333111", "333922", "332212"]

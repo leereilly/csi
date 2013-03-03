@@ -1,0 +1,3 @@
+code = 5142
+name = "Packaged Frozen Foods"
+naics_correlations = ["425120", "425110", "454390", "424420"]

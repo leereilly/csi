@@ -1,0 +1,3 @@
+code = 6282
+name = "Investment Advice"
+naics_correlations = ["523930", "523920"]

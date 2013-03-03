@@ -1,0 +1,3 @@
+code = 3721
+name = "Aircraft"
+naics_correlations = ["336411", "541712"]

@@ -1,0 +1,3 @@
+code = 6371
+name = "Pension, Health, and Welfare Funds"
+naics_correlations = ["524292", "525120", "523920", "525110", "525990"]

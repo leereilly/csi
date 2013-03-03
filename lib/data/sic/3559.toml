@@ -1,0 +1,3 @@
+code = 3559
+name = "Special Industry Machinery, Not Elsewhere Classified"
+naics_correlations = ["333319", "333111", "333298", "332410", "333220", "333295"]

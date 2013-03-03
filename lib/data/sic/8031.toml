@@ -1,0 +1,3 @@
+code = 8031
+name = "Offices and Clinics of Doctors of Osteopathy"
+naics_correlations = ["621111", "621112"]

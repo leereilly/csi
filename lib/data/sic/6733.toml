@@ -1,0 +1,3 @@
+code = 6733
+name = "Trusts, except Educational, Religious, and Charitable"
+naics_correlations = ["523991", "523920", "525920", "525190"]

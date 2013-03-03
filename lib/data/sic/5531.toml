@@ -1,0 +1,3 @@
+code = 5531
+name = "Auto and Home Supply Stores"
+naics_correlations = ["441310", "452990", "441320"]
