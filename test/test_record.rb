@@ -4,7 +4,6 @@ class TestCsiRecord < Test::Unit::TestCase
   should "should return a valid record based on a valid type and code combo" do
     record = CSI::Record.new("NAICS", "336992")
     assert_equal "Military Armored Vehicle, Tank, and Tank Component Manufacturing", record.name
-    puts record.inspect
   end
 
   should "not care about case in the type parameter" do

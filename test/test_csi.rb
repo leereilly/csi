@@ -5,14 +5,12 @@ class TestCsi < Test::Unit::TestCase
     naics_record = CSI::naics("928110")
     assert_equal "National Security", naics_record.name
     assert_equal ["9711"], naics_record.correlations
-    puts naics_record.inspect
   end
 
   should "find valid SIC records" do
     sic_record = CSI::sic("8211")
     assert_equal "Elementary and Secondary Schools", sic_record.name
     assert_equal ["611110"], sic_record.correlations
-    puts sic_record.inspect
   end
 
   should "find a record with multiple correlating records" do
