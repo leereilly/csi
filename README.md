@@ -51,7 +51,7 @@ CSI::lookup_sic 8211
 
 **Pleaes note:** If you *ever* cast the String codes to Integers, you're gonna have a bad time. SIC code 011 is `011` as a String and `11` as an Integer. The more you know :dizzy:
 
-# NAICS vs SIC
+### NAICS + SIC in a Nutshell :shipit:
 
 <table>
   <tbody>
