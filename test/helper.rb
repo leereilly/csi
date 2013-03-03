@@ -10,9 +10,18 @@ end
 require 'test/unit'
 require 'shoulda'
 
-$LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
-$LOAD_PATH.unshift(File.dirname(__FILE__))
-require 'csi'
-
 class Test::Unit::TestCase
+end
+
+unless defined? CSI
+  $:.unshift File.expand_path('../../lib', __FILE__)
+  require 'csi'
+end
+
+require 'minitest/autorun'
+
+class TestCase < MiniTest::Unit::TestCase
+  def self.test(name, &block)
+    define_method("test_#{name.gsub(/\W/, '_')}", &block) if block
+  end
 end

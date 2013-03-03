@@ -1,43 +1,28 @@
 require 'helper'
 
 class TestCsi < Test::Unit::TestCase
-  should "find a NAICS classification for 1123" do
-    assert_equal CSI::lookup_naics(1123), 'Poultry and Egg Production'
+  should "find valid NAICS records" do
+    naics_record = CSI::naics("928110")
+    assert_equal "National Security", naics_record.name
+    assert_equal ["9711"], naics_record.correlations
   end
 
-  should "not find a NAICS classification for 0000" do
-    assert_equal CSI::lookup_naics(0000), nil
+  should "find valid SIC records" do
+    sic_record = CSI::sic("8211")
+    assert_equal "Elementary and Secondary Schools", sic_record.name
+    assert_equal ["611110"], sic_record.correlations
   end
 
-  should "raise an error finding a NAICS classification for nil" do
-    assert_raise TypeError do
-      CSI::lookup_naics(nil)
-    end
+  should "find a record with multiple correlating records" do
+    naics_record = CSI::naics("111339")
+    assert_equal "Other Noncitrus Fruit Farming", naics_record.name
+    assert_equal ["0175", "0179"], naics_record.correlations
+
+    sic_record_1 = CSI::sic naics_record.correlations.first
+    sic_record_2 = CSI::sic naics_record.correlations.last
+    assert_equal "Deciduous Tree Fruits", sic_record_1.name
+    assert_equal "Fruits and Tree Nuts, Not Elsewhere Classified", sic_record_2.name
+    assert sic_record_1.correlations.include? naics_record.code
   end
 
-  should "raise an error finding a NAICS classification for strings" do
-    assert_raise TypeError do
-      CSI::lookup_naics("1123")
-    end
-  end
-
-  should "find a SIC classification for 8041" do
-    assert_equal CSI::lookup_sic(8041), 'Offices and Clinics of Chiropractors'
-  end
-
-  should "not find a SIC classification for 0000" do
-    assert_equal CSI::lookup_sic(0000), nil
-  end
-
-  should "raise an error finding a SIC classification for nil" do
-    assert_raise TypeError do
-      CSI::lookup_sic(nil)
-    end
-  end
-
-  should "raise an error finding a SIC classification for strings" do
-    assert_raise TypeError do
-      CSI::lookup_sic("8041")
-    end
-  end
 end

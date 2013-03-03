@@ -1,33 +1,23 @@
 require 'toml'
+require 'record'
+require 'errors'
 
-class CSI
-  # Lookup the SIC code.
-  #
-  # Returns a String value of the SIC classification, or nil if not found.
-  def self.lookup_sic(code)
-    lookup_code("sic", code)
-  end
+module CSI
+  class << self
+    # Fetch a NAICS Record based on the 2-6 digit code.
+    #
+    # Returns a CSI::NAICSRecord if found; nil otherwise.
+    def naics(code)
+      return nil unless File.exists? File.expand_path(__FILE__+"/../data/naics/#{code}.toml")
+      naics_record = CSI::Record.new('NAICS', code)
+    end
 
-  # Lookup the NAICS code.
-  #
-  # Returns a String value of the NAICS classification, or nil if not found.
-  def self.lookup_naics(code)
-    lookup_code("naics", code)
-  end
-
-  private
-
-  # Lookup the classification based on the type, year, and code.
-  #
-  # Returns a String value for the resquested classification, or nil if not
-  # found.
-  def self.lookup_code(type, code)
-    raise TypeError, 'Integer required' unless code.is_a? Integer
-
-    begin
-      TOML.load_file("#{File.expand_path(__FILE__+'/..')}/data/#{type}/#{code}.toml")["name"]
-    rescue
-      return nil
+    # Fetch a SIC Record based on the 2-4 digit code.
+    #
+    # Returns a CSI::SICRecord if found; nil otherwise.
+    def sic(code)
+      return nil unless File.exists? File.expand_path(__FILE__+"/../data/sic/#{code}.toml")
+      sic_record = CSI::Record.new('SIC', code)
     end
   end
 end
