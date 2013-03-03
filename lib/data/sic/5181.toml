@@ -1,3 +1,3 @@
-code = 5181
+code = "5181"
 name = "Beer and Ale"
 naics_correlations = ["425120", "445310", "425110", "424810"]

@@ -1,3 +1,3 @@
-code = 0112
+code = "0112"
 name = "Rice"
 naics_correlations = ["111160"]

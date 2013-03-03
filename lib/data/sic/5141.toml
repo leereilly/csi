@@ -1,3 +1,3 @@
-code = 5141
+code = "5141"
 name = "Groceries, General Line"
 naics_correlations = ["425120", "425110", "445110", "424410"]

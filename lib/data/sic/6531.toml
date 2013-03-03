@@ -1,3 +1,3 @@
-code = 6531
+code = "6531"
 name = "Real Estate Agents and Managers"
 naics_correlations = ["531210", "531320", "812220", "813990", "531390", "531312", "531110", "531311"]

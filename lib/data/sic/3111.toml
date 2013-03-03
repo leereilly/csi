@@ -1,3 +1,3 @@
-code = 3111
+code = "3111"
 name = "Leather Tanning and Finishing"
 naics_correlations = ["316110"]

@@ -1,3 +1,3 @@
-code = 3272
+code = "3272"
 name = "Concrete Products, except Block and Brick"
 naics_correlations = ["327332", "327390", "327999"]

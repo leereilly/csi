@@ -1,3 +1,3 @@
-code = 6311
+code = "6311"
 name = "Life Insurance"
 naics_correlations = ["524128", "524113", "524130"]

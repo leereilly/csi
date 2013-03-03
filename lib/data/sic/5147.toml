@@ -1,3 +1,3 @@
-code = 5147
+code = "5147"
 name = "Meats and Meat Products"
 naics_correlations = ["445210", "425120", "311612", "425110", "424470"]

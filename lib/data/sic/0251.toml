@@ -1,3 +1,3 @@
-code = 0251
+code = "0251"
 name = "Broiler, Fryer, and Roaster Chickens"
 naics_correlations = ["112320"]

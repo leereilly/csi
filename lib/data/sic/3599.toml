@@ -1,3 +1,3 @@
-code = 3599
+code = "3599"
 name = "Industrial and Commercial Machinery and Equipment, Not Elsewhere"
 naics_correlations = ["333319", "332999", "336399", "332813", "332710", "333999", "334519"]

@@ -1,3 +1,3 @@
-code = 6411
+code = "6411"
 name = "Insurance Agents, Brokers, and Service"
 naics_correlations = ["524298", "524210", "524291", "524292"]

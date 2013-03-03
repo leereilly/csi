@@ -1,3 +1,3 @@
-code = 8611
+code = "8611"
 name = "Business Associations"
 naics_correlations = ["813910"]

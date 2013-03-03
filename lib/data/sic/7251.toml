@@ -1,3 +1,3 @@
-code = 7251
+code = "7251"
 name = "Shoe Repair Shops and Shoeshine Parlors"
 naics_correlations = ["812320", "811430", "812990"]

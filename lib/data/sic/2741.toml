@@ -1,3 +1,3 @@
-code = 2741
+code = "2741"
 name = "Miscellaneous Publishing"
 naics_correlations = ["511140", "511199", "519130", "512230", "511120", "511130"]

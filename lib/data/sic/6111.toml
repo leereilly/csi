@@ -1,3 +1,3 @@
-code = 6111
+code = "6111"
 name = "Federal and Federally-sponsored Credit Agencies"
 naics_correlations = ["522294", "522298", "522292", "522293"]

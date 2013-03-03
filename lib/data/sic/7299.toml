@@ -1,3 +1,3 @@
-code = 7299
+code = "7299"
 name = "Miscellaneous Personal Services, Not Elsewhere Classified"
 naics_correlations = ["561311", "561990", "541990", "812191", "812990", "532220", "812199", "812930"]

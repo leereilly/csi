@@ -1,3 +1,3 @@
-code = 5078
+code = "5078"
 name = "Refrigeration Equipment and Supplies"
 naics_correlations = ["425120", "425110", "423740"]

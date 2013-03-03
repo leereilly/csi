@@ -1,3 +1,3 @@
-code = 2299
+code = "2299"
 name = "Textile Goods, Not Elsewhere Classified"
 naics_correlations = ["313210", "313312", "313111", "314999", "313113", "313221", "313230", "313111"]

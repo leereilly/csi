@@ -1,3 +1,3 @@
-code = 5065
+code = "5065"
 name = "Electronic Parts and Equipment, Not Elsewhere Classified"
 naics_correlations = ["425120", "443112", "425110", "423690", "443120"]

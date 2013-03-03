@@ -1,3 +1,3 @@
-code = 4499
+code = "4499"
 name = "Water Transportation Services, Not Elsewhere Classified"
 naics_correlations = ["488390", "532411", "483211", "488310", "541990", "488330"]

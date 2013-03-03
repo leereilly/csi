@@ -1,3 +1,3 @@
-code = 8699
+code = "8699"
 name = "Membership Organizations, Not Elsewhere Classified"
 naics_correlations = ["813990", "813410", "813910", "813312", "561599"]

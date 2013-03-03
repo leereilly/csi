@@ -1,3 +1,3 @@
-code = 5033
+code = "5033"
 name = "Roofing, Siding, and Insulation Materials"
 naics_correlations = ["425120", "425110", "423330", "444190"]

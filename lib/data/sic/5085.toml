@@ -1,3 +1,3 @@
-code = 5085
+code = "5085"
 name = "Industrial Supplies"
 naics_correlations = ["425120", "425110", "423830", "423840", "453998"]

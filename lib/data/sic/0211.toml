@@ -1,3 +1,3 @@
-code = 0211
+code = "0211"
 name = "Beef Cattle Feedlots"
 naics_correlations = ["112112"]

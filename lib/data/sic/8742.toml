@@ -1,3 +1,3 @@
-code = 8742
+code = "8742"
 name = "Management Consulting Services"
 naics_correlations = ["541611", "541612", "541614", "541613"]

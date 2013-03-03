@@ -1,3 +1,3 @@
-code = 3299
+code = "3299"
 name = "Nonmetallic Mineral Products, Not Elsewhere Classified"
 naics_correlations = ["327112", "327999", "327420"]

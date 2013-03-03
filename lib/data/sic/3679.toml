@@ -1,3 +1,3 @@
-code = 3679
+code = "3679"
 name = "Electronic Components, Not Elsewhere Classified"
 naics_correlations = ["334220", "334419", "334418", "334310"]

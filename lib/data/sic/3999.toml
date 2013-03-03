@@ -1,3 +1,3 @@
-code = 3999
+code = "3999"
 name = "Manufacturing Industries, Not Elsewhere Classified"
 naics_correlations = ["337127", "333319", "321999", "335211", "339932", "332812", "316110", "332211", "335121", "325998", "332999", "339999", "326199", "332212"]

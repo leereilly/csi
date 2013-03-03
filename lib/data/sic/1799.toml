@@ -1,3 +1,3 @@
-code = 1799
+code = "1799"
 name = "Special Trade Contractors, Not Elsewhere Classified"
 naics_correlations = ["237990", "562910", "238290", "238390", "238350", "238910", "238990", "238190", "238150", "236220", "238320", "561790"]

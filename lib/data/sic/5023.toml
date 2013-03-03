@@ -1,3 +1,3 @@
-code = 5023
+code = "5023"
 name = "Homefurnishings"
 naics_correlations = ["425120", "425110", "442210", "423220"]

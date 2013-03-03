@@ -1,3 +1,3 @@
-code = 0253
+code = "0253"
 name = "Turkeys and Turkey Eggs"
 naics_correlations = ["112330"]

@@ -1,3 +1,3 @@
-code = 3421
+code = "3421"
 name = "Cutlery"
 naics_correlations = ["332211", "332212"]

@@ -1,3 +1,3 @@
-code = 8361
+code = "8361"
 name = "Residential Care"
 naics_correlations = ["623990", "623312", "623210", "623220"]

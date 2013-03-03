@@ -1,3 +1,3 @@
-code = 2421
+code = "2421"
 name = "Sawmills and Planing Mills, General"
 naics_correlations = ["321920", "321999", "321912", "321113", "321918"]

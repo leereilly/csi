@@ -1,3 +1,3 @@
-code = 4812
+code = "4812"
 name = "Radiotelephone Communications"
 naics_correlations = ["517210", "517911", "517210"]
