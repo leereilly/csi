@@ -25,19 +25,31 @@ gem 'csi', '~> 0.1.0'
 
 # Usage
 
+There's built-in support for 2-6 digits NAICS codes and 2-4 digit SIC codes, so you can look them up like this:
+
 ```ruby
-CSI::lookup_naics 336992
+
+naics_record = CSI::naics "928110"
+# => <CSI::Record:0x007fb3c5fdbb98 @type="naics", @code="928110", @name="National Security", @correlations=["9711"]
+naics_record.name
+# => "National Security"
+naics_record.correlations
+# => "["9711"]" # correlating SIC codes
+CSI::sic naics_record.correlations.first
+# => <CSI::Record:0x007fd0bd9a4fd0 @type="sic", @code="8211", @name="Elementary and Secondary Schools", @correlations=["611110"]>
+
+CSI::naics("336992").name
 # => Military Armored Vehicle, Tank, and Tank Component Manufacturing
 
-CSI::lookup_naics 611310
+CSI::naics("611310").name
 # => Colleges, Universities, and Professional Schools
 
-CSI::lookup_naics 62
-# => Health Care and Social Assistance
-
-CSI::lookup_sic 6021
-# => National Commercial Banks
+CSI::lookup_sic 8211
+# => Elementary and Secondary Schools
 ```
+
+
+**Pleaes note:** If you *ever* cast the String codes to Integers, you're gonna have a bad time. SIC code 011 is `011` as a String and `11` as an Integer. The more you know :dizzy:
 
 # NAICS vs SIC
 
