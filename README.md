@@ -71,6 +71,8 @@ correlating_sic_record.name
 
 ### NAICS & SIC Overview
 
+Explaining NAICS and SIC is outside the scope of this README, but you'll find an extremely brief overview below. For more information you can check out the [SIC page](http://en.wikipedia.org/wiki/Standard_Industrial_Classification) and [NAICS](http://en.wikipedia.org/wiki/North_American_Industry_Classification_System) page on Wikipeda.
+
 <table>
    <tr>
       <th>Digit range</th>
@@ -104,7 +106,7 @@ correlating_sic_record.name
    </tr>
 </table>
 
-NAICS is a system that assigns a two-digit numerical code to each industry and 3 to 6 digits to each industry sub-sector.  The larger the number, the more specific the industry. For example:
+The larger the coode, the more specific the industry. Here's an NAICS example:
 
 <table>
   <tr>
