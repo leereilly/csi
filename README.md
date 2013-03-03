@@ -30,13 +30,16 @@ There's built-in support for 2-6 digits NAICS codes and 2-4 digit SIC codes, so 
 ```ruby
 
 naics_record = CSI::naics "928110"
-# => <CSI::Record:0x007fb3c5fdbb98 @type="naics", @code="928110", @name="National Security", @correlations=["9711"]
+# => <CSI::Record:0x007fb3c5fdbb98]
+
 naics_record.name
 # => "National Security"
+
 naics_record.correlations
 # => "["9711"]" # correlating SIC codes
+
 CSI::sic naics_record.correlations.first
-# => <CSI::Record:0x007fd0bd9a4fd0 @type="sic", @code="8211", @name="Elementary and Secondary Schools", @correlations=["611110"]>
+# => <CSI::Record:0x007fd0bd9a4fd0>
 
 CSI::naics("336992").name
 # => Military Armored Vehicle, Tank, and Tank Component Manufacturing
@@ -48,48 +51,41 @@ CSI::lookup_sic 8211
 # => Elementary and Secondary Schools
 ```
 
-
 **Pleaes note:** If you *ever* cast the String codes to Integers, you're gonna have a bad time. SIC code 011 is `011` as a String and `11` as an Integer. The more you know :dizzy:
 
-### NAICS + SIC in a Nutshell :shipit:
+### NAICS & SIC Overview
 
 <table>
-  <tbody>
-    <tr>
-      <th colspan="2">NAICS</td>
-      <th colspan="2">SIC</td>
-    </tr>
-    <tr>
-      <td>2-digit</td>
+   <tr>
+      <th>Digit range</th>
+      <th>NAICS Definition</th>
+      <th>SIC Definition</th>
+   </tr>
+   <tr>
+      <td>1 - 2</td>
       <td>Sector</td>
-      <td>Division</td>
-      <td>Letter</td>
-    </tr>
-    <tr>
-      <td>3-digit</td>
-      <td>Subsector</td>
       <td>Major Group</td>
-      <td>2-digit</td>
-    </tr>
-    <tr>
-      <td>4-digit</td>
+   </tr>
+   <tr>
+      <td>1 - 3</td>
+      <td>Subsector</td>
       <td>Industry Group</td>
+   </tr>
+   <tr>
+      <td>1 - 4</td>
       <td>Industry Group</td>
-      <td>3-digit</td>
-    </tr>
-    <tr>
-      <td>5-digit</td>
-      <td>NAICS Industry</td>
       <td>Industry</td>
-      <td>4-digit</td>
-    </tr>
-    <tr>
-      <td>6-digit</td>
+   </tr>
+   <tr>
+      <td>1 -5 </td>
+      <td>NAICS Industry</td>
+      <td>N/A</td>
+   </tr>
+   <tr>
+      <td>1 -6 </td>
       <td>National</td>
       <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-  </tbody>
+   </tr>
 </table>
 
 NAICS is a system that assigns a two-digit numerical code to each industry and 3 to 6 digits to each industry sub-sector.  The larger the number, the more specific the industry. For example:
