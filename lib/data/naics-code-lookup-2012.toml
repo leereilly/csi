@@ -1,6459 +1,4305 @@
-[codes]
+ [codes]
   [codes.11]
   name = "Agriculture, Forestry, Fishing and Hunting"
-[codes]
   [codes.111]
   name = "Crop Production"
-[codes]
   [codes.1111]
   name = "Oilseed and Grain Farming"
-[codes]
   [codes.11111]
   name = "Soybean Farming"
-[codes]
   [codes.111110]
   name = "Soybean Farming"
-[codes]
   [codes.11112]
   name = "Oilseed (except Soybean) Farming"
-[codes]
   [codes.111120]
   name = "Oilseed (except Soybean) Farming"
-[codes]
   [codes.11113]
   name = "Dry Pea and Bean Farming"
-[codes]
   [codes.111130]
   name = "Dry Pea and Bean Farming"
-[codes]
   [codes.11114]
   name = "Wheat Farming"
-[codes]
   [codes.111140]
   name = "Wheat Farming"
-[codes]
   [codes.11115]
   name = "Corn Farming"
-[codes]
   [codes.111150]
   name = "Corn Farming"
-[codes]
   [codes.11116]
   name = "Rice Farming"
-[codes]
   [codes.111160]
   name = "Rice Farming"
-[codes]
   [codes.11119]
   name = "Other Grain Farming"
-[codes]
   [codes.111191]
   name = "Oilseed and Grain Combination Farming"
-[codes]
   [codes.111199]
   name = "All Other Grain Farming"
-[codes]
   [codes.1112]
   name = "Vegetable and Melon Farming"
-[codes]
   [codes.11121]
   name = "Vegetable and Melon Farming"
-[codes]
   [codes.111211]
   name = "Potato Farming"
-[codes]
   [codes.111219]
   name = "Other Vegetable (except Potato) and Melon Farming"
-[codes]
   [codes.1113]
   name = "Fruit and Tree Nut Farming"
-[codes]
   [codes.11131]
   name = "Orange Groves"
-[codes]
   [codes.111310]
   name = "Orange Groves"
-[codes]
   [codes.11132]
   name = "Citrus (except Orange) Groves"
-[codes]
   [codes.111320]
   name = "Citrus (except Orange) Groves"
-[codes]
   [codes.11133]
   name = "Noncitrus Fruit and Tree Nut Farming"
-[codes]
   [codes.111331]
   name = "Apple Orchards"
-[codes]
   [codes.111332]
   name = "Grape Vineyards"
-[codes]
   [codes.111333]
   name = "Strawberry Farming"
-[codes]
   [codes.111334]
   name = "Berry (except Strawberry) Farming"
-[codes]
   [codes.111335]
   name = "Tree Nut Farming"
-[codes]
   [codes.111336]
   name = "Fruit and Tree Nut Combination Farming"
-[codes]
   [codes.111339]
   name = "Other Noncitrus Fruit Farming"
-[codes]
   [codes.1114]
   name = "Greenhouse, Nursery, and Floriculture Production"
-[codes]
   [codes.11141]
   name = "Food Crops Grown Under Cover"
-[codes]
   [codes.111411]
   name = "Mushroom Production"
-[codes]
   [codes.111419]
   name = "Other Food Crops Grown Under Cover"
-[codes]
   [codes.11142]
   name = "Nursery and Floriculture Production"
-[codes]
   [codes.111421]
   name = "Nursery and Tree Production"
-[codes]
   [codes.111422]
   name = "Floriculture Production"
-[codes]
   [codes.1119]
   name = "Other Crop Farming"
-[codes]
   [codes.11191]
   name = "Tobacco Farming"
-[codes]
   [codes.111910]
   name = "Tobacco Farming"
-[codes]
   [codes.11192]
   name = "Cotton Farming"
-[codes]
   [codes.111920]
   name = "Cotton Farming"
-[codes]
   [codes.11193]
   name = "Sugarcane Farming"
-[codes]
   [codes.111930]
   name = "Sugarcane Farming"
-[codes]
   [codes.11194]
   name = "Hay Farming"
-[codes]
   [codes.111940]
   name = "Hay Farming"
-[codes]
   [codes.11199]
   name = "All Other Crop Farming"
-[codes]
   [codes.111991]
   name = "Sugar Beet Farming"
-[codes]
   [codes.111992]
   name = "Peanut Farming"
-[codes]
   [codes.111998]
   name = "All Other Miscellaneous Crop Farming"
-[codes]
   [codes.112]
   name = "Animal Production and Aquaculture"
-[codes]
   [codes.1121]
   name = "Cattle Ranching and Farming"
-[codes]
   [codes.11211]
   name = "Beef Cattle Ranching and Farming, including Feedlots"
-[codes]
   [codes.112111]
   name = "Beef Cattle Ranching and Farming"
-[codes]
   [codes.112112]
   name = "Cattle Feedlots"
-[codes]
   [codes.11212]
   name = "Dairy Cattle and Milk Production"
-[codes]
   [codes.112120]
   name = "Dairy Cattle and Milk Production"
-[codes]
   [codes.11213]
   name = "Dual-Purpose Cattle Ranching and Farming"
-[codes]
   [codes.112130]
   name = "Dual-Purpose Cattle Ranching and Farming"
-[codes]
   [codes.1122]
   name = "Hog and Pig Farming"
-[codes]
   [codes.11221]
   name = "Hog and Pig Farming"
-[codes]
   [codes.112210]
   name = "Hog and Pig Farming"
-[codes]
   [codes.1123]
   name = "Poultry and Egg Production"
-[codes]
   [codes.11231]
   name = "0 Chicken Egg Production"
-[codes]
   [codes.11232]
   name = "Broilers and Other Meat Type Chicken Production"
-[codes]
   [codes.112320]
   name = "Broilers and Other Meat Type Chicken Production"
-[codes]
   [codes.11233]
   name = "Turkey Production"
-[codes]
   [codes.112330]
   name = "Turkey Production"
-[codes]
   [codes.11234]
   name = "Poultry Hatcheries"
-[codes]
   [codes.112340]
   name = "Poultry Hatcheries"
-[codes]
   [codes.11239]
   name = "Other Poultry Production"
-[codes]
   [codes.112390]
   name = "Other Poultry Production"
-[codes]
   [codes.1124]
   name = "Sheep and Goat Farming"
-[codes]
   [codes.11241]
   name = "Sheep Farming"
-[codes]
   [codes.112410]
   name = "Sheep Farming"
-[codes]
   [codes.11242]
   name = "Goat Farming"
-[codes]
   [codes.112420]
   name = "Goat Farming"
-[codes]
   [codes.1125]
   name = "Aquaculture"
-[codes]
   [codes.11251]
   name = "Aquaculture"
-[codes]
   [codes.112511]
   name = "Finfish Farming and Fish Hatcheries"
-[codes]
   [codes.112512]
   name = "Shellfish Farming"
-[codes]
   [codes.112519]
   name = "Other Aquaculture"
-[codes]
   [codes.1129]
   name = "Other Animal Production"
-[codes]
   [codes.11291]
   name = "Apiculture"
-[codes]
   [codes.112910]
   name = "Apiculture"
-[codes]
   [codes.11292]
   name = "Horses and Other Equine Production"
-[codes]
   [codes.112920]
   name = "Horses and Other Equine Production"
-[codes]
   [codes.11293]
   name = "Fur-Bearing Animal and Rabbit Production"
-[codes]
   [codes.112930]
   name = "Fur-Bearing Animal and Rabbit Production"
-[codes]
   [codes.11299]
   name = "All Other Animal Production"
-[codes]
   [codes.112990]
   name = "All Other Animal Production"
-[codes]
   [codes.113]
   name = "Forestry and Logging"
-[codes]
   [codes.1131]
   name = "Timber Tract Operations"
-[codes]
   [codes.11311]
   name = "Timber Tract Operations"
-[codes]
   [codes.113110]
   name = "Timber Tract Operations"
-[codes]
   [codes.1132]
   name = "Forest Nurseries and Gathering of Forest Products"
-[codes]
   [codes.11321]
   name = "Forest Nurseries and Gathering of Forest Products"
-[codes]
   [codes.113210]
   name = "Forest Nurseries and Gathering of Forest Products"
-[codes]
   [codes.1133]
   name = "Logging"
-[codes]
   [codes.11331]
   name = "Logging"
-[codes]
   [codes.113310]
   name = "Logging"
-[codes]
   [codes.114]
   name = "1 Fishing"
-[codes]
   [codes.11411]
   name = "Fishing"
-[codes]
   [codes.114111]
   name = "Finfish Fishing"
-[codes]
   [codes.114112]
   name = "Shellfish Fishing"
-[codes]
   [codes.114119]
   name = "Other Marine Fishing"
-[codes]
   [codes.1142]
   name = "Hunting and Trapping"
-[codes]
   [codes.11421]
   name = "Hunting and Trapping"
-[codes]
   [codes.114210]
   name = "Hunting and Trapping"
-[codes]
   [codes.115]
   name = "Support Activities for Agriculture and Forestry"
-[codes]
   [codes.1151]
   name = "Support Activities for Crop Production"
-[codes]
   [codes.11511]
   name = "Support Activities for Crop Production"
-[codes]
   [codes.115111]
   name = "Cotton Ginning"
-[codes]
   [codes.115112]
   name = "Soil Preparation, Planting, and Cultivating"
-[codes]
   [codes.115113]
   name = "Crop Harvesting, Primarily by Machine"
-[codes]
   [codes.115114]
   name = "Postharvest Crop Activities (except Cotton Ginning)"
-[codes]
   [codes.115115]
   name = "Farm Labor Contractors and Crew Leaders"
-[codes]
   [codes.115116]
   name = "Farm Management Services"
-[codes]
   [codes.1152]
   name = "Support Activities for Animal Production"
-[codes]
   [codes.11521]
   name = "Support Activities for Animal Production"
-[codes]
   [codes.115210]
   name = "Support Activities for Animal Production"
-[codes]
   [codes.1153]
   name = "Support Activities for Forestry"
-[codes]
   [codes.11531]
   name = "Support Activities for Forestry"
-[codes]
   [codes.115310]
   name = "Support Activities for Forestry"
-[codes]
   [codes.21]
   name = "Mining, Quarrying, and Oil and Gas Extraction"
-[codes]
   [codes.211]
   name = "Oil and Gas Extraction"
-[codes]
   [codes.2111]
   name = "Oil and Gas Extraction"
-[codes]
   [codes.21111]
   name = "Oil and Gas Extraction"
-[codes]
   [codes.211111]
   name = "Crude Petroleum and Natural Gas Extraction"
-[codes]
   [codes.211112]
   name = "Natural Gas Liquid Extraction"
-[codes]
   [codes.212]
   name = "Mining (except Oil and Gas)"
-[codes]
   [codes.2121]
   name = "Coal Mining"
-[codes]
   [codes.21211]
   name = "Coal Mining"
-[codes]
   [codes.212111]
   name = "Bituminous Coal and Lignite Surface Mining"
-[codes]
   [codes.212112]
   name = "Bituminous Coal Underground Mining"
-[codes]
   [codes.212113]
   name = "Anthracite Mining"
-[codes]
   [codes.2122]
   name = "1 Iron Ore Mining"
-[codes]
   [codes.212210]
   name = "Iron Ore Mining"
-[codes]
   [codes.21222]
   name = "Gold Ore and Silver Ore Mining"
-[codes]
   [codes.212221]
   name = "Gold Ore Mining"
-[codes]
   [codes.212222]
   name = "Silver Ore Mining"
-[codes]
   [codes.21223]
   name = "Copper, Nickel, Lead, and Zinc Mining"
-[codes]
   [codes.212231]
   name = "Lead Ore and Zinc Ore Mining"
-[codes]
   [codes.212234]
   name = "Copper Ore and Nickel Ore Mining"
-[codes]
   [codes.21229]
   name = "Other Metal Ore Mining"
-[codes]
   [codes.212291]
   name = "Uranium-Radium-Vanadium Ore Mining"
-[codes]
   [codes.212299]
   name = "All Other Metal Ore Mining"
-[codes]
   [codes.2123]
   name = "Nonmetallic Mineral Mining and Quarrying"
-[codes]
   [codes.21231]
   name = "Stone Mining and Quarrying"
-[codes]
   [codes.212311]
   name = "Dimension Stone Mining and Quarrying"
-[codes]
   [codes.212312]
   name = "Crushed and Broken Limestone Mining and Quarrying"
-[codes]
   [codes.212313]
   name = "Crushed and Broken Granite Mining and Quarrying"
-[codes]
   [codes.212319]
   name = "Other Crushed and Broken Stone Mining and Quarrying"
-[codes]
   [codes.21232]
   name = "Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and  Quarrying"
-[codes]
   [codes.212321]
   name = "Construction Sand and Gravel Mining"
-[codes]
   [codes.212322]
   name = "Industrial Sand Mining"
-[codes]
   [codes.212324]
   name = "Kaolin and Ball Clay Mining"
-[codes]
   [codes.212325]
   name = "Clay and Ceramic and Refractory Minerals Mining"
-[codes]
   [codes.21239]
   name = "Other Nonmetallic Mineral Mining and Quarrying"
-[codes]
   [codes.212391]
   name = "Potash, Soda, and Borate Mineral Mining"
-[codes]
   [codes.212392]
   name = "Phosphate Rock Mining"
-[codes]
   [codes.212393]
   name = "Other Chemical and Fertilizer Mineral Mining"
-[codes]
   [codes.212399]
   name = "All Other Nonmetallic Mineral Mining"
-[codes]
   [codes.213]
   name = "Support Activities for Mining"
-[codes]
   [codes.2131]
   name = "Support Activities for Mining"
-[codes]
   [codes.21311]
   name = "Support Activities for Mining"
-[codes]
   [codes.213111]
   name = "Drilling Oil and Gas Wells"
-[codes]
   [codes.213112]
   name = "Support Activities for Oil and Gas Operations"
-[codes]
   [codes.213113]
   name = "Support Activities for Coal Mining"
-[codes]
   [codes.213114]
   name = "Support Activities for Metal Mining"
-[codes]
   [codes.213115]
   name = "Support Activities for Nonmetallic Minerals (except Fuels) Mining"
-[codes]
   [codes.22]
   name = "Utilities"
-[codes]
   [codes.221]
   name = "1 Electric Power Generation, Transmission and Distribution"
-[codes]
   [codes.22111]
   name = "Electric Power Generation"
-[codes]
   [codes.221111]
   name = "Hydroelectric Power Generation"
-[codes]
   [codes.221112]
   name = "Fossil Fuel Electric Power Generation"
-[codes]
   [codes.221113]
   name = "Nuclear Electric Power Generation"
-[codes]
   [codes.221114]
   name = "Solar Electric Power Generation"
-[codes]
   [codes.221115]
   name = "Wind Electric Power Generation"
-[codes]
   [codes.221116]
   name = "Geothermal Electric Power Generation"
-[codes]
   [codes.221117]
   name = "Biomass Electric Power Generation"
-[codes]
   [codes.221118]
   name = "Other Electric Power Generation"
-[codes]
   [codes.22112]
   name = "Electric Power Transmission, Control, and Distribution"
-[codes]
   [codes.221121]
   name = "Electric Bulk Power Transmission and Control"
-[codes]
   [codes.221122]
   name = "Electric Power Distribution"
-[codes]
   [codes.2212]
   name = "Natural Gas Distribution"
-[codes]
   [codes.22121]
   name = "Natural Gas Distribution"
-[codes]
   [codes.221210]
   name = "Natural Gas Distribution"
-[codes]
   [codes.2213]
   name = "Water, Sewage and Other Systems"
-[codes]
   [codes.22131]
   name = "Water Supply and Irrigation Systems"
-[codes]
   [codes.221310]
   name = "Water Supply and Irrigation Systems"
-[codes]
   [codes.22132]
   name = "Sewage Treatment Facilities"
-[codes]
   [codes.221320]
   name = "Sewage Treatment Facilities"
-[codes]
   [codes.22133]
   name = "Steam and Air-Conditioning Supply"
-[codes]
   [codes.221330]
   name = "Steam and Air-Conditioning Supply"
-[codes]
   [codes.23]
   name = "Construction"
-[codes]
   [codes.236]
   name = "Construction of Buildings"
-[codes]
   [codes.2361]
   name = "Residential Building Construction"
-[codes]
   [codes.23611]
   name = "Residential Building Construction"
-[codes]
   [codes.236115]
   name = "New Single-Family Housing Construction (except For-Sale Builders)"
-[codes]
   [codes.236116]
   name = "New Multifamily Housing Construction (except For-Sale Builders)"
-[codes]
   [codes.236117]
   name = "New Housing For-Sale Builders"
-[codes]
   [codes.236118]
   name = "Residential Remodelers"
-[codes]
   [codes.2362]
   name = "Nonresidential Building Construction"
-[codes]
   [codes.23621]
   name = "Industrial Building Construction"
-[codes]
   [codes.236210]
   name = "Industrial Building Construction"
-[codes]
   [codes.23622]
   name = "Commercial and Institutional Building Construction"
-[codes]
   [codes.236220]
   name = "Commercial and Institutional Building Construction"
-[codes]
   [codes.237]
   name = "Heavy and Civil Engineering Construction"
-[codes]
   [codes.2371]
   name = "1 Water and Sewer Line and Related Structures Construction"
-[codes]
   [codes.237110]
   name = "Water and Sewer Line and Related Structures Construction"
-[codes]
   [codes.23712]
   name = "Oil and Gas Pipeline and Related Structures Construction"
-[codes]
   [codes.237120]
   name = "Oil and Gas Pipeline and Related Structures Construction"
-[codes]
   [codes.23713]
   name = "Power and Communication Line and Related Structures Construction"
-[codes]
   [codes.237130]
   name = "Power and Communication Line and Related Structures Construction"
-[codes]
   [codes.2372]
   name = "Land Subdivision"
-[codes]
   [codes.23721]
   name = "Land Subdivision"
-[codes]
   [codes.237210]
   name = "Land Subdivision"
-[codes]
   [codes.2373]
   name = "Highway, Street, and Bridge Construction"
-[codes]
   [codes.23731]
   name = "Highway, Street, and Bridge Construction"
-[codes]
   [codes.237310]
   name = "Highway, Street, and Bridge Construction"
-[codes]
   [codes.2379]
   name = "Other Heavy and Civil Engineering Construction"
-[codes]
   [codes.23799]
   name = "Other Heavy and Civil Engineering Construction"
-[codes]
   [codes.237990]
   name = "Other Heavy and Civil Engineering Construction"
-[codes]
   [codes.238]
   name = "Specialty Trade Contractors"
-[codes]
   [codes.2381]
   name = "Foundation, Structure, and Building Exterior Contractors"
-[codes]
   [codes.23811]
   name = "Poured Concrete Foundation and Structure Contractors"
-[codes]
   [codes.238110]
   name = "Poured Concrete Foundation and Structure Contractors"
-[codes]
   [codes.23812]
   name = "Structural Steel and Precast Concrete Contractors"
-[codes]
   [codes.238120]
   name = "Structural Steel and Precast Concrete Contractors"
-[codes]
   [codes.23813]
   name = "Framing Contractors"
-[codes]
   [codes.238130]
   name = "Framing Contractors"
-[codes]
   [codes.23814]
   name = "Masonry Contractors"
-[codes]
   [codes.238140]
   name = "Masonry Contractors"
-[codes]
   [codes.23815]
   name = "Glass and Glazing Contractors"
-[codes]
   [codes.238150]
   name = "Glass and Glazing Contractors"
-[codes]
   [codes.23816]
   name = "Roofing Contractors"
-[codes]
   [codes.238160]
   name = "Roofing Contractors"
-[codes]
   [codes.23817]
   name = "Siding Contractors"
-[codes]
   [codes.238170]
   name = "Siding Contractors"
-[codes]
   [codes.23819]
   name = "Other Foundation, Structure, and Building Exterior Contractors"
-[codes]
   [codes.238190]
   name = "Other Foundation, Structure, and Building Exterior Contractors"
-[codes]
   [codes.2382]
   name = "Building Equipment Contractors"
-[codes]
   [codes.23821]
   name = "Electrical Contractors and Other Wiring Installation Contractors"
-[codes]
   [codes.238210]
   name = "Electrical Contractors and Other Wiring Installation Contractors"
-[codes]
   [codes.23822]
   name = "Plumbing, Heating, and Air-Conditioning Contractors"
-[codes]
   [codes.238220]
   name = "Plumbing, Heating, and Air-Conditioning Contractors"
-[codes]
   [codes.23829]
   name = "0 Other Building Equipment Contractors"
-[codes]
   [codes.2383]
   name = "Building Finishing Contractors"
-[codes]
   [codes.23831]
   name = "Drywall and Insulation Contractors"
-[codes]
   [codes.238310]
   name = "Drywall and Insulation Contractors"
-[codes]
   [codes.23832]
   name = "Painting and Wall Covering Contractors"
-[codes]
   [codes.238320]
   name = "Painting and Wall Covering Contractors"
-[codes]
   [codes.23833]
   name = "Flooring Contractors"
-[codes]
   [codes.238330]
   name = "Flooring Contractors"
-[codes]
   [codes.23834]
   name = "Tile and Terrazzo Contractors"
-[codes]
   [codes.238340]
   name = "Tile and Terrazzo Contractors"
-[codes]
   [codes.23835]
   name = "Finish Carpentry Contractors"
-[codes]
   [codes.238350]
   name = "Finish Carpentry Contractors"
-[codes]
   [codes.23839]
   name = "Other Building Finishing Contractors"
-[codes]
   [codes.238390]
   name = "Other Building Finishing Contractors"
-[codes]
   [codes.2389]
   name = "Other Specialty Trade Contractors"
-[codes]
   [codes.23891]
   name = "Site Preparation Contractors"
-[codes]
   [codes.238910]
   name = "Site Preparation Contractors"
-[codes]
   [codes.23899]
   name = "All Other Specialty Trade Contractors"
-[codes]
   [codes.238990]
   name = "All Other Specialty Trade Contractors"
-[codes]
   [codes.31]
   name = "-33 Manufacturing"
-[codes]
   [codes.311]
   name = "Food Manufacturing"
-[codes]
   [codes.3111]
   name = "Animal Food Manufacturing"
-[codes]
   [codes.31111]
   name = "Animal Food Manufacturing"
-[codes]
   [codes.311111]
   name = "Dog and Cat Food Manufacturing"
-[codes]
   [codes.311119]
   name = "Other Animal Food Manufacturing"
-[codes]
   [codes.3112]
   name = "Grain and Oilseed Milling"
-[codes]
   [codes.31121]
   name = "Flour Milling and Malt Manufacturing"
-[codes]
   [codes.311211]
   name = "Flour Milling"
-[codes]
   [codes.311212]
   name = "Rice Milling"
-[codes]
   [codes.311213]
   name = "Malt Manufacturing"
-[codes]
   [codes.31122]
   name = "Starch and Vegetable Fats and Oils Manufacturing"
-[codes]
   [codes.311221]
   name = "Wet Corn Milling"
-[codes]
   [codes.311224]
   name = "Soybean and Other Oilseed Processing"
-[codes]
   [codes.311225]
   name = "Fats and Oils Refining and Blending"
-[codes]
   [codes.31123]
   name = "Breakfast Cereal Manufacturing"
-[codes]
   [codes.311230]
   name = "Breakfast Cereal Manufacturing"
-[codes]
   [codes.3113]
   name = "Sugar and Confectionery Product Manufacturing"
-[codes]
   [codes.31131]
   name = "3 Beet Sugar Manufacturing"
-[codes]
   [codes.311314]
   name = "Cane Sugar Manufacturing"
-[codes]
   [codes.31134]
   name = "Nonchocolate Confectionery Manufacturing"
-[codes]
   [codes.311340]
   name = "Nonchocolate Confectionery Manufacturing"
-[codes]
   [codes.31135]
   name = "Chocolate and Confectionery Manufacturing"
-[codes]
   [codes.311351]
   name = "Chocolate and Confectionery Manufacturing from Cacao Beans"
-[codes]
   [codes.311352]
   name = "Confectionery Manufacturing from Purchased Chocolate"
-[codes]
   [codes.3114]
   name = "Fruit and Vegetable Preserving and Specialty Food Manufacturing"
-[codes]
   [codes.31141]
   name = "Frozen Food Manufacturing"
-[codes]
   [codes.311411]
   name = "Frozen Fruit, Juice, and Vegetable Manufacturing"
-[codes]
   [codes.311412]
   name = "Frozen Specialty Food Manufacturing"
-[codes]
   [codes.31142]
   name = "Fruit and Vegetable Canning, Pickling, and Drying"
-[codes]
   [codes.311421]
   name = "Fruit and Vegetable Canning"
-[codes]
   [codes.311422]
   name = "Specialty Canning"
-[codes]
   [codes.311423]
   name = "Dried and Dehydrated Food Manufacturing"
-[codes]
   [codes.3115]
   name = "Dairy Product Manufacturing"
-[codes]
   [codes.31151]
   name = "Dairy Product (except Frozen) Manufacturing"
-[codes]
   [codes.311511]
   name = "Fluid Milk Manufacturing"
-[codes]
   [codes.311512]
   name = "Creamery Butter Manufacturing"
-[codes]
   [codes.311513]
   name = "Cheese Manufacturing"
-[codes]
   [codes.311514]
   name = "Dry, Condensed, and Evaporated Dairy Product Manufacturing"
-[codes]
   [codes.31152]
   name = "Ice Cream and Frozen Dessert Manufacturing"
-[codes]
   [codes.311520]
   name = "Ice Cream and Frozen Dessert Manufacturing"
-[codes]
   [codes.3116]
   name = "Animal Slaughtering and Processing"
-[codes]
   [codes.31161]
   name = "Animal Slaughtering and Processing"
-[codes]
   [codes.311611]
   name = "Animal (except Poultry) Slaughtering"
-[codes]
   [codes.311612]
   name = "Meat Processed from Carcasses"
-[codes]
   [codes.311613]
   name = "Rendering and Meat Byproduct Processing"
-[codes]
   [codes.311615]
   name = "Poultry Processing"
-[codes]
   [codes.3117]
   name = "Seafood Product Preparation and Packaging"
-[codes]
   [codes.31171]
   name = "Seafood Product Preparation and Packaging"
-[codes]
   [codes.311710]
   name = "Seafood Product Preparation and Packaging"
-[codes]
   [codes.3118]
   name = "Bakeries and Tortilla Manufacturing"
-[codes]
   [codes.31181]
   name = "Bread and Bakery Product Manufacturing"
-[codes]
   [codes.311811]
   name = "Retail Bakeries"
-[codes]
   [codes.311812]
   name = "Commercial Bakeries"
-[codes]
   [codes.311813]
   name = "Frozen Cakes, Pies, and Other Pastries Manufacturing"
-[codes]
   [codes.31182]
   name = "1 Cookie and Cracker Manufacturing"
-[codes]
   [codes.311824]
   name = "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour"
-[codes]
   [codes.31183]
   name = "Tortilla Manufacturing"
-[codes]
   [codes.311830]
   name = "Tortilla Manufacturing"
-[codes]
   [codes.3119]
   name = "Other Food Manufacturing"
-[codes]
   [codes.31191]
   name = "Snack Food Manufacturing"
-[codes]
   [codes.311911]
   name = "Roasted Nuts and Peanut Butter Manufacturing"
-[codes]
   [codes.311919]
   name = "Other Snack Food Manufacturing"
-[codes]
   [codes.31192]
   name = "Coffee and Tea Manufacturing"
-[codes]
   [codes.311920]
   name = "Coffee and Tea Manufacturing"
-[codes]
   [codes.31193]
   name = "Flavoring Syrup and Concentrate Manufacturing"
-[codes]
   [codes.311930]
   name = "Flavoring Syrup and Concentrate Manufacturing"
-[codes]
   [codes.31194]
   name = "Seasoning and Dressing Manufacturing"
-[codes]
   [codes.311941]
   name = "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing"
-[codes]
   [codes.311942]
   name = "Spice and Extract Manufacturing"
-[codes]
   [codes.31199]
   name = "All Other Food Manufacturing"
-[codes]
   [codes.311991]
   name = "Perishable Prepared Food Manufacturing"
-[codes]
   [codes.311999]
   name = "All Other Miscellaneous Food Manufacturing"
-[codes]
   [codes.312]
   name = "Beverage and Tobacco Product Manufacturing"
-[codes]
   [codes.3121]
   name = "Beverage Manufacturing"
-[codes]
   [codes.31211]
   name = "Soft Drink and Ice Manufacturing"
-[codes]
   [codes.312111]
   name = "Soft Drink Manufacturing"
-[codes]
   [codes.312112]
   name = "Bottled Water Manufacturing"
-[codes]
   [codes.312113]
   name = "Ice Manufacturing"
-[codes]
   [codes.31212]
   name = "Breweries"
-[codes]
   [codes.312120]
   name = "Breweries"
-[codes]
   [codes.31213]
   name = "Wineries"
-[codes]
   [codes.312130]
   name = "Wineries"
-[codes]
   [codes.31214]
   name = "Distilleries"
-[codes]
   [codes.312140]
   name = "Distilleries"
-[codes]
   [codes.3122]
   name = "Tobacco Manufacturing"
-[codes]
   [codes.31223]
   name = "Tobacco Manufacturing"
-[codes]
   [codes.312230]
   name = "Tobacco Manufacturing"
-[codes]
   [codes.313]
   name = "Textile Mills"
-[codes]
   [codes.3131]
   name = "Fiber, Yarn, and Thread Mills"
-[codes]
   [codes.31311]
   name = "Fiber, Yarn, and Thread Mills"
-[codes]
   [codes.313110]
   name = "Fiber, Yarn, and Thread Mills"
-[codes]
   [codes.3132]
   name = "1 Broadwoven Fabric Mills"
-[codes]
   [codes.313210]
   name = "Broadwoven Fabric Mills"
-[codes]
   [codes.31322]
   name = "Narrow Fabric Mills and Schiffli Machine Embroidery"
-[codes]
   [codes.313220]
   name = "Narrow Fabric Mills and Schiffli Machine Embroidery"
-[codes]
   [codes.31323]
   name = "Nonwoven Fabric Mills"
-[codes]
   [codes.313230]
   name = "Nonwoven Fabric Mills"
-[codes]
   [codes.31324]
   name = "Knit Fabric Mills"
-[codes]
   [codes.313240]
   name = "Knit Fabric Mills"
-[codes]
   [codes.3133]
   name = "Textile and Fabric Finishing and Fabric Coating Mills"
-[codes]
   [codes.31331]
   name = "Textile and Fabric Finishing Mills"
-[codes]
   [codes.313310]
   name = "Textile and Fabric Finishing Mills"
-[codes]
   [codes.31332]
   name = "Fabric Coating Mills"
-[codes]
   [codes.313320]
   name = "Fabric Coating Mills"
-[codes]
   [codes.314]
   name = "Textile Product Mills"
-[codes]
   [codes.3141]
   name = "Textile Furnishings Mills"
-[codes]
   [codes.31411]
   name = "Carpet and Rug Mills"
-[codes]
   [codes.314110]
   name = "Carpet and Rug Mills"
-[codes]
   [codes.31412]
   name = "Curtain and Linen Mills"
-[codes]
   [codes.314120]
   name = "Curtain and Linen Mills"
-[codes]
   [codes.3149]
   name = "Other Textile Product Mills"
-[codes]
   [codes.31491]
   name = "Textile Bag and Canvas Mills"
-[codes]
   [codes.314910]
   name = "Textile Bag and Canvas Mills"
-[codes]
   [codes.31499]
   name = "All Other Textile Product Mills"
-[codes]
   [codes.314994]
   name = "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills"
-[codes]
   [codes.314999]
   name = "All Other Miscellaneous Textile Product Mills"
-[codes]
   [codes.315]
   name = "Apparel Manufacturing"
-[codes]
   [codes.3151]
   name = "Apparel Knitting Mills"
-[codes]
   [codes.31511]
   name = "Hosiery and Sock Mills"
-[codes]
   [codes.315110]
   name = "Hosiery and Sock Mills"
-[codes]
   [codes.31519]
   name = "Other Apparel Knitting Mills"
-[codes]
   [codes.315190]
   name = "Other Apparel Knitting Mills"
-[codes]
   [codes.3152]
   name = "Cut and Sew Apparel Manufacturing"
-[codes]
   [codes.31521]
   name = "Cut and Sew Apparel Contractors"
-[codes]
   [codes.315210]
   name = "Cut and Sew Apparel Contractors"
-[codes]
   [codes.31522]
   name = "Men’s and Boys’ Cut and Sew Apparel Manufacturing"
-[codes]
   [codes.315220]
   name = "Men’s and Boys’ Cut and Sew Apparel Manufacturing"
-[codes]
   [codes.31524]
   name = "Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
-[codes]
   [codes.315240]
   name = "Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
-[codes]
   [codes.31528]
   name = "0 Other Cut and Sew Apparel Manufacturing"
-[codes]
   [codes.3159]
   name = "Apparel Accessories and Other Apparel Manufacturing"
-[codes]
   [codes.31599]
   name = "Apparel Accessories and Other Apparel Manufacturing"
-[codes]
   [codes.315990]
   name = "Apparel Accessories and Other Apparel Manufacturing"
-[codes]
   [codes.316]
   name = "Leather and Allied Product Manufacturing"
-[codes]
   [codes.3161]
   name = "Leather and Hide Tanning and Finishing"
-[codes]
   [codes.31611]
   name = "Leather and Hide Tanning and Finishing"
-[codes]
   [codes.316110]
   name = "Leather and Hide Tanning and Finishing"
-[codes]
   [codes.3162]
   name = "Footwear Manufacturing"
-[codes]
   [codes.31621]
   name = "Footwear Manufacturing"
-[codes]
   [codes.316210]
   name = "Footwear Manufacturing"
-[codes]
   [codes.3169]
   name = "Other Leather and Allied Product Manufacturing"
-[codes]
   [codes.31699]
   name = "Other Leather and Allied Product Manufacturing"
-[codes]
   [codes.316992]
   name = "Women's Handbag and Purse Manufacturing"
-[codes]
   [codes.316998]
   name = "All Other Leather Good and Allied Product Manufacturing"
-[codes]
   [codes.321]
   name = "Wood Product Manufacturing"
-[codes]
   [codes.3211]
   name = "Sawmills and Wood Preservation"
-[codes]
   [codes.32111]
   name = "Sawmills and Wood Preservation"
-[codes]
   [codes.321113]
   name = "Sawmills"
-[codes]
   [codes.321114]
   name = "Wood Preservation"
-[codes]
   [codes.3212]
   name = "Veneer, Plywood, and Engineered Wood Product Manufacturing"
-[codes]
   [codes.32121]
   name = "Veneer, Plywood, and Engineered Wood Product Manufacturing"
-[codes]
   [codes.321211]
   name = "Hardwood Veneer and Plywood Manufacturing"
-[codes]
   [codes.321212]
   name = "Softwood Veneer and Plywood Manufacturing"
-[codes]
   [codes.321213]
   name = "Engineered Wood Member (except Truss) Manufacturing"
-[codes]
   [codes.321214]
   name = "Truss Manufacturing"
-[codes]
   [codes.321219]
   name = "Reconstituted Wood Product Manufacturing"
-[codes]
   [codes.3219]
   name = "Other Wood Product Manufacturing"
-[codes]
   [codes.32191]
   name = "Millwork"
-[codes]
   [codes.321911]
   name = "Wood Window and Door Manufacturing"
-[codes]
   [codes.321912]
   name = "Cut Stock, Resawing Lumber, and Planing"
-[codes]
   [codes.321918]
   name = "Other Millwork (including Flooring)"
-[codes]
   [codes.32192]
   name = "Wood Container and Pallet Manufacturing"
-[codes]
   [codes.321920]
   name = "Wood Container and Pallet Manufacturing"
-[codes]
   [codes.32199]
   name = "All Other Wood Product Manufacturing"
-[codes]
   [codes.321991]
   name = "Manufactured Home (Mobile Home) Manufacturing"
-[codes]
   [codes.321992]
   name = "Prefabricated Wood Building Manufacturing"
-[codes]
   [codes.321999]
   name = "All Other Miscellaneous Wood Product Manufacturing 322 Paper Manufacturing"
-[codes]
   [codes.3221]
   name = "Pulp, Paper, and Paperboard Mills"
-[codes]
   [codes.32211]
   name = "Pulp Mills"
-[codes]
   [codes.322110]
   name = "Pulp Mills"
-[codes]
   [codes.32212]
   name = "Paper Mills"
-[codes]
   [codes.322121]
   name = "Paper (except Newsprint) Mills"
-[codes]
   [codes.322122]
   name = "Newsprint Mills"
-[codes]
   [codes.32213]
   name = "Paperboard Mills"
-[codes]
   [codes.322130]
   name = "Paperboard Mills"
-[codes]
   [codes.3222]
   name = "Converted Paper Product Manufacturing"
-[codes]
   [codes.32221]
   name = "Paperboard Container Manufacturing"
-[codes]
   [codes.322211]
   name = "Corrugated and Solid Fiber Box Manufacturing"
-[codes]
   [codes.322212]
   name = "Folding Paperboard Box Manufacturing"
-[codes]
   [codes.322219]
   name = "Other Paperboard Container Manufacturing"
-[codes]
   [codes.32222]
   name = "Paper Bag and Coated and Treated Paper Manufacturing"
-[codes]
   [codes.322220]
   name = "Paper Bag and Coated and Treated Paper Manufacturing"
-[codes]
   [codes.32223]
   name = "Stationery Product Manufacturing"
-[codes]
   [codes.322230]
   name = "Stationery Product Manufacturing"
-[codes]
   [codes.32229]
   name = "Other Converted Paper Product Manufacturing"
-[codes]
   [codes.322291]
   name = "Sanitary Paper Product Manufacturing"
-[codes]
   [codes.322299]
   name = "All Other Converted Paper Product Manufacturing"
-[codes]
   [codes.323]
   name = "Printing and Related Support Activities"
-[codes]
   [codes.3231]
   name = "Printing and Related Support Activities"
-[codes]
   [codes.32311]
   name = "Printing"
-[codes]
   [codes.323111]
   name = "Commercial Printing (except Screen and Books)"
-[codes]
   [codes.323113]
   name = "Commercial Screen Printing"
-[codes]
   [codes.323117]
   name = "Books Printing"
-[codes]
   [codes.32312]
   name = "Support Activities for Printing"
-[codes]
   [codes.323120]
   name = "Support Activities for Printing"
-[codes]
   [codes.324]
   name = "Petroleum and Coal Products Manufacturing"
-[codes]
   [codes.3241]
   name = "Petroleum and Coal Products Manufacturing"
-[codes]
   [codes.32411]
   name = "Petroleum Refineries"
-[codes]
   [codes.324110]
   name = "Petroleum Refineries"
-[codes]
   [codes.32412]
   name = "Asphalt Paving, Roofing, and Saturated Materials Manufacturing"
-[codes]
   [codes.324121]
   name = "Asphalt Paving Mixture and Block Manufacturing"
-[codes]
   [codes.324122]
   name = "Asphalt Shingle and Coating Materials Manufacturing"
-[codes]
   [codes.32419]
   name = "Other Petroleum and Coal Products Manufacturing"
-[codes]
   [codes.324191]
   name = "Petroleum Lubricating Oil and Grease Manufacturing"
-[codes]
   [codes.324199]
   name = "All Other Petroleum and Coal Products Manufacturing 325 Chemical Manufacturing"
-[codes]
   [codes.3251]
   name = "Basic Chemical Manufacturing"
-[codes]
   [codes.32511]
   name = "Petrochemical Manufacturing"
-[codes]
   [codes.325110]
   name = "Petrochemical Manufacturing"
-[codes]
   [codes.32512]
   name = "Industrial Gas Manufacturing"
-[codes]
   [codes.325120]
   name = "Industrial Gas Manufacturing"
-[codes]
   [codes.32513]
   name = "Synthetic Dye and Pigment Manufacturing"
-[codes]
   [codes.325130]
   name = "Synthetic Dye and Pigment Manufacturing"
-[codes]
   [codes.32518]
   name = "Other Basic Inorganic Chemical Manufacturing"
-[codes]
   [codes.325180]
   name = "Other Basic Inorganic Chemical Manufacturing"
-[codes]
   [codes.32519]
   name = "Other Basic Organic Chemical Manufacturing"
-[codes]
   [codes.325193]
   name = "Ethyl Alcohol Manufacturing"
-[codes]
   [codes.325194]
   name = "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing"
-[codes]
   [codes.325199]
   name = "All Other Basic Organic Chemical Manufacturing"
-[codes]
   [codes.3252]
   name = "Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing"
-[codes]
   [codes.32521]
   name = "Resin and Synthetic Rubber Manufacturing"
-[codes]
   [codes.325211]
   name = "Plastics Material and Resin Manufacturing"
-[codes]
   [codes.325212]
   name = "Synthetic Rubber Manufacturing"
-[codes]
   [codes.32522]
   name = "Artificial and Synthetic Fibers and Filaments Manufacturing"
-[codes]
   [codes.325220]
   name = "Artificial and Synthetic Fibers and Filaments Manufacturing"
-[codes]
   [codes.3253]
   name = "Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing"
-[codes]
   [codes.32531]
   name = "Fertilizer Manufacturing"
-[codes]
   [codes.325311]
   name = "Nitrogenous Fertilizer Manufacturing"
-[codes]
   [codes.325312]
   name = "Phosphatic Fertilizer Manufacturing"
-[codes]
   [codes.325314]
   name = "Fertilizer (Mixing Only) Manufacturing"
-[codes]
   [codes.32532]
   name = "Pesticide and Other Agricultural Chemical Manufacturing"
-[codes]
   [codes.325320]
   name = "Pesticide and Other Agricultural Chemical Manufacturing"
-[codes]
   [codes.3254]
   name = "Pharmaceutical and Medicine Manufacturing"
-[codes]
   [codes.32541]
   name = "Pharmaceutical and Medicine Manufacturing"
-[codes]
   [codes.325411]
   name = "Medicinal and Botanical Manufacturing"
-[codes]
   [codes.325412]
   name = "Pharmaceutical Preparation Manufacturing"
-[codes]
   [codes.325413]
   name = "In-Vitro Diagnostic Substance Manufacturing"
-[codes]
   [codes.325414]
   name = "Biological Product (except Diagnostic) Manufacturing"
-[codes]
   [codes.3255]
   name = "Paint, Coating, and Adhesive Manufacturing"
-[codes]
   [codes.32551]
   name = "Paint and Coating Manufacturing"
-[codes]
   [codes.325510]
   name = "Paint and Coating Manufacturing"
-[codes]
   [codes.32552]
   name = "0 Adhesive Manufacturing"
-[codes]
   [codes.3256]
   name = "Soap, Cleaning Compound, and Toilet Preparation Manufacturing"
-[codes]
   [codes.32561]
   name = "Soap and Cleaning Compound Manufacturing"
-[codes]
   [codes.325611]
   name = "Soap and Other Detergent Manufacturing"
-[codes]
   [codes.325612]
   name = "Polish and Other Sanitation Good Manufacturing"
-[codes]
   [codes.325613]
   name = "Surface Active Agent Manufacturing"
-[codes]
   [codes.32562]
   name = "Toilet Preparation Manufacturing"
-[codes]
   [codes.325620]
   name = "Toilet Preparation Manufacturing"
-[codes]
   [codes.3259]
   name = "Other Chemical Product and Preparation Manufacturing"
-[codes]
   [codes.32591]
   name = "Printing Ink Manufacturing"
-[codes]
   [codes.325910]
   name = "Printing Ink Manufacturing"
-[codes]
   [codes.32592]
   name = "Explosives Manufacturing"
-[codes]
   [codes.325920]
   name = "Explosives Manufacturing"
-[codes]
   [codes.32599]
   name = "All Other Chemical Product and Preparation Manufacturing"
-[codes]
   [codes.325991]
   name = "Custom Compounding of Purchased Resins"
-[codes]
   [codes.325992]
   name = "Photographic Film, Paper, Plate, and Chemical Manufacturing"
-[codes]
   [codes.325998]
   name = "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
-[codes]
   [codes.326]
   name = "Plastics and Rubber Products Manufacturing"
-[codes]
   [codes.3261]
   name = "Plastics Product Manufacturing"
-[codes]
   [codes.32611]
   name = "Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing"
-[codes]
   [codes.326111]
   name = "Plastics Bag and Pouch Manufacturing"
-[codes]
   [codes.326112]
   name = "Plastics Packaging Film and Sheet (including Laminated) Manufacturing"
-[codes]
   [codes.326113]
   name = "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"
-[codes]
   [codes.32612]
   name = "Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing"
-[codes]
   [codes.326121]
   name = "Unlaminated Plastics Profile Shape Manufacturing"
-[codes]
   [codes.326122]
   name = "Plastics Pipe and Pipe Fitting Manufacturing"
-[codes]
   [codes.32613]
   name = "Laminated Plastics Plate, Sheet (except Packaging), and Shape  Manufacturing"
-[codes]
   [codes.326130]
   name = "Laminated Plastics Plate, Sheet (except Packaging), and Shape  Manufacturing"
-[codes]
   [codes.32614]
   name = "Polystyrene Foam Product Manufacturing"
-[codes]
   [codes.326140]
   name = "Polystyrene Foam Product Manufacturing"
-[codes]
   [codes.32615]
   name = "Urethane and Other Foam Product (except Polystyrene) Manufacturing"
-[codes]
   [codes.326150]
   name = "Urethane and Other Foam Product (except Polystyrene) Manufacturing"
-[codes]
   [codes.32616]
   name = "Plastics Bottle Manufacturing"
-[codes]
   [codes.326160]
   name = "Plastics Bottle Manufacturing32619 Other Plastics Product Manufacturing"
-[codes]
   [codes.326191]
   name = "Plastics Plumbing Fixture Manufacturing"
-[codes]
   [codes.326199]
   name = "All Other Plastics Product Manufacturing"
-[codes]
   [codes.3262]
   name = "Rubber Product Manufacturing"
-[codes]
   [codes.32621]
   name = "Tire Manufacturing"
-[codes]
   [codes.326211]
   name = "Tire Manufacturing (except Retreading)"
-[codes]
   [codes.326212]
   name = "Tire Retreading"
-[codes]
   [codes.32622]
   name = "Rubber and Plastics Hoses and Belting Manufacturing"
-[codes]
   [codes.326220]
   name = "Rubber and Plastics Hoses and Belting Manufacturing"
-[codes]
   [codes.32629]
   name = "Other Rubber Product Manufacturing"
-[codes]
   [codes.326291]
   name = "Rubber Product Manufacturing for Mechanical Use"
-[codes]
   [codes.326299]
   name = "All Other Rubber Product Manufacturing"
-[codes]
   [codes.327]
   name = "Nonmetallic Mineral Product Manufacturing"
-[codes]
   [codes.3271]
   name = "Clay Product and Refractory Manufacturing"
-[codes]
   [codes.32711]
   name = "Pottery, Ceramics, and Plumbing Fixture Manufacturing"
-[codes]
   [codes.327110]
   name = "Pottery, Ceramics, and Plumbing Fixture Manufacturing"
-[codes]
   [codes.32712]
   name = "Clay Building Material and Refractories Manufacturing"
-[codes]
   [codes.327120]
   name = "Clay Building Material and Refractories Manufacturing"
-[codes]
   [codes.3272]
   name = "Glass and Glass Product Manufacturing"
-[codes]
   [codes.32721]
   name = "Glass and Glass Product Manufacturing"
-[codes]
   [codes.327211]
   name = "Flat Glass Manufacturing"
-[codes]
   [codes.327212]
   name = "Other Pressed and Blown Glass and Glassware Manufacturing"
-[codes]
   [codes.327213]
   name = "Glass Container Manufacturing"
-[codes]
   [codes.327215]
   name = "Glass Product Manufacturing Made of Purchased Glass"
-[codes]
   [codes.3273]
   name = "Cement and Concrete Product Manufacturing"
-[codes]
   [codes.32731]
   name = "Cement Manufacturing"
-[codes]
   [codes.327310]
   name = "Cement Manufacturing"
-[codes]
   [codes.32732]
   name = "Ready-Mix Concrete Manufacturing"
-[codes]
   [codes.327320]
   name = "Ready-Mix Concrete Manufacturing"
-[codes]
   [codes.32733]
   name = "Concrete Pipe, Brick, and Block Manufacturing"
-[codes]
   [codes.327331]
   name = "Concrete Block and Brick Manufacturing"
-[codes]
   [codes.327332]
   name = "Concrete Pipe Manufacturing"
-[codes]
   [codes.32739]
   name = "Other Concrete Product Manufacturing"
-[codes]
   [codes.327390]
   name = "Other Concrete Product Manufacturing"
-[codes]
   [codes.3274]
   name = "Lime and Gypsum Product Manufacturing"
-[codes]
   [codes.32741]
   name = "Lime Manufacturing"
-[codes]
   [codes.327410]
   name = "Lime Manufacturing"
-[codes]
   [codes.32742]
   name = "Gypsum Product Manufacturing"
-[codes]
   [codes.327420]
-  name = "Gypsum Product Manufacturing"
-[codes]
-  [codes.3279]
-  name = "Other Nonmetallic Mineral Product Manufacturing"
-[codes]
+  name = "Gypsum Product Manufacturing3279 Other Nonmetallic Mineral Product Manufacturing"
   [codes.32791]
   name = "Abrasive Product Manufacturing"
-[codes]
   [codes.327910]
   name = "Abrasive Product Manufacturing"
-[codes]
   [codes.32799]
   name = "All Other Nonmetallic Mineral Product Manufacturing"
-[codes]
   [codes.327991]
   name = "Cut Stone and Stone Product Manufacturing"
-[codes]
   [codes.327992]
   name = "Ground or Treated Mineral and Earth Manufacturing"
-[codes]
   [codes.327993]
   name = "Mineral Wool Manufacturing"
-[codes]
   [codes.327999]
   name = "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing"
-[codes]
   [codes.331]
   name = "Primary Metal Manufacturing"
-[codes]
   [codes.3311]
   name = "Iron and Steel Mills and Ferroalloy Manufacturing"
-[codes]
   [codes.33111]
   name = "Iron and Steel Mills and Ferroalloy Manufacturing"
-[codes]
   [codes.331110]
   name = "Iron and Steel Mills and Ferroalloy Manufacturing"
-[codes]
   [codes.3312]
   name = "Steel Product Manufacturing from Purchased Steel"
-[codes]
   [codes.33121]
   name = "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel"
-[codes]
   [codes.331210]
   name = "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel"
-[codes]
   [codes.33122]
   name = "Rolling and Drawing of Purchased Steel"
-[codes]
   [codes.331221]
   name = "Rolled Steel Shape Manufacturing"
-[codes]
   [codes.331222]
   name = "Steel Wire Drawing"
-[codes]
   [codes.3313]
   name = "Alumina and Aluminum Production and Processing"
-[codes]
   [codes.33131]
   name = "Alumina and Aluminum Production and Processing"
-[codes]
   [codes.331313]
   name = "Alumina Refining and Primary Aluminum Production"
-[codes]
   [codes.331314]
   name = "Secondary Smelting and Alloying of Aluminum"
-[codes]
   [codes.331315]
   name = "Aluminum Sheet, Plate, and Foil Manufacturing"
-[codes]
   [codes.331318]
   name = "Other Aluminum Rolling, Drawing, and Extruding"
-[codes]
   [codes.3314]
   name = "Nonferrous Metal (except Aluminum) Production and Processing"
-[codes]
   [codes.33141]
   name = "Nonferrous Metal (except Aluminum) Smelting and Refining"
-[codes]
   [codes.331410]
   name = "Nonferrous Metal (except Aluminum) Smelting and Refining"
-[codes]
   [codes.33142]
   name = "Copper Rolling, Drawing, Extruding, and Alloying"
-[codes]
   [codes.331420]
   name = "Copper Rolling, Drawing, Extruding, and Alloying"
-[codes]
   [codes.33149]
   name = "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding, and Alloying"
-[codes]
   [codes.331491]
   name = "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"
-[codes]
   [codes.331492]
   name = "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)"
-[codes]
   [codes.3315]
   name = "Foundries"
-[codes]
   [codes.33151]
   name = "Ferrous Metal Foundries"
-[codes]
   [codes.331511]
   name = "Iron Foundries"
-[codes]
   [codes.331512]
   name = "Steel Investment Foundries"
-[codes]
   [codes.331513]
   name = "Steel Foundries (except Investment) 33152 Nonferrous Metal Foundries"
-[codes]
   [codes.331523]
   name = "Nonferrous Metal Die-Casting Foundries"
-[codes]
   [codes.331524]
   name = "Aluminum Foundries (except Die-Casting)"
-[codes]
   [codes.331529]
   name = "Other Nonferrous Metal Foundries (except Die-Casting)"
-[codes]
   [codes.332]
   name = "Fabricated Metal Product Manufacturing"
-[codes]
   [codes.3321]
   name = "Forging and Stamping"
-[codes]
   [codes.33211]
   name = "Forging and Stamping"
-[codes]
   [codes.332111]
   name = "Iron and Steel Forging"
-[codes]
   [codes.332112]
   name = "Nonferrous Forging"
-[codes]
   [codes.332114]
   name = "Custom Roll Forming"
-[codes]
   [codes.332117]
   name = "Powder Metallurgy Part Manufacturing"
-[codes]
   [codes.332119]
   name = "Metal Crown, Closure, and Other Metal Stamping (except Automotive)"
-[codes]
   [codes.3322]
   name = "Cutlery and Handtool Manufacturing"
-[codes]
   [codes.33221]
   name = "Cutlery and Handtool Manufacturing"
-[codes]
   [codes.332215]
   name = "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing"
-[codes]
   [codes.332216]
   name = "Saw Blade and Handtool Manufacturing"
-[codes]
   [codes.3323]
   name = "Architectural and Structural Metals Manufacturing"
-[codes]
   [codes.33231]
   name = "Plate Work and Fabricated Structural Product Manufacturing"
-[codes]
   [codes.332311]
   name = "Prefabricated Metal Building and Component Manufacturing"
-[codes]
   [codes.332312]
   name = "Fabricated Structural Metal Manufacturing"
-[codes]
   [codes.332313]
   name = "Plate Work Manufacturing"
-[codes]
   [codes.33232]
   name = "Ornamental and Architectural Metal Products Manufacturing"
-[codes]
   [codes.332321]
   name = "Metal Window and Door Manufacturing"
-[codes]
   [codes.332322]
   name = "Sheet Metal Work Manufacturing"
-[codes]
   [codes.332323]
   name = "Ornamental and Architectural Metal Work Manufacturing"
-[codes]
   [codes.3324]
   name = "Boiler, Tank, and Shipping Container Manufacturing"
-[codes]
   [codes.33241]
   name = "Power Boiler and Heat Exchanger Manufacturing"
-[codes]
   [codes.332410]
   name = "Power Boiler and Heat Exchanger Manufacturing"
-[codes]
   [codes.33242]
   name = "Metal Tank (Heavy Gauge) Manufacturing"
-[codes]
   [codes.332420]
   name = "Metal Tank (Heavy Gauge) Manufacturing"
-[codes]
   [codes.33243]
   name = "Metal Can, Box, and Other Metal Container (Light Gauge) Manufacturing"
-[codes]
   [codes.332431]
   name = "Metal Can Manufacturing"
-[codes]
   [codes.332439]
   name = "Other Metal Container Manufacturing"
-[codes]
   [codes.3325]
   name = "Hardware Manufacturing"
-[codes]
   [codes.33251]
   name = "Hardware Manufacturing"
-[codes]
   [codes.332510]
   name = "Hardware Manufacturing"
-[codes]
   [codes.3326]
   name = "Spring and Wire Product Manufacturing"
-[codes]
   [codes.33261]
   name = "3 Spring Manufacturing"
-[codes]
   [codes.332618]
   name = "Other Fabricated Wire Product Manufacturing"
-[codes]
   [codes.3327]
   name = "Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"
-[codes]
   [codes.33271]
   name = "Machine Shops"
-[codes]
   [codes.332710]
   name = "Machine Shops"
-[codes]
   [codes.33272]
   name = "Turned Product and Screw, Nut, and Bolt Manufacturing"
-[codes]
   [codes.332721]
   name = "Precision Turned Product Manufacturing"
-[codes]
   [codes.332722]
   name = "Bolt, Nut, Screw, Rivet, and Washer Manufacturing"
-[codes]
   [codes.3328]
   name = "Coating, Engraving, Heat Treating, and Allied Activities"
-[codes]
   [codes.33281]
   name = "Coating, Engraving, Heat Treating, and Allied Activities"
-[codes]
   [codes.332811]
   name = "Metal Heat Treating"
-[codes]
   [codes.332812]
   name = "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
-[codes]
   [codes.332813]
   name = "Electroplating, Plating, Polishing, Anodizing, and Coloring"
-[codes]
   [codes.3329]
   name = "Other Fabricated Metal Product Manufacturing"
-[codes]
   [codes.33291]
   name = "Metal Valve Manufacturing"
-[codes]
   [codes.332911]
   name = "Industrial Valve Manufacturing"
-[codes]
   [codes.332912]
   name = "Fluid Power Valve and Hose Fitting Manufacturing"
-[codes]
   [codes.332913]
   name = "Plumbing Fixture Fitting and Trim Manufacturing"
-[codes]
   [codes.332919]
   name = "Other Metal Valve and Pipe Fitting Manufacturing"
-[codes]
   [codes.33299]
   name = "All Other Fabricated Metal Product Manufacturing"
-[codes]
   [codes.332991]
   name = "Ball and Roller Bearing Manufacturing"
-[codes]
   [codes.332992]
   name = "Small Arms Ammunition Manufacturing"
-[codes]
   [codes.332993]
   name = "Ammunition (except Small Arms) Manufacturing"
-[codes]
   [codes.332994]
   name = "Small Arms, Ordnance, and Ordnance Accessories Manufacturing"
-[codes]
   [codes.332996]
   name = "Fabricated Pipe and Pipe Fitting Manufacturing"
-[codes]
   [codes.332999]
   name = "All Other Miscellaneous Fabricated Metal Product Manufacturing"
-[codes]
   [codes.333]
   name = "Machinery Manufacturing"
-[codes]
   [codes.3331]
   name = "Agriculture, Construction, and Mining Machinery Manufacturing"
-[codes]
   [codes.33311]
   name = "Agricultural Implement Manufacturing"
-[codes]
   [codes.333111]
   name = "Farm Machinery and Equipment Manufacturing"
-[codes]
   [codes.333112]
   name = "Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing"
-[codes]
   [codes.33312]
   name = "Construction Machinery Manufacturing"
-[codes]
   [codes.333120]
   name = "Construction Machinery Manufacturing"
-[codes]
   [codes.33313]
   name = "Mining and Oil and Gas Field Machinery Manufacturing"
-[codes]
   [codes.333131]
   name = "Mining Machinery and Equipment Manufacturing"
-[codes]
   [codes.333132]
   name = "Oil and Gas Field Machinery and Equipment Manufacturing"
-[codes]
   [codes.3332]
   name = "4 Industrial Machinery Manufacturing"
-[codes]
   [codes.333241]
   name = "Food Product Machinery Manufacturing"
-[codes]
   [codes.333242]
   name = "Semiconductor Machinery Manufacturing"
-[codes]
   [codes.333243]
   name = "Sawmill, Woodworking, and Paper Machinery Manufacturing"
-[codes]
   [codes.333244]
   name = "Printing Machinery and Equipment Manufacturing"
-[codes]
   [codes.333249]
   name = "Other Industrial Machinery Manufacturing"
-[codes]
   [codes.3333]
   name = "Commercial and Service Industry Machinery Manufacturing"
-[codes]
   [codes.33331]
   name = "Commercial and Service Industry Machinery Manufacturing"
-[codes]
   [codes.333314]
   name = "Optical Instrument and Lens Manufacturing"
-[codes]
   [codes.333316]
   name = "Photographic and Photocopying Equipment Manufacturing"
-[codes]
   [codes.333318]
   name = "Other Commercial and Service Industry Machinery Manufacturing"
-[codes]
   [codes.3334]
   name = "Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"
-[codes]
   [codes.33341]
   name = "Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"
-[codes]
   [codes.333413]
   name = "Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing"
-[codes]
   [codes.333414]
   name = "Heating Equipment (except Warm Air Furnaces) Manufacturing"
-[codes]
   [codes.333415]
   name = "Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"
-[codes]
   [codes.3335]
   name = "Metalworking Machinery Manufacturing"
-[codes]
   [codes.33351]
   name = "Metalworking Machinery Manufacturing"
-[codes]
   [codes.333511]
   name = "Industrial Mold Manufacturing"
-[codes]
   [codes.333514]
   name = "Special Die and Tool, Die Set, Jig, and Fixture Manufacturing"
-[codes]
   [codes.333515]
   name = "Cutting Tool and Machine Tool Accessory Manufacturing"
-[codes]
   [codes.333517]
   name = "Machine Tool Manufacturing"
-[codes]
   [codes.333519]
   name = "Rolling Mill and Other Metalworking Machinery Manufacturing"
-[codes]
   [codes.3336]
   name = "Engine, Turbine, and Power Transmission Equipment Manufacturing"
-[codes]
   [codes.33361]
   name = "Engine, Turbine, and Power Transmission Equipment Manufacturing"
-[codes]
   [codes.333611]
   name = "Turbine and Turbine Generator Set Units Manufacturing"
-[codes]
   [codes.333612]
   name = "Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing"
-[codes]
   [codes.333613]
   name = "Mechanical Power Transmission Equipment Manufacturing"
-[codes]
   [codes.333618]
   name = "Other Engine Equipment Manufacturing"
-[codes]
   [codes.3339]
   name = "Other General Purpose Machinery Manufacturing"
-[codes]
   [codes.33391]
   name = "Pump and Compressor Manufacturing"
-[codes]
   [codes.333911]
   name = "Pump and Pumping Equipment Manufacturing"
-[codes]
   [codes.333912]
   name = "Air and Gas Compressor Manufacturing"
-[codes]
   [codes.333913]
   name = "Measuring and Dispensing Pump Manufacturing"
-[codes]
   [codes.33392]
   name = "Material Handling Equipment Manufacturing"
-[codes]
   [codes.333921]
   name = "Elevator and Moving Stairway Manufacturing 333922 Conveyor and Conveying Equipment Manufacturing"
-[codes]
   [codes.333923]
   name = "Overhead Traveling Crane, Hoist, and Monorail System Manufacturing"
-[codes]
   [codes.333924]
   name = "Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing"
-[codes]
   [codes.33399]
   name = "All Other General Purpose Machinery Manufacturing"
-[codes]
   [codes.333991]
   name = "Power-Driven Handtool Manufacturing"
-[codes]
   [codes.333992]
   name = "Welding and Soldering Equipment Manufacturing"
-[codes]
   [codes.333993]
   name = "Packaging Machinery Manufacturing"
-[codes]
   [codes.333994]
   name = "Industrial Process Furnace and Oven Manufacturing"
-[codes]
   [codes.333995]
   name = "Fluid Power Cylinder and Actuator Manufacturing"
-[codes]
   [codes.333996]
   name = "Fluid Power Pump and Motor Manufacturing"
-[codes]
   [codes.333997]
   name = "Scale and Balance Manufacturing"
-[codes]
   [codes.333999]
   name = "All Other Miscellaneous General Purpose Machinery Manufacturing"
-[codes]
   [codes.334]
   name = "Computer and Electronic Product Manufacturing"
-[codes]
   [codes.3341]
   name = "Computer and Peripheral Equipment Manufacturing"
-[codes]
   [codes.33411]
   name = "Computer and Peripheral Equipment Manufacturing"
-[codes]
   [codes.334111]
   name = "Electronic Computer Manufacturing"
-[codes]
   [codes.334112]
   name = "Computer Storage Device Manufacturing"
-[codes]
   [codes.334118]
   name = "Computer Terminal and Other Computer Peripheral Equipment Manufacturing"
-[codes]
   [codes.3342]
   name = "Communications Equipment Manufacturing"
-[codes]
   [codes.33421]
   name = "Telephone Apparatus Manufacturing"
-[codes]
   [codes.334210]
   name = "Telephone Apparatus Manufacturing"
-[codes]
   [codes.33422]
   name = "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing"
-[codes]
   [codes.334220]
   name = "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing"
-[codes]
   [codes.33429]
   name = "Other Communications Equipment Manufacturing"
-[codes]
   [codes.334290]
   name = "Other Communications Equipment Manufacturing"
-[codes]
   [codes.3343]
   name = "Audio and Video Equipment Manufacturing"
-[codes]
   [codes.33431]
   name = "Audio and Video Equipment Manufacturing"
-[codes]
   [codes.334310]
   name = "Audio and Video Equipment Manufacturing"
-[codes]
   [codes.3344]
   name = "Semiconductor and Other Electronic Component Manufacturing"
-[codes]
   [codes.33441]
   name = "Semiconductor and Other Electronic Component Manufacturing"
-[codes]
   [codes.334412]
   name = "Bare Printed Circuit Board Manufacturing"
-[codes]
   [codes.334413]
   name = "Semiconductor and Related Device Manufacturing"
-[codes]
   [codes.334416]
   name = "Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing"
-[codes]
   [codes.334417]
   name = "Electronic Connector Manufacturing"
-[codes]
   [codes.334418]
   name = "Printed Circuit Assembly (Electronic Assembly) Manufacturing"
-[codes]
   [codes.334419]
   name = "Other Electronic Component Manufacturing 3345 Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
-[codes]
   [codes.33451]
   name = "Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
-[codes]
   [codes.334510]
   name = "Electromedical and Electrotherapeutic Apparatus Manufacturing"
-[codes]
   [codes.334511]
   name = "Search, Detection, Navigation, Guidance, Aeronautical, and NauticalSystem and Instrument Manufacturing"
-[codes]
   [codes.334512]
   name = "Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use"
-[codes]
   [codes.334513]
   name = "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
-[codes]
   [codes.334514]
   name = "Totalizing Fluid Meter and Counting Device Manufacturing"
-[codes]
   [codes.334515]
   name = "Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals"
-[codes]
   [codes.334516]
   name = "Analytical Laboratory Instrument Manufacturing"
-[codes]
   [codes.334517]
   name = "Irradiation Apparatus Manufacturing"
-[codes]
   [codes.334519]
   name = "Other Measuring and Controlling Device Manufacturing"
-[codes]
   [codes.3346]
   name = "Manufacturing and Reproducing Magnetic and Optical Media"
-[codes]
   [codes.33461]
   name = "Manufacturing and Reproducing Magnetic and Optical Media"
-[codes]
   [codes.334613]
   name = "Blank Magnetic and Optical Recording Media Manufacturing"
-[codes]
   [codes.334614]
   name = "Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing"
-[codes]
   [codes.335]
   name = "Electrical Equipment, Appliance, and Component Manufacturing"
-[codes]
   [codes.3351]
   name = "Electric Lighting Equipment Manufacturing"
-[codes]
   [codes.33511]
   name = "Electric Lamp Bulb and Part Manufacturing"
-[codes]
   [codes.335110]
   name = "Electric Lamp Bulb and Part Manufacturing"
-[codes]
   [codes.33512]
   name = "Lighting Fixture Manufacturing"
-[codes]
   [codes.335121]
   name = "Residential Electric Lighting Fixture Manufacturing"
-[codes]
   [codes.335122]
   name = "Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing"
-[codes]
   [codes.335129]
   name = "Other Lighting Equipment Manufacturing"
-[codes]
   [codes.3352]
   name = "Household Appliance Manufacturing"
-[codes]
   [codes.33521]
   name = "Small Electrical Appliance Manufacturing"
-[codes]
   [codes.335210]
   name = "Small Electrical Appliance Manufacturing"
-[codes]
   [codes.33522]
   name = "Major Appliance Manufacturing"
-[codes]
   [codes.335221]
   name = "Household Cooking Appliance Manufacturing"
-[codes]
   [codes.335222]
   name = "Household Refrigerator and Home Freezer Manufacturing"
-[codes]
   [codes.335224]
   name = "Household Laundry Equipment Manufacturing"
-[codes]
   [codes.335228]
   name = "Other Major Household Appliance Manufacturing"
-[codes]
   [codes.3353]
   name = "Electrical Equipment Manufacturing"
-[codes]
   [codes.33531]
   name = "Electrical Equipment Manufacturing"
-[codes]
   [codes.335311]
   name = "Power, Distribution, and Specialty Transformer Manufacturing 335312 Motor and Generator Manufacturing"
-[codes]
   [codes.335313]
   name = "Switchgear and Switchboard Apparatus Manufacturing"
-[codes]
   [codes.335314]
   name = "Relay and Industrial Control Manufacturing"
-[codes]
   [codes.3359]
   name = "Other Electrical Equipment and Component Manufacturing"
-[codes]
   [codes.33591]
   name = "Battery Manufacturing"
-[codes]
   [codes.335911]
   name = "Storage Battery Manufacturing"
-[codes]
   [codes.335912]
   name = "Primary Battery Manufacturing"
-[codes]
   [codes.33592]
   name = "Communication and Energy Wire and Cable Manufacturing"
-[codes]
   [codes.335921]
   name = "Fiber Optic Cable Manufacturing"
-[codes]
   [codes.335929]
   name = "Other Communication and Energy Wire Manufacturing"
-[codes]
   [codes.33593]
   name = "Wiring Device Manufacturing"
-[codes]
   [codes.335931]
   name = "Current-Carrying Wiring Device Manufacturing"
-[codes]
   [codes.335932]
   name = "Noncurrent-Carrying Wiring Device Manufacturing"
-[codes]
   [codes.33599]
   name = "All Other Electrical Equipment and Component Manufacturing"
-[codes]
   [codes.335991]
   name = "Carbon and Graphite Product Manufacturing"
-[codes]
   [codes.335999]
   name = "All Other Miscellaneous Electrical Equipment and Component Manufacturing"
-[codes]
   [codes.336]
   name = "Transportation Equipment Manufacturing"
-[codes]
   [codes.3361]
   name = "Motor Vehicle Manufacturing"
-[codes]
   [codes.33611]
   name = "Automobile and Light Duty Motor Vehicle Manufacturing"
-[codes]
   [codes.336111]
   name = "Automobile Manufacturing"
-[codes]
   [codes.336112]
   name = "Light Truck and Utility Vehicle Manufacturing"
-[codes]
   [codes.33612]
   name = "Heavy Duty Truck Manufacturing"
-[codes]
   [codes.336120]
   name = "Heavy Duty Truck Manufacturing"
-[codes]
   [codes.3362]
   name = "Motor Vehicle Body and Trailer Manufacturing"
-[codes]
   [codes.33621]
   name = "Motor Vehicle Body and Trailer Manufacturing"
-[codes]
   [codes.336211]
   name = "Motor Vehicle Body Manufacturing"
-[codes]
   [codes.336212]
   name = "Truck Trailer Manufacturing"
-[codes]
   [codes.336213]
   name = "Motor Home Manufacturing"
-[codes]
   [codes.336214]
   name = "Travel Trailer and Camper Manufacturing"
-[codes]
   [codes.3363]
   name = "Motor Vehicle Parts Manufacturing"
-[codes]
   [codes.33631]
   name = "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing"
-[codes]
   [codes.336310]
   name = "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing"
-[codes]
   [codes.33632]
   name = "Motor Vehicle Electrical and Electronic Equipment Manufacturing"
-[codes]
   [codes.336320]
   name = "Motor Vehicle Electrical and Electronic Equipment Manufacturing"
-[codes]
   [codes.33633]
   name = "Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing"
-[codes]
   [codes.336330]
   name = "Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing"
-[codes]
   [codes.33634]
   name = "0 Motor Vehicle Brake System Manufacturing"
-[codes]
   [codes.33635]
   name = "Motor Vehicle Transmission and Power Train Parts Manufacturing"
-[codes]
   [codes.336350]
   name = "Motor Vehicle Transmission and Power Train Parts Manufacturing"
-[codes]
   [codes.33636]
   name = "Motor Vehicle Seating and Interior Trim Manufacturing"
-[codes]
   [codes.336360]
   name = "Motor Vehicle Seating and Interior Trim Manufacturing"
-[codes]
   [codes.33637]
   name = "Motor Vehicle Metal Stamping"
-[codes]
   [codes.336370]
   name = "Motor Vehicle Metal Stamping"
-[codes]
   [codes.33639]
   name = "Other Motor Vehicle Parts Manufacturing"
-[codes]
   [codes.336390]
   name = "Other Motor Vehicle Parts Manufacturing"
-[codes]
   [codes.3364]
   name = "Aerospace Product and Parts Manufacturing"
-[codes]
   [codes.33641]
   name = "Aerospace Product and Parts Manufacturing"
-[codes]
   [codes.336411]
   name = "Aircraft Manufacturing"
-[codes]
   [codes.336412]
   name = "Aircraft Engine and Engine Parts Manufacturing"
-[codes]
   [codes.336413]
   name = "Other Aircraft Parts and Auxiliary Equipment Manufacturing"
-[codes]
   [codes.336414]
   name = "Guided Missile and Space Vehicle Manufacturing"
-[codes]
   [codes.336415]
   name = "Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing"
-[codes]
   [codes.336419]
   name = "Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing"
-[codes]
   [codes.3365]
   name = "Railroad Rolling Stock Manufacturing"
-[codes]
   [codes.33651]
   name = "Railroad Rolling Stock Manufacturing"
-[codes]
   [codes.336510]
   name = "Railroad Rolling Stock Manufacturing"
-[codes]
   [codes.3366]
   name = "Ship and Boat Building"
-[codes]
   [codes.33661]
   name = "Ship and Boat Building"
-[codes]
   [codes.336611]
   name = "Ship Building and Repairing"
-[codes]
   [codes.336612]
   name = "Boat Building"
-[codes]
   [codes.3369]
   name = "Other Transportation Equipment Manufacturing"
-[codes]
   [codes.33699]
   name = "Other Transportation Equipment Manufacturing"
-[codes]
   [codes.336991]
   name = "Motorcycle, Bicycle, and Parts Manufacturing"
-[codes]
   [codes.336992]
   name = "Military Armored Vehicle, Tank, and Tank Component Manufacturing"
-[codes]
   [codes.336999]
   name = "All Other Transportation Equipment Manufacturing"
-[codes]
   [codes.337]
   name = "Furniture and Related Product Manufacturing"
-[codes]
   [codes.3371]
   name = "Household and Institutional Furniture and Kitchen Cabinet Manufacturing"
-[codes]
   [codes.33711]
   name = "Wood Kitchen Cabinet and Countertop Manufacturing"
-[codes]
   [codes.337110]
   name = "Wood Kitchen Cabinet and Countertop Manufacturing"
-[codes]
   [codes.33712]
   name = "Household and Institutional Furniture Manufacturing"
-[codes]
   [codes.337121]
   name = "Upholstered Household Furniture Manufacturing"
-[codes]
   [codes.337122]
   name = "Nonupholstered Wood Household Furniture Manufacturing"
-[codes]
   [codes.337124]
   name = "Metal Household Furniture Manufacturing 337125 Household Furniture (except Wood and Metal) Manufacturing"
-[codes]
   [codes.337127]
   name = "Institutional Furniture Manufacturing"
-[codes]
   [codes.3372]
   name = "Office Furniture (including Fixtures) Manufacturing"
-[codes]
   [codes.33721]
   name = "Office Furniture (including Fixtures) Manufacturing"
-[codes]
   [codes.337211]
   name = "Wood Office Furniture Manufacturing"
-[codes]
   [codes.337212]
   name = "Custom Architectural Woodwork and Millwork Manufacturing"
-[codes]
   [codes.337214]
   name = "Office Furniture (except Wood) Manufacturing"
-[codes]
   [codes.337215]
   name = "Showcase, Partition, Shelving, and Locker Manufacturing"
-[codes]
   [codes.3379]
   name = "Other Furniture Related Product Manufacturing"
-[codes]
   [codes.33791]
   name = "Mattress Manufacturing"
-[codes]
   [codes.337910]
   name = "Mattress Manufacturing"
-[codes]
   [codes.33792]
   name = "Blind and Shade Manufacturing"
-[codes]
   [codes.337920]
   name = "Blind and Shade Manufacturing"
-[codes]
   [codes.339]
   name = "Miscellaneous Manufacturing"
-[codes]
   [codes.3391]
   name = "Medical Equipment and Supplies Manufacturing"
-[codes]
   [codes.33911]
   name = "Medical Equipment and Supplies Manufacturing"
-[codes]
   [codes.339112]
   name = "Surgical and Medical Instrument Manufacturing"
-[codes]
   [codes.339113]
   name = "Surgical Appliance and Supplies Manufacturing"
-[codes]
   [codes.339114]
   name = "Dental Equipment and Supplies Manufacturing"
-[codes]
   [codes.339115]
   name = "Ophthalmic Goods Manufacturing"
-[codes]
   [codes.339116]
   name = "Dental Laboratories"
-[codes]
   [codes.3399]
   name = "Other Miscellaneous Manufacturing"
-[codes]
   [codes.33991]
   name = "Jewelry and Silverware Manufacturing"
-[codes]
   [codes.339910]
   name = "Jewelry and Silverware Manufacturing"
-[codes]
   [codes.33992]
   name = "Sporting and Athletic Goods Manufacturing"
-[codes]
   [codes.339920]
   name = "Sporting and Athletic Goods Manufacturing"
-[codes]
   [codes.33993]
   name = "Doll, Toy, and Game Manufacturing"
-[codes]
   [codes.339930]
   name = "Doll, Toy, and Game Manufacturing"
-[codes]
   [codes.33994]
   name = "Office Supplies (except Paper) Manufacturing"
-[codes]
   [codes.339940]
   name = "Office Supplies (except Paper) Manufacturing"
-[codes]
   [codes.33995]
   name = "Sign Manufacturing"
-[codes]
   [codes.339950]
   name = "Sign Manufacturing"
-[codes]
   [codes.33999]
   name = "All Other Miscellaneous Manufacturing"
-[codes]
   [codes.339991]
   name = "Gasket, Packing, and Sealing Device Manufacturing"
-[codes]
   [codes.339992]
   name = "Musical Instrument Manufacturing"
-[codes]
   [codes.339993]
   name = "Fastener, Button, Needle, and Pin Manufacturing"
-[codes]
   [codes.339994]
   name = "Broom, Brush, and Mop Manufacturing"
-[codes]
   [codes.339995]
   name = "Burial Casket Manufacturing"
-[codes]
   [codes.339999]
   name = "All Other Miscellaneous Manufacturing 42 Wholesale Trade"
-[codes]
   [codes.423]
   name = "Merchant Wholesalers, Durable Goods"
-[codes]
   [codes.4231]
   name = "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers"
-[codes]
   [codes.42311]
   name = "Automobile and Other Motor Vehicle Merchant Wholesalers"
-[codes]
   [codes.423110]
   name = "Automobile and Other Motor Vehicle Merchant Wholesalers"
-[codes]
   [codes.42312]
   name = "Motor Vehicle Supplies and New Parts Merchant Wholesalers"
-[codes]
   [codes.423120]
   name = "Motor Vehicle Supplies and New Parts Merchant Wholesalers"
-[codes]
   [codes.42313]
   name = "Tire and Tube Merchant Wholesalers"
-[codes]
   [codes.423130]
   name = "Tire and Tube Merchant Wholesalers"
-[codes]
   [codes.42314]
   name = "Motor Vehicle Parts (Used) Merchant Wholesalers"
-[codes]
   [codes.423140]
   name = "Motor Vehicle Parts (Used) Merchant Wholesalers"
-[codes]
   [codes.4232]
   name = "Furniture and Home Furnishing Merchant Wholesalers"
-[codes]
   [codes.42321]
   name = "Furniture Merchant Wholesalers"
-[codes]
   [codes.423210]
   name = "Furniture Merchant Wholesalers"
-[codes]
   [codes.42322]
   name = "Home Furnishing Merchant Wholesalers"
-[codes]
   [codes.423220]
   name = "Home Furnishing Merchant Wholesalers"
-[codes]
   [codes.4233]
   name = "Lumber and Other Construction Materials Merchant Wholesalers"
-[codes]
   [codes.42331]
   name = "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers"
-[codes]
   [codes.423310]
   name = "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers"
-[codes]
   [codes.42332]
   name = "Brick, Stone, and Related Construction Material Merchant Wholesalers"
-[codes]
   [codes.423320]
   name = "Brick, Stone, and Related Construction Material Merchant Wholesalers"
-[codes]
   [codes.42333]
   name = "Roofing, Siding, and Insulation Material Merchant Wholesalers"
-[codes]
   [codes.423330]
   name = "Roofing, Siding, and Insulation Material Merchant Wholesalers"
-[codes]
   [codes.42339]
   name = "Other Construction Material Merchant Wholesalers"
-[codes]
   [codes.423390]
   name = "Other Construction Material Merchant Wholesalers"
-[codes]
   [codes.4234]
   name = "Professional and Commercial Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.42341]
   name = "Photographic Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.423410]
   name = "Photographic Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.42342]
   name = "Office Equipment Merchant Wholesalers"
-[codes]
   [codes.423420]
   name = "Office Equipment Merchant Wholesalers"
-[codes]
   [codes.42343]
   name = "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers"
-[codes]
   [codes.423430]
   name = "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers"
-[codes]
   [codes.42344]
   name = "Other Commercial Equipment Merchant Wholesalers"
-[codes]
   [codes.423440]
   name = "Other Commercial Equipment Merchant Wholesalers"
-[codes]
   [codes.42345]
   name = "0 Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.42346]
   name = "Ophthalmic Goods Merchant Wholesalers"
-[codes]
   [codes.423460]
   name = "Ophthalmic Goods Merchant Wholesalers"
-[codes]
   [codes.42349]
   name = "Other Professional Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.423490]
   name = "Other Professional Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.4235]
   name = "Metal and Mineral (except Petroleum) Merchant Wholesalers"
-[codes]
   [codes.42351]
   name = "Metal Service Centers and Other Metal Merchant Wholesalers"
-[codes]
   [codes.423510]
   name = "Metal Service Centers and Other Metal Merchant Wholesalers"
-[codes]
   [codes.42352]
   name = "Coal and Other Mineral and Ore Merchant Wholesalers"
-[codes]
   [codes.423520]
   name = "Coal and Other Mineral and Ore Merchant Wholesalers"
-[codes]
   [codes.4236]
   name = "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers"
-[codes]
   [codes.42361]
   name = "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"
-[codes]
   [codes.423610]
   name = "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"
-[codes]
   [codes.42362]
   name = "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers"
-[codes]
   [codes.423620]
   name = "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers"
-[codes]
   [codes.42369]
   name = "Other Electronic Parts and Equipment Merchant Wholesalers"
-[codes]
   [codes.423690]
   name = "Other Electronic Parts and Equipment Merchant Wholesalers"
-[codes]
   [codes.4237]
   name = "Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.42371]
   name = "Hardware Merchant Wholesalers"
-[codes]
   [codes.423710]
   name = "Hardware Merchant Wholesalers"
-[codes]
   [codes.42372]
   name = "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers"
-[codes]
   [codes.423720]
   name = "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers"
-[codes]
   [codes.42373]
   name = "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.423730]
   name = "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.42374]
   name = "Refrigeration Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.423740]
   name = "Refrigeration Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.4238]
   name = "Machinery, Equipment, and Supplies Merchant Wholesalers"
-[codes]
   [codes.42381]
   name = "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers"
-[codes]
   [codes.423810]
   name = "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers"
-[codes]
   [codes.42382]
   name = "Farm and Garden Machinery and Equipment Merchant Wholesalers"
-[codes]
   [codes.423820]
   name = "Farm and Garden Machinery and Equipment Merchant Wholesalers"
-[codes]
   [codes.42383]
   name = "Industrial Machinery and Equipment Merchant Wholesalers"
-[codes]
   [codes.423830]
   name = "Industrial Machinery and Equipment Merchant Wholesalers 42384 Industrial Supplies Merchant Wholesalers"
-[codes]
   [codes.423840]
   name = "Industrial Supplies Merchant Wholesalers"
-[codes]
   [codes.42385]
   name = "Service Establishment Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.423850]
   name = "Service Establishment Equipment and Supplies Merchant Wholesalers"
-[codes]
   [codes.42386]
   name = "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers"
-[codes]
   [codes.423860]
   name = "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers"
-[codes]
   [codes.4239]
   name = "Miscellaneous Durable Goods Merchant Wholesalers"
-[codes]
   [codes.42391]
   name = "Sporting and Recreational Goods and Supplies Merchant Wholesalers"
-[codes]
   [codes.423910]
   name = "Sporting and Recreational Goods and Supplies Merchant Wholesalers"
-[codes]
   [codes.42392]
   name = "Toy and Hobby Goods and Supplies Merchant Wholesalers"
-[codes]
   [codes.423920]
   name = "Toy and Hobby Goods and Supplies Merchant Wholesalers"
-[codes]
   [codes.42393]
   name = "Recyclable Material Merchant Wholesalers"
-[codes]
   [codes.423930]
   name = "Recyclable Material Merchant Wholesalers"
-[codes]
   [codes.42394]
   name = "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers"
-[codes]
   [codes.423940]
   name = "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers"
-[codes]
   [codes.42399]
   name = "Other Miscellaneous Durable Goods Merchant Wholesalers"
-[codes]
   [codes.423990]
   name = "Other Miscellaneous Durable Goods Merchant Wholesalers"
-[codes]
   [codes.424]
   name = "Merchant Wholesalers, Nondurable Goods"
-[codes]
   [codes.4241]
   name = "Paper and Paper Product Merchant Wholesalers"
-[codes]
   [codes.42411]
   name = "Printing and Writing Paper Merchant Wholesalers"
-[codes]
   [codes.424110]
   name = "Printing and Writing Paper Merchant Wholesalers"
-[codes]
   [codes.42412]
   name = "Stationery and Office Supplies Merchant Wholesalers"
-[codes]
   [codes.424120]
   name = "Stationery and Office Supplies Merchant Wholesalers"
-[codes]
   [codes.42413]
   name = "Industrial and Personal Service Paper Merchant Wholesalers"
-[codes]
   [codes.424130]
   name = "Industrial and Personal Service Paper Merchant Wholesalers"
-[codes]
   [codes.4242]
   name = "Drugs and Druggists' Sundries Merchant Wholesalers"
-[codes]
   [codes.42421]
   name = "Drugs and Druggists' Sundries Merchant Wholesalers"
-[codes]
   [codes.424210]
   name = "Drugs and Druggists' Sundries Merchant Wholesalers"
-[codes]
   [codes.4243]
   name = "Apparel, Piece Goods, and Notions Merchant Wholesalers"
-[codes]
   [codes.42431]
   name = "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers"
-[codes]
   [codes.424310]
   name = "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers"
-[codes]
   [codes.42432]
   name = "Men's and Boys' Clothing and Furnishings Merchant Wholesalers"
-[codes]
   [codes.424320]
   name = "Men's and Boys' Clothing and Furnishings Merchant Wholesalers"
-[codes]
   [codes.42433]
   name = "Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers"
-[codes]
   [codes.424330]
   name = "Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers 42434 Footwear Merchant Wholesalers"
-[codes]
   [codes.424340]
   name = "Footwear Merchant Wholesalers"
-[codes]
   [codes.4244]
   name = "Grocery and Related Product Merchant Wholesalers"
-[codes]
   [codes.42441]
   name = "General Line Grocery Merchant Wholesalers"
-[codes]
   [codes.424410]
   name = "General Line Grocery Merchant Wholesalers"
-[codes]
   [codes.42442]
   name = "Packaged Frozen Food Merchant Wholesalers"
-[codes]
   [codes.424420]
   name = "Packaged Frozen Food Merchant Wholesalers"
-[codes]
   [codes.42443]
   name = "Dairy Product (except Dried or Canned) Merchant Wholesalers"
-[codes]
   [codes.424430]
   name = "Dairy Product (except Dried or Canned) Merchant Wholesalers"
-[codes]
   [codes.42444]
   name = "Poultry and Poultry Product Merchant Wholesalers"
-[codes]
   [codes.424440]
   name = "Poultry and Poultry Product Merchant Wholesalers"
-[codes]
   [codes.42445]
   name = "Confectionery Merchant Wholesalers"
-[codes]
   [codes.424450]
   name = "Confectionery Merchant Wholesalers"
-[codes]
   [codes.42446]
   name = "Fish and Seafood Merchant Wholesalers"
-[codes]
   [codes.424460]
   name = "Fish and Seafood Merchant Wholesalers"
-[codes]
   [codes.42447]
   name = "Meat and Meat Product Merchant Wholesalers"
-[codes]
   [codes.424470]
   name = "Meat and Meat Product Merchant Wholesalers"
-[codes]
   [codes.42448]
   name = "Fresh Fruit and Vegetable Merchant Wholesalers"
-[codes]
   [codes.424480]
   name = "Fresh Fruit and Vegetable Merchant Wholesalers"
-[codes]
   [codes.42449]
   name = "Other Grocery and Related Products Merchant Wholesalers"
-[codes]
   [codes.424490]
   name = "Other Grocery and Related Products Merchant Wholesalers"
-[codes]
   [codes.4245]
   name = "Farm Product Raw Material Merchant Wholesalers"
-[codes]
   [codes.42451]
   name = "Grain and Field Bean Merchant Wholesalers"
-[codes]
   [codes.424510]
   name = "Grain and Field Bean Merchant Wholesalers"
-[codes]
   [codes.42452]
   name = "Livestock Merchant Wholesalers"
-[codes]
   [codes.424520]
   name = "Livestock Merchant Wholesalers"
-[codes]
   [codes.42459]
   name = "Other Farm Product Raw Material Merchant Wholesalers"
-[codes]
   [codes.424590]
   name = "Other Farm Product Raw Material Merchant Wholesalers"
-[codes]
   [codes.4246]
   name = "Chemical and Allied Products Merchant Wholesalers"
-[codes]
   [codes.42461]
   name = "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers"
-[codes]
   [codes.424610]
   name = "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers"
-[codes]
   [codes.42469]
   name = "Other Chemical and Allied Products Merchant Wholesalers"
-[codes]
   [codes.424690]
   name = "Other Chemical and Allied Products Merchant Wholesalers"
-[codes]
   [codes.4247]
   name = "Petroleum and Petroleum Products Merchant Wholesalers"
-[codes]
   [codes.42471]
   name = "Petroleum Bulk Stations and Terminals"
-[codes]
   [codes.424710]
   name = "Petroleum Bulk Stations and Terminals"
-[codes]
   [codes.42472]
   name = "0 Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)"
-[codes]
   [codes.4248]
   name = "Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers"
-[codes]
   [codes.42481]
   name = "Beer and Ale Merchant Wholesalers"
-[codes]
   [codes.424810]
   name = "Beer and Ale Merchant Wholesalers"
-[codes]
   [codes.42482]
   name = "Wine and Distilled Alcoholic Beverage Merchant Wholesalers"
-[codes]
   [codes.424820]
   name = "Wine and Distilled Alcoholic Beverage Merchant Wholesalers"
-[codes]
   [codes.4249]
   name = "Miscellaneous Nondurable Goods Merchant Wholesalers"
-[codes]
   [codes.42491]
   name = "Farm Supplies Merchant Wholesalers"
-[codes]
   [codes.424910]
   name = "Farm Supplies Merchant Wholesalers"
-[codes]
   [codes.42492]
   name = "Book, Periodical, and Newspaper Merchant Wholesalers"
-[codes]
   [codes.424920]
   name = "Book, Periodical, and Newspaper Merchant Wholesalers"
-[codes]
   [codes.42493]
   name = "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers"
-[codes]
   [codes.424930]
   name = "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers"
-[codes]
   [codes.42494]
   name = "Tobacco and Tobacco Product Merchant Wholesalers"
-[codes]
   [codes.424940]
   name = "Tobacco and Tobacco Product Merchant Wholesalers"
-[codes]
   [codes.42495]
   name = "Paint, Varnish, and Supplies Merchant Wholesalers"
-[codes]
   [codes.424950]
   name = "Paint, Varnish, and Supplies Merchant Wholesalers"
-[codes]
   [codes.42499]
   name = "Other Miscellaneous Nondurable Goods Merchant Wholesalers"
-[codes]
   [codes.424990]
   name = "Other Miscellaneous Nondurable Goods Merchant Wholesalers"
-[codes]
   [codes.425]
   name = "Wholesale Electronic Markets and Agents and Brokers"
-[codes]
   [codes.4251]
   name = "Wholesale Electronic Markets and Agents and Brokers"
-[codes]
   [codes.42511]
   name = "Business to Business Electronic Markets"
-[codes]
   [codes.425110]
   name = "Business to Business Electronic Markets"
-[codes]
   [codes.42512]
   name = "Wholesale Trade Agents and Brokers"
-[codes]
   [codes.425120]
   name = "Wholesale Trade Agents and Brokers"
-[codes]
   [codes.44]
   name = "-45 Retail Trade"
-[codes]
   [codes.441]
   name = "Motor Vehicle and Parts Dealers"
-[codes]
   [codes.4411]
   name = "Automobile Dealers"
-[codes]
   [codes.44111]
   name = "New Car Dealers"
-[codes]
   [codes.441110]
   name = "New Car Dealers"
-[codes]
   [codes.44112]
   name = "Used Car Dealers"
-[codes]
   [codes.441120]
   name = "Used Car Dealers"
-[codes]
   [codes.4412]
   name = "Other Motor Vehicle Dealers"
-[codes]
   [codes.44121]
   name = "Recreational Vehicle Dealers"
-[codes]
   [codes.441210]
   name = "Recreational Vehicle Dealers"
-[codes]
   [codes.44122]
   name = "2 Boat Dealers"
-[codes]
   [codes.441228]
   name = "Motorcycle, ATV, and All Other Motor Vehicle Dealers"
-[codes]
   [codes.4413]
   name = "Automotive Parts, Accessories, and Tire Stores"
-[codes]
   [codes.44131]
   name = "Automotive Parts and Accessories Stores"
-[codes]
   [codes.441310]
   name = "Automotive Parts and Accessories Stores"
-[codes]
   [codes.44132]
   name = "Tire Dealers"
-[codes]
   [codes.441320]
   name = "Tire Dealers"
-[codes]
   [codes.442]
   name = "Furniture and Home Furnishings Stores"
-[codes]
   [codes.4421]
   name = "Furniture Stores"
-[codes]
   [codes.44211]
   name = "Furniture Stores"
-[codes]
   [codes.442110]
   name = "Furniture Stores"
-[codes]
   [codes.4422]
   name = "Home Furnishings Stores"
-[codes]
   [codes.44221]
   name = "Floor Covering Stores"
-[codes]
   [codes.442210]
   name = "Floor Covering Stores"
-[codes]
   [codes.44229]
   name = "Other Home Furnishings Stores"
-[codes]
   [codes.442291]
   name = "Window Treatment Stores"
-[codes]
   [codes.442299]
   name = "All Other Home Furnishings Stores"
-[codes]
   [codes.443]
   name = "Electronics and Appliance Stores"
-[codes]
   [codes.4431]
   name = "Electronics and Appliance Stores"
-[codes]
   [codes.44314]
   name = "Electronics and Appliance Stores"
-[codes]
   [codes.443141]
   name = "Household Appliance Stores"
-[codes]
   [codes.443142]
   name = "Electronics Stores"
-[codes]
   [codes.444]
   name = "Building Material and Garden Equipment and Supplies Dealers"
-[codes]
   [codes.4441]
   name = "Building Material and Supplies Dealers"
-[codes]
   [codes.44411]
   name = "Home Centers"
-[codes]
   [codes.444110]
   name = "Home Centers"
-[codes]
   [codes.44412]
   name = "Paint and Wallpaper Stores"
-[codes]
   [codes.444120]
   name = "Paint and Wallpaper Stores"
-[codes]
   [codes.44413]
   name = "Hardware Stores"
-[codes]
   [codes.444130]
   name = "Hardware Stores"
-[codes]
   [codes.44419]
   name = "Other Building Material Dealers"
-[codes]
   [codes.444190]
   name = "Other Building Material Dealers"
-[codes]
   [codes.4442]
   name = "Lawn and Garden Equipment and Supplies Stores"
-[codes]
   [codes.44421]
   name = "Outdoor Power Equipment Stores"
-[codes]
   [codes.444210]
   name = "Outdoor Power Equipment Stores"
-[codes]
   [codes.44422]
   name = "Nursery, Garden Center, and Farm Supply Stores"
-[codes]
   [codes.444220]
   name = "Nursery, Garden Center, and Farm Supply Stores"
-[codes]
   [codes.445]
   name = "1 Grocery Stores"
-[codes]
   [codes.44511]
   name = "Supermarkets and Other Grocery (except Convenience) Stores"
-[codes]
   [codes.445110]
   name = "Supermarkets and Other Grocery (except Convenience) Stores"
-[codes]
   [codes.44512]
   name = "Convenience Stores"
-[codes]
   [codes.445120]
   name = "Convenience Stores"
-[codes]
   [codes.4452]
   name = "Specialty Food Stores"
-[codes]
   [codes.44521]
   name = "Meat Markets"
-[codes]
   [codes.445210]
   name = "Meat Markets"
-[codes]
   [codes.44522]
   name = "Fish and Seafood Markets"
-[codes]
   [codes.445220]
   name = "Fish and Seafood Markets"
-[codes]
   [codes.44523]
   name = "Fruit and Vegetable Markets"
-[codes]
   [codes.445230]
   name = "Fruit and Vegetable Markets"
-[codes]
   [codes.44529]
   name = "Other Specialty Food Stores"
-[codes]
   [codes.445291]
   name = "Baked Goods Stores"
-[codes]
   [codes.445292]
   name = "Confectionery and Nut Stores"
-[codes]
   [codes.445299]
   name = "All Other Specialty Food Stores"
-[codes]
   [codes.4453]
   name = "Beer, Wine, and Liquor Stores"
-[codes]
   [codes.44531]
   name = "Beer, Wine, and Liquor Stores"
-[codes]
   [codes.445310]
   name = "Beer, Wine, and Liquor Stores"
-[codes]
   [codes.446]
   name = "Health and Personal Care Stores"
-[codes]
   [codes.4461]
   name = "Health and Personal Care Stores"
-[codes]
   [codes.44611]
   name = "Pharmacies and Drug Stores"
-[codes]
   [codes.446110]
   name = "Pharmacies and Drug Stores"
-[codes]
   [codes.44612]
   name = "Cosmetics, Beauty Supplies, and Perfume Stores"
-[codes]
   [codes.446120]
   name = "Cosmetics, Beauty Supplies, and Perfume Stores"
-[codes]
   [codes.44613]
   name = "Optical Goods Stores"
-[codes]
   [codes.446130]
   name = "Optical Goods Stores"
-[codes]
   [codes.44619]
   name = "Other Health and Personal Care Stores"
-[codes]
   [codes.446191]
   name = "Food (Health) Supplement Stores"
-[codes]
   [codes.446199]
   name = "All Other Health and Personal Care Stores"
-[codes]
   [codes.447]
   name = "Gasoline Stations"
-[codes]
   [codes.4471]
   name = "Gasoline Stations"
-[codes]
   [codes.44711]
   name = "Gasoline Stations with Convenience Stores"
-[codes]
   [codes.447110]
   name = "Gasoline Stations with Convenience Stores"
-[codes]
   [codes.44719]
   name = "Other Gasoline Stations"
-[codes]
   [codes.447190]
   name = "Other Gasoline Stations"
-[codes]
   [codes.448]
   name = "Clothing and Clothing Accessories Stores"
-[codes]
   [codes.4481]
   name = "Clothing Stores"
-[codes]
   [codes.44811]
   name = "0 Men's Clothing Stores"
-[codes]
   [codes.44812]
   name = "Women's Clothing Stores"
-[codes]
   [codes.448120]
   name = "Women's Clothing Stores"
-[codes]
   [codes.44813]
   name = "Children's and Infants' Clothing Stores"
-[codes]
   [codes.448130]
   name = "Children's and Infants' Clothing Stores"
-[codes]
   [codes.44814]
   name = "Family Clothing Stores"
-[codes]
   [codes.448140]
   name = "Family Clothing Stores"
-[codes]
   [codes.44815]
   name = "Clothing Accessories Stores"
-[codes]
   [codes.448150]
   name = "Clothing Accessories Stores"
-[codes]
   [codes.44819]
   name = "Other Clothing Stores"
-[codes]
   [codes.448190]
   name = "Other Clothing Stores"
-[codes]
   [codes.4482]
   name = "Shoe Stores"
-[codes]
   [codes.44821]
   name = "Shoe Stores"
-[codes]
   [codes.448210]
   name = "Shoe Stores"
-[codes]
   [codes.4483]
   name = "Jewelry, Luggage, and Leather Goods Stores"
-[codes]
   [codes.44831]
   name = "Jewelry Stores"
-[codes]
   [codes.448310]
   name = "Jewelry Stores"
-[codes]
   [codes.44832]
   name = "Luggage and Leather Goods Stores"
-[codes]
   [codes.448320]
   name = "Luggage and Leather Goods Stores"
-[codes]
   [codes.451]
   name = "Sporting Goods, Hobby, Musical Instrument, and Book Stores"
-[codes]
   [codes.4511]
   name = "Sporting Goods, Hobby, and Musical Instrument Stores"
-[codes]
   [codes.45111]
   name = "Sporting Goods Stores"
-[codes]
   [codes.451110]
   name = "Sporting Goods Stores"
-[codes]
   [codes.45112]
   name = "Hobby, Toy, and Game Stores"
-[codes]
   [codes.451120]
   name = "Hobby, Toy, and Game Stores"
-[codes]
   [codes.45113]
   name = "Sewing, Needlework, and Piece Goods Stores"
-[codes]
   [codes.451130]
   name = "Sewing, Needlework, and Piece Goods Stores"
-[codes]
   [codes.45114]
   name = "Musical Instrument and Supplies Stores"
-[codes]
   [codes.451140]
   name = "Musical Instrument and Supplies Stores"
-[codes]
   [codes.4512]
   name = "Book Stores and News Dealers"
-[codes]
   [codes.45121]
   name = "Book Stores and News Dealers"
-[codes]
   [codes.451211]
   name = "Book Stores"
-[codes]
   [codes.451212]
   name = "News Dealers and Newsstands"
-[codes]
   [codes.452]
   name = "General Merchandise Stores"
-[codes]
   [codes.4521]
   name = "Department Stores"
-[codes]
   [codes.45211]
   name = "Department Stores"
-[codes]
   [codes.452111]
   name = "Department Stores (except Discount Department Stores)"
-[codes]
   [codes.452112]
   name = "Discount Department Stores 4529 Other General Merchandise Stores"
-[codes]
   [codes.45291]
   name = "Warehouse Clubs and Supercenters"
-[codes]
   [codes.452910]
   name = "Warehouse Clubs and Supercenters"
-[codes]
   [codes.45299]
   name = "All Other General Merchandise Stores"
-[codes]
   [codes.452990]
   name = "All Other General Merchandise Stores"
-[codes]
   [codes.453]
   name = "Miscellaneous Store Retailers"
-[codes]
   [codes.4531]
   name = "Florists"
-[codes]
   [codes.45311]
   name = "Florists"
-[codes]
   [codes.453110]
   name = "Florists"
-[codes]
   [codes.4532]
   name = "Office Supplies, Stationery, and Gift Stores"
-[codes]
   [codes.45321]
   name = "Office Supplies and Stationery Stores"
-[codes]
   [codes.453210]
   name = "Office Supplies and Stationery Stores"
-[codes]
   [codes.45322]
   name = "Gift, Novelty, and Souvenir Stores"
-[codes]
   [codes.453220]
   name = "Gift, Novelty, and Souvenir Stores"
-[codes]
   [codes.4533]
   name = "Used Merchandise Stores"
-[codes]
   [codes.45331]
   name = "Used Merchandise Stores"
-[codes]
   [codes.453310]
   name = "Used Merchandise Stores"
-[codes]
   [codes.4539]
   name = "Other Miscellaneous Store Retailers"
-[codes]
   [codes.45391]
   name = "Pet and Pet Supplies Stores"
-[codes]
   [codes.453910]
   name = "Pet and Pet Supplies Stores"
-[codes]
   [codes.45392]
   name = "Art Dealers"
-[codes]
   [codes.453920]
   name = "Art Dealers"
-[codes]
   [codes.45393]
   name = "Manufactured (Mobile) Home Dealers"
-[codes]
   [codes.453930]
   name = "Manufactured (Mobile) Home Dealers"
-[codes]
   [codes.45399]
   name = "All Other Miscellaneous Store Retailers"
-[codes]
   [codes.453991]
   name = "Tobacco Stores"
-[codes]
   [codes.453998]
   name = "All Other Miscellaneous Store Retailers (except Tobacco Stores)"
-[codes]
   [codes.454]
   name = "Nonstore Retailers"
-[codes]
   [codes.4541]
   name = "Electronic Shopping and Mail-Order Houses"
-[codes]
   [codes.45411]
   name = "Electronic Shopping and Mail-Order Houses"
-[codes]
   [codes.454111]
   name = "Electronic Shopping"
-[codes]
   [codes.454112]
   name = "Electronic Auctions"
-[codes]
   [codes.454113]
   name = "Mail-Order Houses"
-[codes]
   [codes.4542]
   name = "Vending Machine Operators"
-[codes]
   [codes.45421]
   name = "Vending Machine Operators"
-[codes]
   [codes.454210]
   name = "Vending Machine Operators"
-[codes]
   [codes.4543]
   name = "Direct Selling Establishments"
-[codes]
   [codes.45431]
   name = "Fuel Dealers"
-[codes]
   [codes.454310]
   name = "Fuel Dealers 45439 Other Direct Selling Establishments"
-[codes]
   [codes.454390]
   name = "Other Direct Selling Establishments"
-[codes]
   [codes.48]
   name = "-49 Transportation and Warehousing"
-[codes]
   [codes.481]
   name = "Air Transportation"
-[codes]
   [codes.4811]
   name = "Scheduled Air Transportation"
-[codes]
   [codes.48111]
   name = "Scheduled Air Transportation"
-[codes]
   [codes.481111]
   name = "Scheduled Passenger Air Transportation"
-[codes]
   [codes.481112]
   name = "Scheduled Freight Air Transportation"
-[codes]
   [codes.4812]
   name = "Nonscheduled Air Transportation"
-[codes]
   [codes.48121]
   name = "Nonscheduled Air Transportation"
-[codes]
   [codes.481211]
   name = "Nonscheduled Chartered Passenger Air Transportation"
-[codes]
   [codes.481212]
   name = "Nonscheduled Chartered Freight Air Transportation"
-[codes]
   [codes.481219]
   name = "Other Nonscheduled Air Transportation"
-[codes]
   [codes.482]
   name = "Rail Transportation"
-[codes]
   [codes.4821]
   name = "Rail Transportation"
-[codes]
   [codes.48211]
   name = "Rail Transportation"
-[codes]
   [codes.482111]
   name = "Line-Haul Railroads"
-[codes]
   [codes.482112]
   name = "Short Line Railroads"
-[codes]
   [codes.483]
   name = "Water Transportation"
-[codes]
   [codes.4831]
   name = "Deep Sea, Coastal, and Great Lakes Water Transportation"
-[codes]
   [codes.48311]
   name = "Deep Sea, Coastal, and Great Lakes Water Transportation"
-[codes]
   [codes.483111]
   name = "Deep Sea Freight Transportation"
-[codes]
   [codes.483112]
   name = "Deep Sea Passenger Transportation"
-[codes]
   [codes.483113]
   name = "Coastal and Great Lakes Freight Transportation"
-[codes]
   [codes.483114]
   name = "Coastal and Great Lakes Passenger Transportation"
-[codes]
   [codes.4832]
   name = "Inland Water Transportation"
-[codes]
   [codes.48321]
   name = "Inland Water Transportation"
-[codes]
   [codes.483211]
   name = "Inland Water Freight Transportation"
-[codes]
   [codes.483212]
   name = "Inland Water Passenger Transportation"
-[codes]
   [codes.484]
   name = "Truck Transportation"
-[codes]
   [codes.4841]
   name = "General Freight Trucking"
-[codes]
   [codes.48411]
   name = "General Freight Trucking, Local"
-[codes]
   [codes.484110]
   name = "General Freight Trucking, Local"
-[codes]
   [codes.48412]
   name = "General Freight Trucking, Long-Distance"
-[codes]
   [codes.484121]
   name = "General Freight Trucking, Long-Distance, Truckload"
-[codes]
   [codes.484122]
   name = "General Freight Trucking, Long-Distance, Less Than Truckload"
-[codes]
   [codes.4842]
   name = "1 Used Household and Office Goods Moving"
-[codes]
   [codes.484210]
   name = "Used Household and Office Goods Moving"
-[codes]
   [codes.48422]
   name = "Specialized Freight (except Used Goods) Trucking, Local"
-[codes]
   [codes.484220]
   name = "Specialized Freight (except Used Goods) Trucking, Local"
-[codes]
   [codes.48423]
   name = "Specialized Freight (except Used Goods) Trucking, Long-Distance"
-[codes]
   [codes.484230]
   name = "Specialized Freight (except Used Goods) Trucking, Long-Distance"
-[codes]
   [codes.485]
   name = "Transit and Ground Passenger Transportation"
-[codes]
   [codes.4851]
   name = "Urban Transit Systems"
-[codes]
   [codes.48511]
   name = "Urban Transit Systems"
-[codes]
   [codes.485111]
   name = "Mixed Mode Transit Systems"
-[codes]
   [codes.485112]
   name = "Commuter Rail Systems"
-[codes]
   [codes.485113]
   name = "Bus and Other Motor Vehicle Transit Systems"
-[codes]
   [codes.485119]
   name = "Other Urban Transit Systems"
-[codes]
   [codes.4852]
   name = "Interurban and Rural Bus Transportation"
-[codes]
   [codes.48521]
   name = "Interurban and Rural Bus Transportation"
-[codes]
   [codes.485210]
   name = "Interurban and Rural Bus Transportation"
-[codes]
   [codes.4853]
   name = "Taxi and Limousine Service"
-[codes]
   [codes.48531]
   name = "Taxi Service"
-[codes]
   [codes.485310]
   name = "Taxi Service"
-[codes]
   [codes.48532]
   name = "Limousine Service"
-[codes]
   [codes.485320]
   name = "Limousine Service"
-[codes]
   [codes.4854]
   name = "School and Employee Bus Transportation"
-[codes]
   [codes.48541]
   name = "School and Employee Bus Transportation"
-[codes]
   [codes.485410]
   name = "School and Employee Bus Transportation"
-[codes]
   [codes.4855]
   name = "Charter Bus Industry"
-[codes]
   [codes.48551]
   name = "Charter Bus Industry"
-[codes]
   [codes.485510]
   name = "Charter Bus Industry"
-[codes]
   [codes.4859]
   name = "Other Transit and Ground Passenger Transportation"
-[codes]
   [codes.48599]
   name = "Other Transit and Ground Passenger Transportation"
-[codes]
   [codes.485991]
   name = "Special Needs Transportation"
-[codes]
   [codes.485999]
   name = "All Other Transit and Ground Passenger Transportation"
-[codes]
   [codes.486]
   name = "Pipeline Transportation"
-[codes]
   [codes.4861]
   name = "Pipeline Transportation of Crude Oil"
-[codes]
   [codes.48611]
   name = "Pipeline Transportation of Crude Oil"
-[codes]
   [codes.486110]
   name = "Pipeline Transportation of Crude Oil"
-[codes]
   [codes.4862]
   name = "Pipeline Transportation of Natural Gas"
-[codes]
   [codes.48621]
   name = "Pipeline Transportation of Natural Gas"
-[codes]
   [codes.486210]
   name = "Pipeline Transportation of Natural Gas"
-[codes]
   [codes.4869]
   name = "1 Pipeline Transportation of Refined Petroleum Products"
-[codes]
   [codes.486910]
   name = "Pipeline Transportation of Refined Petroleum Products"
-[codes]
   [codes.48699]
   name = "All Other Pipeline Transportation"
-[codes]
   [codes.486990]
   name = "All Other Pipeline Transportation"
-[codes]
   [codes.487]
   name = "Scenic and Sightseeing Transportation"
-[codes]
   [codes.4871]
   name = "Scenic and Sightseeing Transportation, Land"
-[codes]
   [codes.48711]
   name = "Scenic and Sightseeing Transportation, Land"
-[codes]
   [codes.487110]
   name = "Scenic and Sightseeing Transportation, Land"
-[codes]
   [codes.4872]
   name = "Scenic and Sightseeing Transportation, Water"
-[codes]
   [codes.48721]
   name = "Scenic and Sightseeing Transportation, Water"
-[codes]
   [codes.487210]
   name = "Scenic and Sightseeing Transportation, Water"
-[codes]
   [codes.4879]
   name = "Scenic and Sightseeing Transportation, Other"
-[codes]
   [codes.48799]
   name = "Scenic and Sightseeing Transportation, Other"
-[codes]
   [codes.487990]
   name = "Scenic and Sightseeing Transportation, Other"
-[codes]
   [codes.488]
   name = "Support Activities for Transportation"
-[codes]
   [codes.4881]
   name = "Support Activities for Air Transportation"
-[codes]
   [codes.48811]
   name = "Airport Operations"
-[codes]
   [codes.488111]
   name = "Air Traffic Control"
-[codes]
   [codes.488119]
   name = "Other Airport Operations"
-[codes]
   [codes.48819]
   name = "Other Support Activities for Air Transportation"
-[codes]
   [codes.488190]
   name = "Other Support Activities for Air Transportation"
-[codes]
   [codes.4882]
   name = "Support Activities for Rail Transportation"
-[codes]
   [codes.48821]
   name = "Support Activities for Rail Transportation"
-[codes]
   [codes.488210]
   name = "Support Activities for Rail Transportation"
-[codes]
   [codes.4883]
   name = "Support Activities for Water Transportation"
-[codes]
   [codes.48831]
   name = "Port and Harbor Operations"
-[codes]
   [codes.488310]
   name = "Port and Harbor Operations"
-[codes]
   [codes.48832]
   name = "Marine Cargo Handling"
-[codes]
   [codes.488320]
   name = "Marine Cargo Handling"
-[codes]
   [codes.48833]
   name = "Navigational Services to Shipping"
-[codes]
   [codes.488330]
   name = "Navigational Services to Shipping"
-[codes]
   [codes.48839]
   name = "Other Support Activities for Water Transportation"
-[codes]
   [codes.488390]
   name = "Other Support Activities for Water Transportation"
-[codes]
   [codes.4884]
   name = "Support Activities for Road Transportation"
-[codes]
   [codes.48841]
   name = "Motor Vehicle Towing"
-[codes]
   [codes.488410]
   name = "Motor Vehicle Towing"
-[codes]
   [codes.48849]
   name = "Other Support Activities for Road Transportation"
-[codes]
   [codes.488490]
   name = "Other Support Activities for Road Transportation"
-[codes]
   [codes.4885]
   name = "1 Freight Transportation Arrangement"
-[codes]
   [codes.488510]
   name = "Freight Transportation Arrangement"
-[codes]
   [codes.4889]
   name = "Other Support Activities for Transportation"
-[codes]
   [codes.48899]
   name = "Other Support Activities for Transportation"
-[codes]
   [codes.488991]
   name = "Packing and Crating"
-[codes]
   [codes.488999]
   name = "All Other Support Activities for Transportation"
-[codes]
   [codes.491]
   name = "Postal Service"
-[codes]
   [codes.4911]
   name = "Postal Service"
-[codes]
   [codes.49111]
   name = "Postal Service"
-[codes]
   [codes.491110]
   name = "Postal Service"
-[codes]
   [codes.492]
   name = "Couriers and Messengers"
-[codes]
   [codes.4921]
   name = "Couriers and Express Delivery Services"
-[codes]
   [codes.49211]
   name = "Couriers and Express Delivery Services"
-[codes]
   [codes.492110]
   name = "Couriers and Express Delivery Services"
-[codes]
   [codes.4922]
   name = "Local Messengers and Local Delivery"
-[codes]
   [codes.49221]
   name = "Local Messengers and Local Delivery"
-[codes]
   [codes.492210]
   name = "Local Messengers and Local Delivery"
-[codes]
   [codes.493]
   name = "Warehousing and Storage"
-[codes]
   [codes.4931]
   name = "Warehousing and Storage"
-[codes]
   [codes.49311]
   name = "General Warehousing and Storage"
-[codes]
   [codes.493110]
   name = "General Warehousing and Storage"
-[codes]
   [codes.49312]
   name = "Refrigerated Warehousing and Storage"
-[codes]
   [codes.493120]
   name = "Refrigerated Warehousing and Storage"
-[codes]
   [codes.49313]
   name = "Farm Product Warehousing and Storage"
-[codes]
   [codes.493130]
   name = "Farm Product Warehousing and Storage"
-[codes]
   [codes.49319]
   name = "Other Warehousing and Storage"
-[codes]
   [codes.493190]
   name = "Other Warehousing and Storage"
-[codes]
   [codes.51]
   name = "Information"
-[codes]
   [codes.511]
   name = "Publishing Industries (except Internet)"
-[codes]
   [codes.5111]
   name = "Newspaper, Periodical, Book, and Directory Publishers"
-[codes]
   [codes.51111]
   name = "Newspaper Publishers"
-[codes]
   [codes.511110]
   name = "Newspaper Publishers"
-[codes]
   [codes.51112]
   name = "Periodical Publishers"
-[codes]
   [codes.511120]
   name = "Periodical Publishers"
-[codes]
   [codes.51113]
   name = "Book Publishers"
-[codes]
   [codes.511130]
   name = "Book Publishers"
-[codes]
   [codes.51114]
   name = "0 Directory and Mailing List Publishers"
-[codes]
   [codes.51119]
   name = "Other Publishers"
-[codes]
   [codes.511191]
   name = "Greeting Card Publishers"
-[codes]
   [codes.511199]
   name = "All Other Publishers"
-[codes]
   [codes.5112]
   name = "Software Publishers"
-[codes]
   [codes.51121]
   name = "Software Publishers"
-[codes]
   [codes.511210]
   name = "Software Publishers"
-[codes]
   [codes.512]
   name = "Motion Picture and Sound Recording Industries"
-[codes]
   [codes.5121]
   name = "Motion Picture and Video Industries"
-[codes]
   [codes.51211]
   name = "Motion Picture and Video Production"
-[codes]
   [codes.512110]
   name = "Motion Picture and Video Production"
-[codes]
   [codes.51212]
   name = "Motion Picture and Video Distribution"
-[codes]
   [codes.512120]
   name = "Motion Picture and Video Distribution"
-[codes]
   [codes.51213]
   name = "Motion Picture and Video Exhibition"
-[codes]
   [codes.512131]
   name = "Motion Picture Theaters (except Drive-Ins)"
-[codes]
   [codes.512132]
   name = "Drive-In Motion Picture Theaters"
-[codes]
   [codes.51219]
   name = "Postproduction Services and Other Motion Picture and Video Industries"
-[codes]
   [codes.512191]
   name = "Teleproduction and Other Postproduction Services"
-[codes]
   [codes.512199]
   name = "Other Motion Picture and Video Industries"
-[codes]
   [codes.5122]
   name = "Sound Recording Industries"
-[codes]
   [codes.51221]
   name = "Record Production"
-[codes]
   [codes.512210]
   name = "Record Production"
-[codes]
   [codes.51222]
   name = "Integrated Record Production/Distribution"
-[codes]
   [codes.512220]
   name = "Integrated Record Production/Distribution"
-[codes]
   [codes.51223]
   name = "Music Publishers"
-[codes]
   [codes.512230]
   name = "Music Publishers"
-[codes]
   [codes.51224]
   name = "Sound Recording Studios"
-[codes]
   [codes.512240]
   name = "Sound Recording Studios"
-[codes]
   [codes.51229]
   name = "Other Sound Recording Industries"
-[codes]
   [codes.512290]
   name = "Other Sound Recording Industries"
-[codes]
   [codes.515]
   name = "Broadcasting (except Internet)"
-[codes]
   [codes.5151]
   name = "Radio and Television Broadcasting"
-[codes]
   [codes.51511]
   name = "Radio Broadcasting"
-[codes]
   [codes.515111]
   name = "Radio Networks"
-[codes]
   [codes.515112]
   name = "Radio Stations"
-[codes]
   [codes.51512]
   name = "Television Broadcasting"
-[codes]
   [codes.515120]
   name = "Television Broadcasting"
-[codes]
   [codes.5152]
   name = "1 Cable and Other Subscription Programming"
-[codes]
   [codes.515210]
   name = "Cable and Other Subscription Programming"
-[codes]
   [codes.517]
   name = "Telecommunications"
-[codes]
   [codes.5171]
   name = "Wired Telecommunications Carriers"
-[codes]
   [codes.51711]
   name = "Wired Telecommunications Carriers"
-[codes]
   [codes.517110]
   name = "Wired Telecommunications Carriers"
-[codes]
   [codes.5172]
   name = "Wireless Telecommunications Carriers (except Satellite)"
-[codes]
   [codes.51721]
   name = "Wireless Telecommunications Carriers (except Satellite)"
-[codes]
   [codes.517210]
   name = "Wireless Telecommunications Carriers (except Satellite)"
-[codes]
   [codes.5174]
   name = "Satellite Telecommunications"
-[codes]
   [codes.51741]
   name = "Satellite Telecommunications"
-[codes]
   [codes.517410]
   name = "Satellite Telecommunications"
-[codes]
   [codes.5179]
   name = "Other Telecommunications"
-[codes]
   [codes.51791]
   name = "Other Telecommunications"
-[codes]
   [codes.517911]
   name = "Telecommunications Resellers"
-[codes]
   [codes.517919]
   name = "All Other Telecommunications"
-[codes]
   [codes.518]
   name = "Data Processing, Hosting, and Related Services"
-[codes]
   [codes.5182]
   name = "Data Processing, Hosting, and Related Services"
-[codes]
   [codes.51821]
   name = "Data Processing, Hosting, and Related Services"
-[codes]
   [codes.518210]
   name = "Data Processing, Hosting, and Related Services"
-[codes]
   [codes.519]
   name = "Other Information Services"
-[codes]
   [codes.5191]
   name = "Other Information Services"
-[codes]
   [codes.51911]
   name = "News Syndicates"
-[codes]
   [codes.519110]
   name = "News Syndicates"
-[codes]
   [codes.51912]
   name = "Libraries and Archives"
-[codes]
   [codes.519120]
   name = "Libraries and Archives"
-[codes]
   [codes.51913]
   name = "Internet Publishing and Broadcasting and Web Search Portals"
-[codes]
   [codes.519130]
   name = "Internet Publishing and Broadcasting and Web Search Portals"
-[codes]
   [codes.51919]
   name = "All Other Information Services"
-[codes]
   [codes.519190]
   name = "All Other Information Services"
-[codes]
   [codes.52]
   name = "Finance and Insurance"
-[codes]
   [codes.521]
   name = "Monetary Authorities-Central Bank"
-[codes]
   [codes.5211]
   name = "Monetary Authorities-Central Bank"
-[codes]
   [codes.52111]
   name = "Monetary Authorities-Central Bank"
-[codes]
   [codes.521110]
   name = "Monetary Authorities-Central Bank"
-[codes]
   [codes.522]
   name = "Credit Intermediation and Related Activities"
-[codes]
   [codes.5221]
   name = "1 Commercial Banking"
-[codes]
   [codes.522110]
   name = "Commercial Banking"
-[codes]
   [codes.52212]
   name = "Savings Institutions"
-[codes]
   [codes.522120]
   name = "Savings Institutions"
-[codes]
   [codes.52213]
   name = "Credit Unions"
-[codes]
   [codes.522130]
   name = "Credit Unions"
-[codes]
   [codes.52219]
   name = "Other Depository Credit Intermediation"
-[codes]
   [codes.522190]
   name = "Other Depository Credit Intermediation"
-[codes]
   [codes.5222]
   name = "Nondepository Credit Intermediation"
-[codes]
   [codes.52221]
   name = "Credit Card Issuing"
-[codes]
   [codes.522210]
   name = "Credit Card Issuing"
-[codes]
   [codes.52222]
   name = "Sales Financing"
-[codes]
   [codes.522220]
   name = "Sales Financing"
-[codes]
   [codes.52229]
   name = "Other Nondepository Credit Intermediation"
-[codes]
   [codes.522291]
   name = "Consumer Lending"
-[codes]
   [codes.522292]
   name = "Real Estate Credit"
-[codes]
   [codes.522293]
   name = "International Trade Financing"
-[codes]
   [codes.522294]
   name = "Secondary Market Financing"
-[codes]
   [codes.522298]
   name = "All Other Nondepository Credit Intermediation"
-[codes]
   [codes.5223]
   name = "Activities Related to Credit Intermediation"
-[codes]
   [codes.52231]
   name = "Mortgage and Nonmortgage Loan Brokers"
-[codes]
   [codes.522310]
   name = "Mortgage and Nonmortgage Loan Brokers"
-[codes]
   [codes.52232]
   name = "Financial Transactions Processing, Reserve, and Clearinghouse Activities"
-[codes]
   [codes.522320]
   name = "Financial Transactions Processing, Reserve, and Clearinghouse Activities"
-[codes]
   [codes.52239]
   name = "Other Activities Related to Credit Intermediation"
-[codes]
   [codes.522390]
   name = "Other Activities Related to Credit Intermediation"
-[codes]
   [codes.523]
   name = "Securities, Commodity Contracts, and Other Financial Investments and Related Activities"
-[codes]
   [codes.5231]
   name = "Securities and Commodity Contracts Intermediation and Brokerage"
-[codes]
   [codes.52311]
   name = "Investment Banking and Securities Dealing"
-[codes]
   [codes.523110]
   name = "Investment Banking and Securities Dealing"
-[codes]
   [codes.52312]
   name = "Securities Brokerage"
-[codes]
   [codes.523120]
   name = "Securities Brokerage"
-[codes]
   [codes.52313]
   name = "Commodity Contracts Dealing"
-[codes]
   [codes.523130]
   name = "Commodity Contracts Dealing"
-[codes]
   [codes.52314]
   name = "Commodity Contracts Brokerage"
-[codes]
   [codes.523140]
   name = "Commodity Contracts Brokerage 5232 Securities and Commodity Exchanges"
-[codes]
   [codes.52321]
   name = "Securities and Commodity Exchanges"
-[codes]
   [codes.523210]
   name = "Securities and Commodity Exchanges"
-[codes]
   [codes.5239]
   name = "Other Financial Investment Activities"
-[codes]
   [codes.52391]
   name = "Miscellaneous Intermediation"
-[codes]
   [codes.523910]
   name = "Miscellaneous Intermediation"
-[codes]
   [codes.52392]
   name = "Portfolio Management"
-[codes]
   [codes.523920]
   name = "Portfolio Management"
-[codes]
   [codes.52393]
   name = "Investment Advice"
-[codes]
   [codes.523930]
   name = "Investment Advice"
-[codes]
   [codes.52399]
   name = "All Other Financial Investment Activities"
-[codes]
   [codes.523991]
   name = "Trust, Fiduciary, and Custody Activities"
-[codes]
   [codes.523999]
   name = "Miscellaneous Financial Investment Activities"
-[codes]
   [codes.524]
   name = "Insurance Carriers and Related Activities"
-[codes]
   [codes.5241]
   name = "Insurance Carriers"
-[codes]
   [codes.52411]
   name = "Direct Life, Health, and Medical Insurance Carriers"
-[codes]
   [codes.524113]
   name = "Direct Life Insurance Carriers"
-[codes]
   [codes.524114]
   name = "Direct Health and Medical Insurance Carriers"
-[codes]
   [codes.52412]
   name = "Direct Insurance (except Life, Health, and Medical) Carriers"
-[codes]
   [codes.524126]
   name = "Direct Property and Casualty Insurance Carriers"
-[codes]
   [codes.524127]
   name = "Direct Title Insurance Carriers"
-[codes]
   [codes.524128]
   name = "Other Direct Insurance (except Life, Health, and Medical) Carriers"
-[codes]
   [codes.52413]
   name = "Reinsurance Carriers"
-[codes]
   [codes.524130]
   name = "Reinsurance Carriers"
-[codes]
   [codes.5242]
   name = "Agencies, Brokerages, and Other Insurance Related Activities"
-[codes]
   [codes.52421]
   name = "Insurance Agencies and Brokerages"
-[codes]
   [codes.524210]
   name = "Insurance Agencies and Brokerages"
-[codes]
   [codes.52429]
   name = "Other Insurance Related Activities"
-[codes]
   [codes.524291]
   name = "Claims Adjusting"
-[codes]
   [codes.524292]
   name = "Third Party Administration of Insurance and Pension Funds"
-[codes]
   [codes.524298]
   name = "All Other Insurance Related Activities"
-[codes]
   [codes.525]
   name = "Funds, Trusts, and Other Financial Vehicles"
-[codes]
   [codes.5251]
   name = "Insurance and Employee Benefit Funds"
-[codes]
   [codes.52511]
   name = "Pension Funds"
-[codes]
   [codes.525110]
   name = "Pension Funds"
-[codes]
   [codes.52512]
   name = "Health and Welfare Funds"
-[codes]
   [codes.525120]
   name = "Health and Welfare Funds"
-[codes]
   [codes.52519]
   name = "Other Insurance Funds"
-[codes]
   [codes.525190]
   name = "Other Insurance Funds 5259 Other Investment Pools and Funds"
-[codes]
   [codes.52591]
   name = "Open-End Investment Funds"
-[codes]
   [codes.525910]
   name = "Open-End Investment Funds"
-[codes]
   [codes.52592]
   name = "Trusts, Estates, and Agency Accounts"
-[codes]
   [codes.525920]
   name = "Trusts, Estates, and Agency Accounts"
-[codes]
   [codes.52599]
   name = "Other Financial Vehicles"
-[codes]
   [codes.525990]
   name = "Other Financial Vehicles"
-[codes]
   [codes.53]
   name = "Real Estate and Rental and Leasing"
-[codes]
   [codes.531]
   name = "Real Estate"
-[codes]
   [codes.5311]
   name = "Lessors of Real Estate"
-[codes]
   [codes.53111]
   name = "Lessors of Residential Buildings and Dwellings"
-[codes]
   [codes.531110]
   name = "Lessors of Residential Buildings and Dwellings"
-[codes]
   [codes.53112]
   name = "Lessors of Nonresidential Buildings (except Miniwarehouses)"
-[codes]
   [codes.531120]
   name = "Lessors of Nonresidential Buildings (except Miniwarehouses)"
-[codes]
   [codes.53113]
   name = "Lessors of Miniwarehouses and Self-Storage Units"
-[codes]
   [codes.531130]
   name = "Lessors of Miniwarehouses and Self-Storage Units"
-[codes]
   [codes.53119]
   name = "Lessors of Other Real Estate Property"
-[codes]
   [codes.531190]
   name = "Lessors of Other Real Estate Property"
-[codes]
   [codes.5312]
   name = "Offices of Real Estate Agents and Brokers"
-[codes]
   [codes.53121]
   name = "Offices of Real Estate Agents and Brokers"
-[codes]
   [codes.531210]
   name = "Offices of Real Estate Agents and Brokers"
-[codes]
   [codes.5313]
   name = "Activities Related to Real Estate"
-[codes]
   [codes.53131]
   name = "Real Estate Property Managers"
-[codes]
   [codes.531311]
   name = "Residential Property Managers"
-[codes]
   [codes.531312]
   name = "Nonresidential Property Managers"
-[codes]
   [codes.53132]
   name = "Offices of Real Estate Appraisers"
-[codes]
   [codes.531320]
   name = "Offices of Real Estate Appraisers"
-[codes]
   [codes.53139]
   name = "Other Activities Related to Real Estate"
-[codes]
   [codes.531390]
   name = "Other Activities Related to Real Estate"
-[codes]
   [codes.532]
   name = "Rental and Leasing Services"
-[codes]
   [codes.5321]
   name = "Automotive Equipment Rental and Leasing"
-[codes]
   [codes.53211]
   name = "Passenger Car Rental and Leasing"
-[codes]
   [codes.532111]
   name = "Passenger Car Rental"
-[codes]
   [codes.532112]
   name = "Passenger Car Leasing"
-[codes]
   [codes.53212]
   name = "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
-[codes]
   [codes.532120]
   name = "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
-[codes]
   [codes.5322]
   name = "1 Consumer Electronics and Appliances Rental"
-[codes]
   [codes.532210]
   name = "Consumer Electronics and Appliances Rental"
-[codes]
   [codes.53222]
   name = "Formal Wear and Costume Rental"
-[codes]
   [codes.532220]
   name = "Formal Wear and Costume Rental"
-[codes]
   [codes.53223]
   name = "Video Tape and Disc Rental"
-[codes]
   [codes.532230]
   name = "Video Tape and Disc Rental"
-[codes]
   [codes.53229]
   name = "Other Consumer Goods Rental"
-[codes]
   [codes.532291]
   name = "Home Health Equipment Rental"
-[codes]
   [codes.532292]
   name = "Recreational Goods Rental"
-[codes]
   [codes.532299]
   name = "All Other Consumer Goods Rental"
-[codes]
   [codes.5323]
   name = "General Rental Centers"
-[codes]
   [codes.53231]
   name = "General Rental Centers"
-[codes]
   [codes.532310]
   name = "General Rental Centers"
-[codes]
   [codes.5324]
   name = "Commercial and Industrial Machinery and Equipment Rental and Leasing"
-[codes]
   [codes.53241]
   name = "Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing"
-[codes]
   [codes.532411]
   name = "Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing"
-[codes]
   [codes.532412]
   name = "Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing"
-[codes]
   [codes.53242]
   name = "Office Machinery and Equipment Rental and Leasing"
-[codes]
   [codes.532420]
   name = "Office Machinery and Equipment Rental and Leasing"
-[codes]
   [codes.53249]
   name = "Other Commercial and Industrial Machinery and Equipment Rental and Leasing"
-[codes]
   [codes.532490]
   name = "Other Commercial and Industrial Machinery and Equipment Rental and Leasing"
-[codes]
   [codes.533]
   name = "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
-[codes]
   [codes.5331]
   name = "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
-[codes]
   [codes.53311]
   name = "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
-[codes]
   [codes.533110]
   name = "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
-[codes]
   [codes.54]
   name = "Professional, Scientific, and Technical Services"
-[codes]
   [codes.541]
   name = "Professional, Scientific, and Technical Services"
-[codes]
   [codes.5411]
   name = "Legal Services"
-[codes]
   [codes.54111]
   name = "Offices of Lawyers"
-[codes]
   [codes.541110]
   name = "Offices of Lawyers"
-[codes]
   [codes.54112]
   name = "Offices of Notaries"
-[codes]
   [codes.541120]
   name = "Offices of Notaries54119 Other Legal Services"
-[codes]
   [codes.541191]
   name = "Title Abstract and Settlement Offices"
-[codes]
   [codes.541199]
   name = "All Other Legal Services"
-[codes]
   [codes.5412]
   name = "Accounting, Tax Preparation, Bookkeeping, and Payroll Services"
-[codes]
   [codes.54121]
   name = "Accounting, Tax Preparation, Bookkeeping, and Payroll Services"
-[codes]
   [codes.541211]
   name = "Offices of Certified Public Accountants"
-[codes]
   [codes.541213]
   name = "Tax Preparation Services"
-[codes]
   [codes.541214]
   name = "Payroll Services"
-[codes]
   [codes.541219]
   name = "Other Accounting Services"
-[codes]
   [codes.5413]
   name = "Architectural, Engineering, and Related Services"
-[codes]
   [codes.54131]
   name = "Architectural Services"
-[codes]
   [codes.541310]
   name = "Architectural Services"
-[codes]
   [codes.54132]
   name = "Landscape Architectural Services"
-[codes]
   [codes.541320]
   name = "Landscape Architectural Services"
-[codes]
   [codes.54133]
   name = "Engineering Services"
-[codes]
   [codes.541330]
   name = "Engineering Services"
-[codes]
   [codes.54134]
   name = "Drafting Services"
-[codes]
   [codes.541340]
   name = "Drafting Services"
-[codes]
   [codes.54135]
   name = "Building Inspection Services"
-[codes]
   [codes.541350]
   name = "Building Inspection Services"
-[codes]
   [codes.54136]
   name = "Geophysical Surveying and Mapping Services"
-[codes]
   [codes.541360]
   name = "Geophysical Surveying and Mapping Services"
-[codes]
   [codes.54137]
   name = "Surveying and Mapping (except Geophysical) Services"
-[codes]
   [codes.541370]
   name = "Surveying and Mapping (except Geophysical) Services"
-[codes]
   [codes.54138]
   name = "Testing Laboratories"
-[codes]
   [codes.541380]
   name = "Testing Laboratories"
-[codes]
   [codes.5414]
   name = "Specialized Design Services"
-[codes]
   [codes.54141]
   name = "Interior Design Services"
-[codes]
   [codes.541410]
   name = "Interior Design Services"
-[codes]
   [codes.54142]
   name = "Industrial Design Services"
-[codes]
   [codes.541420]
   name = "Industrial Design Services"
-[codes]
   [codes.54143]
   name = "Graphic Design Services"
-[codes]
   [codes.541430]
   name = "Graphic Design Services"
-[codes]
   [codes.54149]
   name = "Other Specialized Design Services"
-[codes]
   [codes.541490]
   name = "Other Specialized Design Services"
-[codes]
   [codes.5415]
   name = "Computer Systems Design and Related Services"
-[codes]
   [codes.54151]
   name = "Computer Systems Design and Related Services"
-[codes]
   [codes.541511]
   name = "Custom Computer Programming Services 541512 Computer Systems Design Services"
-[codes]
   [codes.541513]
   name = "Computer Facilities Management Services"
-[codes]
   [codes.541519]
   name = "Other Computer Related Services"
-[codes]
   [codes.5416]
   name = "Management, Scientific, and Technical Consulting Services"
-[codes]
   [codes.54161]
   name = "Management Consulting Services"
-[codes]
   [codes.541611]
   name = "Administrative Management and General Management Consulting Services"
-[codes]
   [codes.541612]
   name = "Human Resources Consulting Services"
-[codes]
   [codes.541613]
   name = "Marketing Consulting Services"
-[codes]
   [codes.541614]
   name = "Process, Physical Distribution, and Logistics Consulting Services"
-[codes]
   [codes.541618]
   name = "Other Management Consulting Services"
-[codes]
   [codes.54162]
   name = "Environmental Consulting Services"
-[codes]
   [codes.541620]
   name = "Environmental Consulting Services"
-[codes]
   [codes.54169]
   name = "Other Scientific and Technical Consulting Services"
-[codes]
   [codes.541690]
   name = "Other Scientific and Technical Consulting Services"
-[codes]
   [codes.5417]
   name = "Scientific Research and Development Services"
-[codes]
   [codes.54171]
   name = "Research and Development in the Physical, Engineering, and Life Sciences"
-[codes]
   [codes.541711]
   name = "Research and Development in Biotechnology"
-[codes]
   [codes.541712]
   name = "Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology)"
-[codes]
   [codes.54172]
   name = "Research and Development in the Social Sciences and Humanities"
-[codes]
   [codes.541720]
   name = "Research and Development in the Social Sciences and Humanities"
-[codes]
   [codes.5418]
   name = "Advertising, Public Relations, and Related Services"
-[codes]
   [codes.54181]
   name = "Advertising Agencies"
-[codes]
   [codes.541810]
   name = "Advertising Agencies"
-[codes]
   [codes.54182]
   name = "Public Relations Agencies"
-[codes]
   [codes.541820]
   name = "Public Relations Agencies"
-[codes]
   [codes.54183]
   name = "Media Buying Agencies"
-[codes]
   [codes.541830]
   name = "Media Buying Agencies"
-[codes]
   [codes.54184]
   name = "Media Representatives"
-[codes]
   [codes.541840]
   name = "Media Representatives"
-[codes]
   [codes.54185]
   name = "Outdoor Advertising"
-[codes]
   [codes.541850]
   name = "Outdoor Advertising"
-[codes]
   [codes.54186]
   name = "Direct Mail Advertising"
-[codes]
   [codes.541860]
   name = "Direct Mail Advertising"
-[codes]
   [codes.54187]
   name = "Advertising Material Distribution Services"
-[codes]
   [codes.541870]
   name = "Advertising Material Distribution Services"
-[codes]
   [codes.54189]
   name = "Other Services Related to Advertising"
-[codes]
   [codes.541890]
   name = "Other Services Related to Advertising 5419 Other Professional, Scientific, and Technical Services"
-[codes]
   [codes.54191]
   name = "Marketing Research and Public Opinion Polling"
-[codes]
   [codes.541910]
   name = "Marketing Research and Public Opinion Polling"
-[codes]
   [codes.54192]
   name = "Photographic Services"
-[codes]
   [codes.541921]
   name = "Photography Studios, Portrait"
-[codes]
   [codes.541922]
   name = "Commercial Photography"
-[codes]
   [codes.54193]
   name = "Translation and Interpretation Services"
-[codes]
   [codes.541930]
   name = "Translation and Interpretation Services"
-[codes]
   [codes.54194]
   name = "Veterinary Services"
-[codes]
   [codes.541940]
   name = "Veterinary Services"
-[codes]
   [codes.54199]
   name = "All Other Professional, Scientific, and Technical Services"
-[codes]
   [codes.541990]
   name = "All Other Professional, Scientific, and Technical Services"
-[codes]
   [codes.55]
   name = "Management of Companies and Enterprises"
-[codes]
   [codes.551]
   name = "Management of Companies and Enterprises"
-[codes]
   [codes.5511]
   name = "Management of Companies and Enterprises"
-[codes]
   [codes.55111]
   name = "Management of Companies and Enterprises"
-[codes]
   [codes.551111]
   name = "Offices of Bank Holding Companies"
-[codes]
   [codes.551112]
   name = "Offices of Other Holding Companies"
-[codes]
   [codes.551114]
   name = "Corporate, Subsidiary, and Regional Managing Offices"
-[codes]
   [codes.56]
   name = "Administrative and Support and Waste Management and Remediation Services"
-[codes]
   [codes.561]
   name = "Administrative and Support Services"
-[codes]
   [codes.5611]
   name = "Office Administrative Services"
-[codes]
   [codes.56111]
   name = "Office Administrative Services"
-[codes]
   [codes.561110]
   name = "Office Administrative Services"
-[codes]
   [codes.5612]
   name = "Facilities Support Services"
-[codes]
   [codes.56121]
   name = "Facilities Support Services"
-[codes]
   [codes.561210]
   name = "Facilities Support Services"
-[codes]
   [codes.5613]
   name = "Employment Services"
-[codes]
   [codes.56131]
   name = "Employment Placement Agencies and Executive Search Services"
-[codes]
   [codes.561311]
   name = "Employment Placement Agencies"
-[codes]
   [codes.561312]
   name = "Executive Search Services"
-[codes]
   [codes.56132]
   name = "Temporary Help Services"
-[codes]
   [codes.561320]
   name = "Temporary Help Services56133 Professional Employer Organizations"
-[codes]
   [codes.561330]
   name = "Professional Employer Organizations"
-[codes]
   [codes.5614]
   name = "Business Support Services"
-[codes]
   [codes.56141]
   name = "Document Preparation Services"
-[codes]
   [codes.561410]
   name = "Document Preparation Services"
-[codes]
   [codes.56142]
   name = "Telephone Call Centers"
-[codes]
   [codes.561421]
   name = "Telephone Answering Services"
-[codes]
   [codes.561422]
   name = "Telemarketing Bureaus and Other Contact Centers"
-[codes]
   [codes.56143]
   name = "Business Service Centers"
-[codes]
   [codes.561431]
   name = "Private Mail Centers"
-[codes]
   [codes.561439]
   name = "Other Business Service Centers (including Copy Shops)"
-[codes]
   [codes.56144]
   name = "Collection Agencies"
-[codes]
   [codes.561440]
   name = "Collection Agencies"
-[codes]
   [codes.56145]
   name = "Credit Bureaus"
-[codes]
   [codes.561450]
   name = "Credit Bureaus"
-[codes]
   [codes.56149]
   name = "Other Business Support Services"
-[codes]
   [codes.561491]
   name = "Repossession Services"
-[codes]
   [codes.561492]
   name = "Court Reporting and Stenotype Services"
-[codes]
   [codes.561499]
   name = "All Other Business Support Services"
-[codes]
   [codes.5615]
   name = "Travel Arrangement and Reservation Services"
-[codes]
   [codes.56151]
   name = "Travel Agencies"
-[codes]
   [codes.561510]
   name = "Travel Agencies"
-[codes]
   [codes.56152]
   name = "Tour Operators"
-[codes]
   [codes.561520]
   name = "Tour Operators"
-[codes]
   [codes.56159]
   name = "Other Travel Arrangement and Reservation Services"
-[codes]
   [codes.561591]
   name = "Convention and Visitors Bureaus"
-[codes]
   [codes.561599]
   name = "All Other Travel Arrangement and Reservation Services"
-[codes]
   [codes.5616]
   name = "Investigation and Security Services"
-[codes]
   [codes.56161]
   name = "Investigation, Guard, and Armored Car Services"
-[codes]
   [codes.561611]
   name = "Investigation Services"
-[codes]
   [codes.561612]
   name = "Security Guards and Patrol Services"
-[codes]
   [codes.561613]
   name = "Armored Car Services"
-[codes]
   [codes.56162]
   name = "Security Systems Services"
-[codes]
   [codes.561621]
   name = "Security Systems Services (except Locksmiths)"
-[codes]
   [codes.561622]
   name = "Locksmiths"
-[codes]
   [codes.5617]
   name = "Services to Buildings and Dwellings"
-[codes]
   [codes.56171]
   name = "Exterminating and Pest Control Services"
-[codes]
   [codes.561710]
   name = "Exterminating and Pest Control Services"
-[codes]
   [codes.56172]
   name = "0 Janitorial Services"
-[codes]
   [codes.56173]
   name = "Landscaping Services"
-[codes]
   [codes.561730]
   name = "Landscaping Services"
-[codes]
   [codes.56174]
   name = "Carpet and Upholstery Cleaning Services"
-[codes]
   [codes.561740]
   name = "Carpet and Upholstery Cleaning Services"
-[codes]
   [codes.56179]
   name = "Other Services to Buildings and Dwellings"
-[codes]
   [codes.561790]
   name = "Other Services to Buildings and Dwellings"
-[codes]
   [codes.5619]
   name = "Other Support Services"
-[codes]
   [codes.56191]
   name = "Packaging and Labeling Services"
-[codes]
   [codes.561910]
   name = "Packaging and Labeling Services"
-[codes]
   [codes.56192]
   name = "Convention and Trade Show Organizers"
-[codes]
   [codes.561920]
   name = "Convention and Trade Show Organizers"
-[codes]
   [codes.56199]
   name = "All Other Support Services"
-[codes]
   [codes.561990]
   name = "All Other Support Services"
-[codes]
   [codes.562]
   name = "Waste Management and Remediation Services"
-[codes]
   [codes.5621]
   name = "Waste Collection"
-[codes]
   [codes.56211]
   name = "Waste Collection"
-[codes]
   [codes.562111]
   name = "Solid Waste Collection"
-[codes]
   [codes.562112]
   name = "Hazardous Waste Collection"
-[codes]
   [codes.562119]
   name = "Other Waste Collection"
-[codes]
   [codes.5622]
   name = "Waste Treatment and Disposal"
-[codes]
   [codes.56221]
   name = "Waste Treatment and Disposal"
-[codes]
   [codes.562211]
   name = "Hazardous Waste Treatment and Disposal"
-[codes]
   [codes.562212]
   name = "Solid Waste Landfill"
-[codes]
   [codes.562213]
   name = "Solid Waste Combustors and Incinerators"
-[codes]
   [codes.562219]
   name = "Other Nonhazardous Waste Treatment and Disposal"
-[codes]
   [codes.5629]
   name = "Remediation and Other Waste Management Services"
-[codes]
   [codes.56291]
   name = "Remediation Services"
-[codes]
   [codes.562910]
   name = "Remediation Services"
-[codes]
   [codes.56292]
   name = "Materials Recovery Facilities"
-[codes]
   [codes.562920]
   name = "Materials Recovery Facilities"
-[codes]
   [codes.56299]
   name = "All Other Waste Management Services"
-[codes]
   [codes.562991]
   name = "Septic Tank and Related Services"
-[codes]
   [codes.562998]
   name = "All Other Miscellaneous Waste Management Services"
-[codes]
   [codes.61]
   name = "Educational Services"
-[codes]
   [codes.611]
   name = "Educational Services"
-[codes]
   [codes.6111]
   name = "Elementary and Secondary Schools"
-[codes]
   [codes.61111]
   name = "0 Elementary and Secondary Schools"
-[codes]
   [codes.6112]
   name = "Junior Colleges"
-[codes]
   [codes.61121]
   name = "Junior Colleges"
-[codes]
   [codes.611210]
   name = "Junior Colleges"
-[codes]
   [codes.6113]
   name = "Colleges, Universities, and Professional Schools"
-[codes]
   [codes.61131]
   name = "Colleges, Universities, and Professional Schools"
-[codes]
   [codes.611310]
   name = "Colleges, Universities, and Professional Schools"
-[codes]
   [codes.6114]
   name = "Business Schools and Computer and Management Training"
-[codes]
   [codes.61141]
   name = "Business and Secretarial Schools"
-[codes]
   [codes.611410]
   name = "Business and Secretarial Schools"
-[codes]
   [codes.61142]
   name = "Computer Training"
-[codes]
   [codes.611420]
   name = "Computer Training"
-[codes]
   [codes.61143]
   name = "Professional and Management Development Training"
-[codes]
   [codes.611430]
   name = "Professional and Management Development Training"
-[codes]
   [codes.6115]
   name = "Technical and Trade Schools"
-[codes]
   [codes.61151]
   name = "Technical and Trade Schools"
-[codes]
   [codes.611511]
   name = "Cosmetology and Barber Schools"
-[codes]
   [codes.611512]
   name = "Flight Training"
-[codes]
   [codes.611513]
   name = "Apprenticeship Training"
-[codes]
   [codes.611519]
   name = "Other Technical and Trade Schools"
-[codes]
   [codes.6116]
   name = "Other Schools and Instruction"
-[codes]
   [codes.61161]
   name = "Fine Arts Schools"
-[codes]
   [codes.611610]
   name = "Fine Arts Schools"
-[codes]
   [codes.61162]
   name = "Sports and Recreation Instruction"
-[codes]
   [codes.611620]
   name = "Sports and Recreation Instruction"
-[codes]
   [codes.61163]
   name = "Language Schools"
-[codes]
   [codes.611630]
   name = "Language Schools"
-[codes]
   [codes.61169]
   name = "All Other Schools and Instruction"
-[codes]
   [codes.611691]
   name = "Exam Preparation and Tutoring"
-[codes]
   [codes.611692]
   name = "Automobile Driving Schools"
-[codes]
   [codes.611699]
   name = "All Other Miscellaneous Schools and Instruction"
-[codes]
   [codes.6117]
   name = "Educational Support Services"
-[codes]
   [codes.61171]
   name = "Educational Support Services"
-[codes]
   [codes.611710]
   name = "Educational Support Services"
-[codes]
   [codes.62]
   name = "Health Care and Social Assistance"
-[codes]
   [codes.621]
   name = "Ambulatory Health Care Services"
-[codes]
   [codes.6211]
   name = "Offices of Physicians"
-[codes]
   [codes.62111]
   name = "1 Offices of Physicians (except Mental Health Specialists)"
-[codes]
   [codes.621112]
   name = "Offices of Physicians, Mental Health Specialists"
-[codes]
   [codes.6212]
   name = "Offices of Dentists"
-[codes]
   [codes.62121]
   name = "Offices of Dentists"
-[codes]
   [codes.621210]
   name = "Offices of Dentists"
-[codes]
   [codes.6213]
   name = "Offices of Other Health Practitioners"
-[codes]
   [codes.62131]
   name = "Offices of Chiropractors"
-[codes]
   [codes.621310]
   name = "Offices of Chiropractors"
-[codes]
   [codes.62132]
   name = "Offices of Optometrists"
-[codes]
   [codes.621320]
   name = "Offices of Optometrists"
-[codes]
   [codes.62133]
   name = "Offices of Mental Health Practitioners (except Physicians)"
-[codes]
   [codes.621330]
   name = "Offices of Mental Health Practitioners (except Physicians)"
-[codes]
   [codes.62134]
   name = "Offices of Physical, Occupational and Speech Therapists, and Audiologists"
-[codes]
   [codes.621340]
   name = "Offices of Physical, Occupational and Speech Therapists, and Audiologists"
-[codes]
   [codes.62139]
   name = "Offices of All Other Health Practitioners"
-[codes]
   [codes.621391]
   name = "Offices of Podiatrists"
-[codes]
   [codes.621399]
   name = "Offices of All Other Miscellaneous Health Practitioners"
-[codes]
   [codes.6214]
   name = "Outpatient Care Centers"
-[codes]
   [codes.62141]
   name = "Family Planning Centers"
-[codes]
   [codes.621410]
   name = "Family Planning Centers"
-[codes]
   [codes.62142]
   name = "Outpatient Mental Health and Substance Abuse Centers"
-[codes]
   [codes.621420]
   name = "Outpatient Mental Health and Substance Abuse Centers"
-[codes]
   [codes.62149]
   name = "Other Outpatient Care Centers"
-[codes]
   [codes.621491]
   name = "HMO Medical Centers"
-[codes]
   [codes.621492]
   name = "Kidney Dialysis Centers"
-[codes]
   [codes.621493]
   name = "Freestanding Ambulatory Surgical and Emergency Centers"
-[codes]
   [codes.621498]
   name = "All Other Outpatient Care Centers"
-[codes]
   [codes.6215]
   name = "Medical and Diagnostic Laboratories"
-[codes]
   [codes.62151]
   name = "Medical and Diagnostic Laboratories"
-[codes]
   [codes.621511]
   name = "Medical Laboratories"
-[codes]
   [codes.621512]
   name = "Diagnostic Imaging Centers"
-[codes]
   [codes.6216]
   name = "Home Health Care Services"
-[codes]
   [codes.62161]
   name = "Home Health Care Services"
-[codes]
   [codes.621610]
   name = "Home Health Care Services"
-[codes]
   [codes.6219]
   name = "Other Ambulatory Health Care Services"
-[codes]
   [codes.62191]
   name = "Ambulance Services"
-[codes]
   [codes.621910]
   name = "Ambulance Services"
-[codes]
   [codes.62199]
   name = "1 Blood and Organ Banks"
-[codes]
   [codes.621999]
   name = "All Other Miscellaneous Ambulatory Health Care Services"
-[codes]
   [codes.622]
   name = "Hospitals"
-[codes]
   [codes.6221]
   name = "General Medical and Surgical Hospitals"
-[codes]
   [codes.62211]
   name = "General Medical and Surgical Hospitals"
-[codes]
   [codes.622110]
   name = "General Medical and Surgical Hospitals"
-[codes]
   [codes.6222]
   name = "Psychiatric and Substance Abuse Hospitals"
-[codes]
   [codes.62221]
   name = "Psychiatric and Substance Abuse Hospitals"
-[codes]
   [codes.622210]
   name = "Psychiatric and Substance Abuse Hospitals"
-[codes]
   [codes.6223]
   name = "Specialty (except Psychiatric and Substance Abuse) Hospitals"
-[codes]
   [codes.62231]
   name = "Specialty (except Psychiatric and Substance Abuse) Hospitals"
-[codes]
   [codes.622310]
   name = "Specialty (except Psychiatric and Substance Abuse) Hospitals"
-[codes]
   [codes.623]
   name = "Nursing and Residential Care Facilities"
-[codes]
   [codes.6231]
   name = "Nursing Care Facilities (Skilled Nursing Facilities)"
-[codes]
   [codes.62311]
   name = "Nursing Care Facilities (Skilled Nursing Facilities)"
-[codes]
   [codes.623110]
   name = "Nursing Care Facilities (Skilled Nursing Facilities)"
-[codes]
   [codes.6232]
   name = "Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities"
-[codes]
   [codes.62321]
   name = "Residential Intellectual and Developmental Disability Facilities"
-[codes]
   [codes.623210]
   name = "Residential Intellectual and Developmental Disability Facilities"
-[codes]
   [codes.62322]
   name = "Residential Mental Health and Substance Abuse Facilities"
-[codes]
   [codes.623220]
   name = "Residential Mental Health and Substance Abuse Facilities"
-[codes]
   [codes.6233]
   name = "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly"
-[codes]
   [codes.62331]
   name = "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly"
-[codes]
   [codes.623311]
   name = "Continuing Care Retirement Communities"
-[codes]
   [codes.623312]
   name = "Assisted Living Facilities for the Elderly"
-[codes]
   [codes.6239]
   name = "Other Residential Care Facilities"
-[codes]
   [codes.62399]
   name = "Other Residential Care Facilities"
-[codes]
   [codes.623990]
   name = "Other Residential Care Facilities"
-[codes]
   [codes.624]
   name = "Social Assistance"
-[codes]
   [codes.6241]
   name = "Individual and Family Services"
-[codes]
   [codes.62411]
   name = "Child and Youth Services"
-[codes]
   [codes.624110]
   name = "Child and Youth Services"
-[codes]
   [codes.62412]
   name = "Services for the Elderly and Persons with Disabilities"
-[codes]
   [codes.624120]
   name = "Services for the Elderly and Persons with Disabilities"
-[codes]
   [codes.62419]
   name = "Other Individual and Family Services"
-[codes]
   [codes.624190]
   name = "Other Individual and Family Services"
-[codes]
   [codes.6242]
   name = "Community Food and Housing, and Emergency and Other Relief Services"
-[codes]
   [codes.62421]
   name = "Community Food Services"
-[codes]
   [codes.624210]
   name = "Community Food Services"
-[codes]
   [codes.62422]
   name = "Community Housing Services"
-[codes]
   [codes.624221]
   name = "Temporary Shelters"
-[codes]
   [codes.624229]
   name = "Other Community Housing Services"
-[codes]
   [codes.62423]
   name = "Emergency and Other Relief Services"
-[codes]
   [codes.624230]
   name = "Emergency and Other Relief Services"
-[codes]
   [codes.6243]
   name = "Vocational Rehabilitation Services"
-[codes]
   [codes.62431]
   name = "Vocational Rehabilitation Services"
-[codes]
   [codes.624310]
   name = "Vocational Rehabilitation Services"
-[codes]
   [codes.6244]
   name = "Child Day Care Services"
-[codes]
   [codes.62441]
   name = "Child Day Care Services"
-[codes]
   [codes.624410]
   name = "Child Day Care Services"
-[codes]
   [codes.71]
   name = "Arts, Entertainment, and Recreation"
-[codes]
   [codes.711]
   name = "Performing Arts, Spectator Sports, and Related Industries"
-[codes]
   [codes.7111]
   name = "Performing Arts Companies"
-[codes]
   [codes.71111]
   name = "Theater Companies and Dinner Theaters"
-[codes]
   [codes.711110]
   name = "Theater Companies and Dinner Theaters"
-[codes]
   [codes.71112]
   name = "Dance Companies"
-[codes]
   [codes.711120]
   name = "Dance Companies"
-[codes]
   [codes.71113]
   name = "Musical Groups and Artists"
-[codes]
   [codes.711130]
   name = "Musical Groups and Artists"
-[codes]
   [codes.71119]
   name = "Other Performing Arts Companies"
-[codes]
   [codes.711190]
   name = "Other Performing Arts Companies"
-[codes]
   [codes.7112]
   name = "Spectator Sports"
-[codes]
   [codes.71121]
   name = "Spectator Sports"
-[codes]
   [codes.711211]
   name = "Sports Teams and Clubs"
-[codes]
   [codes.711212]
   name = "Racetracks"
-[codes]
   [codes.711219]
   name = "Other Spectator Sports"
-[codes]
   [codes.7113]
   name = "Promoters of Performing Arts, Sports, and Similar Events"
-[codes]
   [codes.71131]
   name = "Promoters of Performing Arts, Sports, and Similar Events with Facilities"
-[codes]
   [codes.711310]
   name = "Promoters of Performing Arts, Sports, and Similar Events with Facilities"
-[codes]
   [codes.71132]
   name = "Promoters of Performing Arts, Sports, and Similar Events without Facilities"
-[codes]
   [codes.711320]
   name = "Promoters of Performing Arts, Sports, and Similar Events without Facilities 7114 Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
-[codes]
   [codes.71141]
   name = "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
-[codes]
   [codes.711410]
   name = "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
-[codes]
   [codes.7115]
   name = "Independent Artists, Writers, and Performers"
-[codes]
   [codes.71151]
   name = "Independent Artists, Writers, and Performers"
-[codes]
   [codes.711510]
   name = "Independent Artists, Writers, and Performers"
-[codes]
   [codes.712]
   name = "Museums, Historical Sites, and Similar Institutions"
-[codes]
   [codes.7121]
   name = "Museums, Historical Sites, and Similar Institutions"
-[codes]
   [codes.71211]
   name = "Museums"
-[codes]
   [codes.712110]
   name = "Museums"
-[codes]
   [codes.71212]
   name = "Historical Sites"
-[codes]
   [codes.712120]
   name = "Historical Sites"
-[codes]
   [codes.71213]
   name = "Zoos and Botanical Gardens"
-[codes]
   [codes.712130]
   name = "Zoos and Botanical Gardens"
-[codes]
   [codes.71219]
   name = "Nature Parks and Other Similar Institutions"
-[codes]
   [codes.712190]
   name = "Nature Parks and Other Similar Institutions"
-[codes]
   [codes.713]
   name = "Amusement, Gambling, and Recreation Industries"
-[codes]
   [codes.7131]
   name = "Amusement Parks and Arcades"
-[codes]
   [codes.71311]
   name = "Amusement and Theme Parks"
-[codes]
   [codes.713110]
   name = "Amusement and Theme Parks"
-[codes]
   [codes.71312]
   name = "Amusement Arcades"
-[codes]
   [codes.713120]
   name = "Amusement Arcades"
-[codes]
   [codes.7132]
   name = "Gambling Industries"
-[codes]
   [codes.71321]
   name = "Casinos (except Casino Hotels)"
-[codes]
   [codes.713210]
   name = "Casinos (except Casino Hotels)"
-[codes]
   [codes.71329]
   name = "Other Gambling Industries"
-[codes]
   [codes.713290]
   name = "Other Gambling Industries"
-[codes]
   [codes.7139]
   name = "Other Amusement and Recreation Industries"
-[codes]
   [codes.71391]
   name = "Golf Courses and Country Clubs"
-[codes]
   [codes.713910]
   name = "Golf Courses and Country Clubs"
-[codes]
   [codes.71392]
   name = "Skiing Facilities"
-[codes]
   [codes.713920]
   name = "Skiing Facilities"
-[codes]
   [codes.71393]
   name = "Marinas"
-[codes]
   [codes.713930]
   name = "Marinas"
-[codes]
   [codes.71394]
   name = "Fitness and Recreational Sports Centers"
-[codes]
   [codes.713940]
   name = "Fitness and Recreational Sports Centers"
-[codes]
   [codes.71395]
   name = "0 Bowling Centers"
-[codes]
   [codes.71399]
   name = "All Other Amusement and Recreation Industries"
-[codes]
   [codes.713990]
   name = "All Other Amusement and Recreation Industries"
-[codes]
   [codes.72]
   name = "Accommodation and Food Services"
-[codes]
   [codes.721]
   name = "Accommodation"
-[codes]
   [codes.7211]
   name = "Traveler Accommodation"
-[codes]
   [codes.72111]
   name = "Hotels (except Casino Hotels) and Motels"
-[codes]
   [codes.721110]
   name = "Hotels (except Casino Hotels) and Motels"
-[codes]
   [codes.72112]
   name = "Casino Hotels"
-[codes]
   [codes.721120]
   name = "Casino Hotels"
-[codes]
   [codes.72119]
   name = "Other Traveler Accommodation"
-[codes]
   [codes.721191]
   name = "Bed-and-Breakfast Inns"
-[codes]
   [codes.721199]
   name = "All Other Traveler Accommodation"
-[codes]
   [codes.7212]
   name = "RV (Recreational Vehicle) Parks and Recreational Camps"
-[codes]
   [codes.72121]
   name = "RV (Recreational Vehicle) Parks and Recreational Camps"
-[codes]
   [codes.721211]
   name = "RV (Recreational Vehicle) Parks and Campgrounds"
-[codes]
   [codes.721214]
   name = "Recreational and Vacation Camps (except Campgrounds)"
-[codes]
   [codes.7213]
   name = "Rooming and Boarding Houses"
-[codes]
   [codes.72131]
   name = "Rooming and Boarding Houses"
-[codes]
   [codes.721310]
   name = "Rooming and Boarding Houses"
-[codes]
   [codes.722]
   name = "Food Services and Drinking Places"
-[codes]
   [codes.7223]
   name = "Special Food Services"
-[codes]
   [codes.72231]
   name = "Food Service Contractors"
-[codes]
   [codes.722310]
   name = "Food Service Contractors"
-[codes]
   [codes.72232]
   name = "Caterers"
-[codes]
   [codes.722320]
   name = "Caterers"
-[codes]
   [codes.72233]
   name = "Mobile Food Services"
-[codes]
   [codes.722330]
   name = "Mobile Food Services"
-[codes]
   [codes.7224]
   name = "Drinking Places (Alcoholic Beverages)"
-[codes]
   [codes.72241]
   name = "Drinking Places (Alcoholic Beverages)"
-[codes]
   [codes.722410]
   name = "Drinking Places (Alcoholic Beverages)"
-[codes]
   [codes.7225]
   name = "Restaurants and Other Eating Places"
-[codes]
   [codes.72251]
   name = "Restaurants and Other Eating Places"
-[codes]
   [codes.722511]
   name = "Full-Service Restaurants"
-[codes]
   [codes.722513]
   name = "Limited-Service Restaurants"
-[codes]
   [codes.722514]
   name = "Cafeterias, Grill Buffets, and Buffets"
-[codes]
   [codes.722515]
   name = "Snack and Nonalcoholic Beverage Bars 81 Other Services (except Public Administration)"
-[codes]
   [codes.811]
   name = "Repair and Maintenance"
-[codes]
   [codes.8111]
   name = "Automotive Repair and Maintenance"
-[codes]
   [codes.81111]
   name = "Automotive Mechanical and Electrical Repair and Maintenance"
-[codes]
   [codes.811111]
   name = "General Automotive Repair"
-[codes]
   [codes.811112]
   name = "Automotive Exhaust System Repair"
-[codes]
   [codes.811113]
   name = "Automotive Transmission Repair"
-[codes]
   [codes.811118]
   name = "Other Automotive Mechanical and Electrical Repair and Maintenance"
-[codes]
   [codes.81112]
   name = "Automotive Body, Paint, Interior, and Glass Repair"
-[codes]
   [codes.811121]
   name = "Automotive Body, Paint, and Interior Repair and Maintenance"
-[codes]
   [codes.811122]
   name = "Automotive Glass Replacement Shops"
-[codes]
   [codes.81119]
   name = "Other Automotive Repair and Maintenance"
-[codes]
   [codes.811191]
   name = "Automotive Oil Change and Lubrication Shops"
-[codes]
   [codes.811192]
   name = "Car Washes"
-[codes]
   [codes.811198]
   name = "All Other Automotive Repair and Maintenance"
-[codes]
   [codes.8112]
   name = "Electronic and Precision Equipment Repair and Maintenance"
-[codes]
   [codes.81121]
   name = "Electronic and Precision Equipment Repair and Maintenance"
-[codes]
   [codes.811211]
   name = "Consumer Electronics Repair and Maintenance"
-[codes]
   [codes.811212]
   name = "Computer and Office Machine Repair and Maintenance"
-[codes]
   [codes.811213]
   name = "Communication Equipment Repair and Maintenance"
-[codes]
   [codes.811219]
   name = "Other Electronic and Precision Equipment Repair and Maintenance"
-[codes]
   [codes.8113]
   name = "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
-[codes]
   [codes.81131]
   name = "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
-[codes]
   [codes.811310]
   name = "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
-[codes]
   [codes.8114]
   name = "Personal and Household Goods Repair and Maintenance"
-[codes]
   [codes.81141]
   name = "Home and Garden Equipment and Appliance Repair and Maintenance"
-[codes]
   [codes.811411]
   name = "Home and Garden Equipment Repair and Maintenance"
-[codes]
   [codes.811412]
   name = "Appliance Repair and Maintenance"
-[codes]
   [codes.81142]
   name = "Reupholstery and Furniture Repair"
-[codes]
   [codes.811420]
   name = "Reupholstery and Furniture Repair"
-[codes]
   [codes.81143]
   name = "Footwear and Leather Goods Repair"
-[codes]
   [codes.811430]
   name = "Footwear and Leather Goods Repair"
-[codes]
   [codes.81149]
   name = "Other Personal and Household Goods Repair and Maintenance"
-[codes]
   [codes.811490]
   name = "Other Personal and Household Goods Repair and Maintenance"
-[codes]
   [codes.812]
   name = "Personal and Laundry Services"
-[codes]
   [codes.8121]
   name = "1 Hair, Nail, and Skin Care Services"
-[codes]
   [codes.812111]
   name = "Barber Shops"
-[codes]
   [codes.812112]
   name = "Beauty Salons"
-[codes]
   [codes.812113]
   name = "Nail Salons"
-[codes]
   [codes.81219]
   name = "Other Personal Care Services"
-[codes]
   [codes.812191]
   name = "Diet and Weight Reducing Centers"
-[codes]
   [codes.812199]
   name = "Other Personal Care Services"
-[codes]
   [codes.8122]
   name = "Death Care Services"
-[codes]
   [codes.81221]
   name = "Funeral Homes and Funeral Services"
-[codes]
   [codes.812210]
   name = "Funeral Homes and Funeral Services"
-[codes]
   [codes.81222]
   name = "Cemeteries and Crematories"
-[codes]
   [codes.812220]
   name = "Cemeteries and Crematories"
-[codes]
   [codes.8123]
   name = "Drycleaning and Laundry Services"
-[codes]
   [codes.81231]
   name = "Coin-Operated Laundries and Drycleaners"
-[codes]
   [codes.812310]
   name = "Coin-Operated Laundries and Drycleaners"
-[codes]
   [codes.81232]
   name = "Drycleaning and Laundry Services (except Coin-Operated)"
-[codes]
   [codes.812320]
   name = "Drycleaning and Laundry Services (except Coin-Operated)"
-[codes]
   [codes.81233]
   name = "Linen and Uniform Supply"
-[codes]
   [codes.812331]
   name = "Linen Supply"
-[codes]
   [codes.812332]
   name = "Industrial Launderers"
-[codes]
   [codes.8129]
   name = "Other Personal Services"
-[codes]
   [codes.81291]
   name = "Pet Care (except Veterinary) Services"
-[codes]
   [codes.812910]
   name = "Pet Care (except Veterinary) Services"
-[codes]
   [codes.81292]
   name = "Photofinishing"
-[codes]
   [codes.812921]
   name = "Photofinishing Laboratories (except One-Hour)"
-[codes]
   [codes.812922]
   name = "One-Hour Photofinishing"
-[codes]
   [codes.81293]
   name = "Parking Lots and Garages"
-[codes]
   [codes.812930]
   name = "Parking Lots and Garages"
-[codes]
   [codes.81299]
   name = "All Other Personal Services"
-[codes]
   [codes.812990]
   name = "All Other Personal Services"
-[codes]
   [codes.813]
   name = "Religious, Grantmaking, Civic, Professional, and Similar Organizations"
-[codes]
   [codes.8131]
   name = "Religious Organizations"
-[codes]
   [codes.81311]
   name = "Religious Organizations"
-[codes]
   [codes.813110]
   name = "Religious Organizations"
-[codes]
   [codes.8132]
   name = "Grantmaking and Giving Services"
-[codes]
   [codes.81321]
   name = "Grantmaking and Giving Services"
-[codes]
   [codes.813211]
   name = "Grantmaking Foundations"
-[codes]
   [codes.813212]
   name = "Voluntary Health Organizations 813219 Other Grantmaking and Giving Services"
-[codes]
   [codes.8133]
   name = "Social Advocacy Organizations"
-[codes]
   [codes.81331]
   name = "Social Advocacy Organizations"
-[codes]
   [codes.813311]
   name = "Human Rights Organizations"
-[codes]
   [codes.813312]
   name = "Environment, Conservation and Wildlife Organizations"
-[codes]
   [codes.813319]
   name = "Other Social Advocacy Organizations"
-[codes]
   [codes.8134]
   name = "Civic and Social Organizations"
-[codes]
   [codes.81341]
   name = "Civic and Social Organizations"
-[codes]
   [codes.813410]
   name = "Civic and Social Organizations"
-[codes]
   [codes.8139]
   name = "Business, Professional, Labor, Political, and Similar Organizations"
-[codes]
   [codes.81391]
   name = "Business Associations"
-[codes]
   [codes.813910]
   name = "Business Associations"
-[codes]
   [codes.81392]
   name = "Professional Organizations"
-[codes]
   [codes.813920]
   name = "Professional Organizations"
-[codes]
   [codes.81393]
   name = "Labor Unions and Similar Labor Organizations"
-[codes]
   [codes.813930]
   name = "Labor Unions and Similar Labor Organizations"
-[codes]
   [codes.81394]
   name = "Political Organizations"
-[codes]
   [codes.813940]
   name = "Political Organizations"
-[codes]
   [codes.81399]
   name = "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)"
-[codes]
   [codes.813990]
   name = "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)"
-[codes]
   [codes.814]
   name = "Private Households"
-[codes]
   [codes.8141]
   name = "Private Households"
-[codes]
   [codes.81411]
   name = "Private Households"
-[codes]
   [codes.814110]
   name = "Private Households"
-[codes]
   [codes.92]
   name = "Public Administration"
-[codes]
   [codes.921]
   name = "Executive, Legislative, and Other General Government Support"
-[codes]
   [codes.9211]
   name = "Executive, Legislative, and Other General Government Support"
-[codes]
   [codes.92111]
   name = "Executive Offices"
-[codes]
   [codes.921110]
   name = "Executive Offices"
-[codes]
   [codes.92112]
   name = "Legislative Bodies"
-[codes]
   [codes.921120]
   name = "Legislative Bodies"
-[codes]
   [codes.92113]
   name = "Public Finance Activities"
-[codes]
   [codes.921130]
   name = "Public Finance Activities"
-[codes]
   [codes.92114]
   name = "Executive and Legislative Offices, Combined"
-[codes]
   [codes.921140]
   name = "Executive and Legislative Offices, Combined"
-[codes]
   [codes.92115]
   name = "0 American Indian and Alaska Native Tribal Governments"
-[codes]
   [codes.92119]
   name = "Other General Government Support"
-[codes]
   [codes.921190]
   name = "Other General Government Support"
-[codes]
   [codes.922]
   name = "Justice, Public Order, and Safety Activities"
-[codes]
   [codes.9221]
   name = "Justice, Public Order, and Safety Activities"
-[codes]
   [codes.92211]
   name = "Courts"
-[codes]
   [codes.922110]
   name = "Courts"
-[codes]
   [codes.92212]
   name = "Police Protection"
-[codes]
   [codes.922120]
   name = "Police Protection"
-[codes]
   [codes.92213]
   name = "Legal Counsel and Prosecution"
-[codes]
   [codes.922130]
   name = "Legal Counsel and Prosecution"
-[codes]
   [codes.92214]
   name = "Correctional Institutions"
-[codes]
   [codes.922140]
   name = "Correctional Institutions"
-[codes]
   [codes.92215]
   name = "Parole Offices and Probation Offices"
-[codes]
   [codes.922150]
   name = "Parole Offices and Probation Offices"
-[codes]
   [codes.92216]
   name = "Fire Protection"
-[codes]
   [codes.922160]
   name = "Fire Protection"
-[codes]
   [codes.92219]
   name = "Other Justice, Public Order, and Safety Activities"
-[codes]
   [codes.922190]
   name = "Other Justice, Public Order, and Safety Activities"
-[codes]
   [codes.923]
   name = "Administration of Human Resource Programs"
-[codes]
   [codes.9231]
   name = "Administration of Human Resource Programs"
-[codes]
   [codes.92311]
   name = "Administration of Education Programs"
-[codes]
   [codes.923110]
   name = "Administration of Education Programs"
-[codes]
   [codes.92312]
   name = "Administration of Public Health Programs"
-[codes]
   [codes.923120]
   name = "Administration of Public Health Programs"
-[codes]
   [codes.92313]
   name = "Administration of Human Resource Programs (except Education, Public  Health, and Veterans' Affairs Programs)"
-[codes]
   [codes.923130]
   name = "Administration of Human Resource Programs (except Education, Public  Health, and Veterans' Affairs Programs)"
-[codes]
   [codes.92314]
   name = "Administration of Veterans' Affairs"
-[codes]
   [codes.923140]
   name = "Administration of Veterans' Affairs"
-[codes]
   [codes.924]
   name = "Administration of Environmental Quality Programs"
-[codes]
   [codes.9241]
   name = "Administration of Environmental Quality Programs"
-[codes]
   [codes.92411]
   name = "Administration of Air and Water Resource and Solid Waste Management Programs"
-[codes]
   [codes.924110]
   name = "Administration of Air and Water Resource and Solid Waste Management  Programs"
-[codes]
   [codes.92412]
   name = "Administration of Conservation Programs"
-[codes]
   [codes.924120]
   name = "Administration of Conservation Programs"
-[codes]
   [codes.925]
   name = "1 Administration of Housing Programs, Urban Planning, and Community Development"
-[codes]
   [codes.92511]
   name = "Administration of Housing Programs"
-[codes]
   [codes.925110]
   name = "Administration of Housing Programs"
-[codes]
   [codes.92512]
   name = "Administration of Urban Planning and Community and Rural Development"
-[codes]
   [codes.925120]
   name = "Administration of Urban Planning and Community and Rural Development"
-[codes]
   [codes.926]
   name = "Administration of Economic Programs"
-[codes]
   [codes.9261]
   name = "Administration of Economic Program"
-[codes]
   [codes.92611]
   name = "Administration of General Economic Programs"
-[codes]
   [codes.926110]
   name = "Administration of General Economic Programs"
-[codes]
   [codes.92612]
   name = "Regulation and Administration of Transportation Programs"
-[codes]
   [codes.926120]
   name = "Regulation and Administration of Transportation Programs"
-[codes]
   [codes.92613]
   name = "Regulation and Administration of Communications, Electric, Gas, and Other Utilities"
-[codes]
   [codes.926130]
   name = "Regulation and Administration of Communications, Electric, Gas, and Other Utilities"
-[codes]
   [codes.92614]
   name = "Regulation of Agricultural Marketing and Commodities"
-[codes]
   [codes.926140]
   name = "Regulation of Agricultural Marketing and Commodities"
-[codes]
   [codes.92615]
   name = "Regulation, Licensing, and Inspection of Miscellaneous Commercial  Sectors"
-[codes]
   [codes.926150]
   name = "Regulation, Licensing, and Inspection of Miscellaneous Commercial  Sectors"
-[codes]
   [codes.927]
   name = "Space Research and Technology"
-[codes]
   [codes.9271]
   name = "Space Research and Technology"
-[codes]
   [codes.92711]
   name = "Space Research and Technology"
-[codes]
   [codes.927110]
   name = "Space Research and Technology"
-[codes]
   [codes.928]
   name = "National Security and International Affairs"
-[codes]
   [codes.9281]
   name = "National Security and International Affairs"
-[codes]
   [codes.92811]
   name = "National Security"
-[codes]
   [codes.928110]
   name = "National Security"
-[codes]
   [codes.92812]
   name = "International Affairs"
-[codes]
   [codes.928120]
   name = "International Affairs"
