@@ -26,7 +26,7 @@ gem 'csi', '~> 0.3.0'
 
 # Usage
 
-You can look up 2-6 digits NAICS codes and 2-4 digit SIC codes. **Pleaes note:** If you *ever* cast the String codes to Integers, you're gonna have a bad time. SIC code 011 is `011` as a String and `11` as an Integer. The more you know :dizzy:
+You can look up 2-6 digits NAICS codes and 2-4 digit SIC codes. **Please note:** If you *ever* cast the String codes to Integers, you're gonna have a bad time. SIC code 011 is `011` as a String and `11` as an Integer. The more you know :dizzy:
 
 ```ruby
 
