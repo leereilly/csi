@@ -13,7 +13,7 @@ module CSI
       raise CSI::CodeInvalid, 'String required' unless code.is_a? String
 
       type.downcase!
-      raise CSI::TypeInvalid, 'Invalid type - SIC and NAICS only' unless type == 'naics' || type = 'sic'
+      raise CSI::TypeInvalid, 'Invalid type - SIC and NAICS only' unless type == 'naics' || type == 'sic'
 
       data_file = File.expand_path(__FILE__+"/../../data/#{type}/#{code}.toml")
       raise CSI::ClassificationInvalid unless File.exists? data_file
