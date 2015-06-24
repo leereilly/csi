@@ -15,7 +15,7 @@ gem install csi
 Or add this to your `Gemfile`:
 
 ```
-gem 'csi', '~> 0.3.0'
+gem 'csi', '~> 0.3.3'
 ```
 
 #### For everyone else:
