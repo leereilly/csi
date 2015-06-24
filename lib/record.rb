@@ -10,7 +10,6 @@ module CSI
     #
     # Returns a CSI::Record object or nil if one couldn't be created.
     def initialize(type, code)
-      puts "*"*80
       raise CSI::CodeInvalid, 'String required' unless code.is_a? String
 
       type.downcase!

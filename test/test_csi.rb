@@ -1,6 +1,6 @@
 require 'helper'
 
-class TestCsi < Test::Unit::TestCase
+class TestCsi < Minitest::Test
   should "find valid NAICS records" do
     naics_record = CSI::naics("928110")
     assert_equal "National Security", naics_record.name

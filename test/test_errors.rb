@@ -1,6 +1,6 @@
 require 'helper'
 
-class ErrorsTest < Test::Unit::TestCase
+class ErrorsTest < Minitest::Test
 
   def test_error_inheritance
     assert_kind_of  StandardError,
