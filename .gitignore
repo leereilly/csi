@@ -1,5 +1,6 @@
 .bundle
 .DS_Store
+.rbenv-version
 .yardoc
 Gemfile.lock
 
