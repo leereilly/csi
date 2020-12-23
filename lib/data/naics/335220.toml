@@ -1,0 +1,3 @@
+code = "335220"
+name = "Major Household Appliance Manufacturing"
+sic_correlations = ["3631", "3632", "3633", "3639"]

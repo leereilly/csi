@@ -472,12 +472,12 @@
     [codes.naics.21111]
     name = "Oil and Gas Extraction"
 
-    [codes.naics.211111]
-    name = "Crude Petroleum and Natural Gas Extraction"
+    [codes.naics.211120]
+    name = "Crude Petroleum Extraction"
     sic_correlations = ["1311"]
 
-    [codes.naics.211112]
-    name = "Natural Gas Liquid Extraction"
+    [codes.naics.211130]
+    name = "Natural Gas Extraction"
     sic_correlations = ["2819", "1321"]
 
     [codes.naics.212]
@@ -525,13 +525,9 @@
     [codes.naics.21223]
     name = "Copper, Nickel, Lead, and Zinc Mining"
 
-    [codes.naics.212231]
-    name = "Lead Ore and Zinc Ore Mining"
-    sic_correlations = ["1031"]
-
-    [codes.naics.212234]
-    name = "Copper Ore and Nickel Ore Mining"
-    sic_correlations = ["1021", "1061"]
+    [codes.naics.212230]
+    name = "Copper, Nickel, Lead, and Zinc Mining"
+    sic_correlations = ["1021", "1031", "1061"]
 
     [codes.naics.21229]
     name = "Other Metal Ore Mining"
@@ -2554,17 +2550,13 @@
     [codes.naics.33391]
     name = "Pump and Compressor Manufacturing"
 
-    [codes.naics.333911]
-    name = "Pump and Pumping Equipment Manufacturing"
-    sic_correlations = ["3561", "3743"]
-
     [codes.naics.333912]
     name = "Air and Gas Compressor Manufacturing"
     sic_correlations = ["3563"]
 
-    [codes.naics.333913]
-    name = "Measuring and Dispensing Pump Manufacturing"
-    sic_correlations = ["3586"]
+    [codes.naics.333914]
+    name = "Measuring, Dispensing, and Other Pump Equipment Manufacturing"
+    sic_correlations = ["3561", "3743", "3586"]
 
     [codes.naics.33392]
     name = "Material Handling Equipment Manufacturing"
@@ -2799,21 +2791,9 @@
     [codes.naics.33522]
     name = "Major Appliance Manufacturing"
 
-    [codes.naics.335221]
-    name = "Household Cooking Appliance Manufacturing"
-    sic_correlations = ["3631"]
-
-    [codes.naics.335222]
-    name = "Household Refrigerator and Home Freezer Manufacturing"
-    sic_correlations = ["3632"]
-
-    [codes.naics.335224]
-    name = "Household Laundry Equipment Manufacturing"
-    sic_correlations = ["3633"]
-
-    [codes.naics.335228]
-    name = "Other Major Household Appliance Manufacturing"
-    sic_correlations = ["3639"]
+    [codes.naics.335220]
+    name = "Major Household Cooking Manufacturing"
+    sic_correlations = ["3631", "3632", "3633", "3639"]
 
     [codes.naics.3353]
     name = "Electrical Equipment Manufacturing"
