@@ -4189,12 +4189,8 @@
     [codes.naics.45211]
     name = "Department Stores"
 
-    [codes.naics.452111]
-    name = "Department Stores (except Discount Department Stores)"
-    sic_correlations = ["5311"]
-
-    [codes.naics.452112]
-    name = "Discount Department Stores"
+    [codes.naics.452210]
+    name = "Department Stores"
     sic_correlations = ["5311"]
 
     [codes.naics.4529]
@@ -7930,14 +7926,14 @@
 
     [codes.sic.1021]
     name = "Copper Ores"
-    naics_correlations = ["212234"]
+    naics_correlations = ["212230"]
 
     [codes.sic.103]
     name = "Lead and Zinc Ores"
 
     [codes.sic.1031]
     name = "Lead and Zinc Ores"
-    naics_correlations = ["212231"]
+    naics_correlations = ["212230"]
 
     [codes.sic.104]
     name = "Gold and Silver Ores"
@@ -7955,7 +7951,7 @@
 
     [codes.sic.1061]
     name = "Ferroalloy Ores, except Vanadium"
-    naics_correlations = ["212234", "212299"]
+    naics_correlations = ["212230", "212299"]
 
     [codes.sic.108]
     name = "Metal Mining Services"
@@ -8011,14 +8007,15 @@
 
     [codes.sic.1311]
     name = "Crude Petroleum and Natural Gas"
-    naics_correlations = ["211111"]
+    naics_correlations = ["211120"]
 
     [codes.sic.132]
     name = "Natural Gas Liquids"
+    naics_correlations = ["211130"]
 
     [codes.sic.1321]
     name = "Natural Gas Liquids"
-    naics_correlations = ["211112"]
+    naics_correlations = ["211130"]
 
     [codes.sic.138]
     name = "Oil and Gas Field Services"
@@ -9150,7 +9147,7 @@
 
     [codes.sic.2819]
     name = "Industrial Inorganic Chemicals, Not Elsewhere Classified"
-    naics_correlations = ["325998", "331311", "325188", "325131", "211112"]
+    naics_correlations = ["325998", "331311", "325188", "325131", "211130"]
 
     [codes.sic.282]
     name = "Plastics Materials and Synthetic Resins, Synthetic Rubber, Cellulo"
@@ -10022,7 +10019,7 @@
 
     [codes.sic.3561]
     name = "Pumps and Pumping Equipment"
-    naics_correlations = ["333911"]
+    naics_correlations = ["333914"]
 
     [codes.sic.3562]
     name = "Ball and Roller Bearings"
@@ -10100,7 +10097,7 @@
 
     [codes.sic.3586]
     name = "Measuring and Dispensing Pumps"
-    naics_correlations = ["333913"]
+    naics_correlations = ["333914"]
 
     [codes.sic.3589]
     name = "Service Industry Machinery, Not Elsewhere Classified"
@@ -10361,7 +10358,7 @@
 
     [codes.sic.3743]
     name = "Railroad Equipment"
-    naics_correlations = ["336510", "333911"]
+    naics_correlations = ["336510", "333914"]
 
     [codes.sic.375]
     name = "Motorcycles, Bicycles, and Parts"
@@ -11373,7 +11370,7 @@
 
     [codes.sic.5311]
     name = "Department Stores"
-    naics_correlations = ["452112", "452111"]
+    naics_correlations = ["452210""]
 
     [codes.sic.533]
     name = "Variety Stores"
